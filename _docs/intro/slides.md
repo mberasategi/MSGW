@@ -5,8 +5,9 @@ author: Miren Berasategi
 email: miren.berasategi@deusto.es
 theme: deusto
 revealjs-url: /MSGW/assets/reveal.js
-center: true
 ...
+
+<!-- .slide: class="center" -->
 
 Miren Berasategi
 
@@ -22,5 +23,7 @@ Friday,
 Room 114
 
 ---
+
+<!-- .slide: class="center" -->
 
 What do you expect from this class?
