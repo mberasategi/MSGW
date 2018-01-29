@@ -147,13 +147,13 @@ Taking into account that the final grade is given with one decimal, attendance (
 
 ## Workshops & focus on current events
 
-<div style="font-size:.8em;">
+<div style="font-size:.6em;">
 
 > You have to make stuff. The tools of journalism are in your hands and <span class="highlight">no one is going to give a damn about what is on your resume, they want to see what you have made</span> with your own little fingies. Can you use Final Cut Pro? Have you created an Instagram that is about something besides a picture of your cat every time she rolls over? <span class="highlight">Is HTML 5 a foreign language to you? Is your social media presence dominated by a picture of your beer bong, or is it an RSS of interesting stuff that you add insight to?</span> People who are doing hires will have great visibility into what you can actually do, what you care about and how you can express on any number of platforms.
 
 <figure style="text-align:right;"><figcaption>
-David Carr (NYT), cited in Vox, ‘["Keep typing until it 
-turns into writing": David Carr's invaluable advice for journalists’](http://www.vox.com/2015/2/12/8032265/david-carr-advice)
+David Carr (NYT), cited in Vox, [‘"Keep typing until it 
+turns into writing":<br /> David Carr's invaluable advice for journalists’](http://www.vox.com/2015/2/12/8032265/david-carr-advice)
 </figcaption></figure>
 
 </div>
