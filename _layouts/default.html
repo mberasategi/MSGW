@@ -18,6 +18,20 @@
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <ul id="pages-nav">
+        {% assign mydocs = site.docs | group_by: 'unit' %}
+        {% for cat in mydocs %}
+        <li>{{ cat.name | capitalize }}       
+            <ul>
+              {% assign items = cat.items | sort: 'order' %}
+              {% for item in items %}
+                <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+              {% endfor %}
+            </ul>
+        </li>
+        {% endfor %}
+        </ul>
+        
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
