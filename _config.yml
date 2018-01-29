@@ -1,10 +1,1 @@
 theme: jekyll-theme-minimal
-collections:
-  docs:
-    output: true
-defaults:
-  - scope:
-      path: ""
-      type: "docs"
-    values:
-      layout: "page"
