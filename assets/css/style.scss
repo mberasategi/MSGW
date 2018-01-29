@@ -2,3 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
+
+ul#mainmenu { 
+	height: auto; 
+
+	li {
+		float: none;
+		width: 270px;
+	}
+
+	a {
+		font-size: 1em;
+		text-align: left;
+	}
+}
