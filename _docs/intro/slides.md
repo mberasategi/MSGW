@@ -5,6 +5,7 @@ author: Miren Berasategi
 email: miren.berasategi@deusto.es
 theme: deusto
 revealjs-url: /MSGW/assets/reveal.js
+css: style.css
 ...
 
 ## Production of messages for the web (MSGW) {.center}
