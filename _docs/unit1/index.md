@@ -1,6 +1,6 @@
 ---
 title: Unit 1. The web environment
-permalink: /docs/unit1/index.html
+permalink: /unit1/index.html
 ---
 
 This would be the content on unit 1.
