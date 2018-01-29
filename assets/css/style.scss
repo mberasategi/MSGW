@@ -3,9 +3,18 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i|Roboto:700,700i');
+
+$headerFont:	Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$textFont:		'Noto Serif', Georgia, serif;
+$monospaceFont:	Monaco, monospace;
+
+body { font: 14px/1.1 $textFont; }
+h1, h2, h3, h4, h5, h6 { font-family: $headerFont; }
+
 ul#mainmenu { 
 	height: auto; 
-
+	font-family: $headerFont;
 	li {
 		float: none;
 		width: 270px;
@@ -14,5 +23,6 @@ ul#mainmenu {
 	a {
 		font-size: 1em;
 		text-align: left;
+		padding: 12px;
 	}
 }
