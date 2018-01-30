@@ -8,6 +8,8 @@ revealjs-url: /MSGW/assets/reveal.js
 highlighting-css: section { font-size:.9em !important; } 
 ...
 
+## {.center}
+
 <div style="text-align:center;">
 ### Production of messages <br /> for the web (MSGW)
 
@@ -20,6 +22,8 @@ Office 235 (P.Arrupe, 2nd floor)
 
 ---
 
+## {.center}
+
 <div style="text-align:center;">
 ### Classes
 
@@ -30,6 +34,8 @@ Room 006
 </div>
 
 ---
+
+## {.center}
 
 <div style="text-align:center;">
 What do you expect<br />from this class?
