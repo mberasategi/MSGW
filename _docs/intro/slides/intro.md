@@ -141,11 +141,11 @@ WEINBERGER, David. _Everything is miscellaneous. The power of the new digital di
 
 # Information
 
-## Tools
+---
+## {.center}
 
-ALUD Platform 
-
-Website for the class
+[ALUD Platform](https://alud.deusto.es/course/view.php?id=269)  
+`mrn.bz/msgw-alud`
 
 ## Tutorials
 
