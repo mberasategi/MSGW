@@ -144,7 +144,7 @@ WEINBERGER, David. _Everything is miscellaneous. The power of the new digital di
 ---
 ## {.center}
 
-[ALUD Platform](https://alud.deusto.es/course/view.php?id=269)  
+[ALUD Platform](https://alud.deusto.es/course/view.php?id=269)<br />
 `mrn.bz/msgw-alud` 
 
 ## Tutorials
@@ -184,7 +184,7 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 3. Start your first assignment --- a reading! You will find it explained in the ALUD platform
 4. Make groups of 3-4 people to work throughout the semester (let me know in class or send me an email with the group members)
 
----
+##
 
 ### Assignment 1. Reading
 
@@ -192,7 +192,7 @@ Read [_The Problem with Digital "Natives"_ by Russell Potter](https://web.archiv
 
 Once you read and understood the texts, answer the following questions. We will discuss them in our next class.
 
----
+## 
 
 ### Assignment 1. Reading
 
