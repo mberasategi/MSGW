@@ -5,7 +5,7 @@ author: Miren Berasategi
 email: miren.berasategi@deusto.es
 theme: deusto
 revealjs-url: /MSGW/assets/reveal.js
-higlighting-css: section p, section li { font-size: .9em; } 
+highlighting-css: section { font-size:.9em !important; } 
 ...
 
 <div style="text-align:center;">
