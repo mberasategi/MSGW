@@ -54,7 +54,7 @@ Helps the student acquire a global perspective of the possibilities and communic
 
 CREATIVITY: Addressing and responding well to situations in new and original ways within a given context.
 
-<div class="smaller">
+<div class="small">
 - Level 2 of mastery: Generating original, quality ideas that can be made explicit and defended in known and unknown situations.
     - Proposing original or unconventional ideas.
     - Integrating knowledge from several disciplines, sources or fields to generate novel ideas for known and unknown problems and situations.
@@ -65,13 +65,13 @@ CREATIVITY: Addressing and responding well to situations in new and original way
 
 SC 7: Analysing the possibilities that different languages and mediums offer to the creator of messages.
 
-<div class="smaller">
+<div class="small">
 - 7.4 Analyses expressive possibilities of the multimedia language for the creation of messages.
 </div>
 
 SC 8: Making scripts, messages and contents for the different areas of communication, adapted to their finality and in different mediums.
 
-<div class="smaller">
+<div class="small">
 - 8.4 Makes scripts, messages and contents for the web.
 </div>
 
@@ -79,7 +79,7 @@ SC 8: Making scripts, messages and contents for the different areas of communica
 
 SC 9: Using technical resources for the creation of messages and contents in production processes.
 
-<div class="smaller">
+<div class="small">
 - 9.1 Analyses the creative and communicative possibilities of the techniques and tools involved in the message creation and production process.
 - 9.2 Uses the appropriate technical resources for the informative production processes.
 - 9.4 (b) Uses the appropriate technical resources for multimedia and hypertext edition to create messages.
