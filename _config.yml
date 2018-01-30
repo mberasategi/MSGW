@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+title: "Messages for the web (MSGW)"
 collections:
   docs:
     output: true
