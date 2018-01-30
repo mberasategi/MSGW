@@ -42,7 +42,7 @@ What do you expect<br />from this class?
 
 # Syllabus
 
-## Description
+## Description {.small}
 
 Addresses the different options offered by the web to create messages in different formats.
 
