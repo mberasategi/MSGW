@@ -145,7 +145,7 @@ WEINBERGER, David. _Everything is miscellaneous. The power of the new digital di
 ## {.center}
 
 [ALUD Platform](https://alud.deusto.es/course/view.php?id=269)  
-`mrn.bz/msgw-alud`
+`mrn.bz/msgw-alud` 
 
 ## Tutorials
 
@@ -179,7 +179,24 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 
 ## Warm-up tasks {.small}
 
-1. Make sure you have an OpenDeusto account and remember how to access it. You will need it for the following tasks!
-2. Enrol the ALUD Platform course. Use `msgw2015` as the password when asked.
-3. Start your first assignment -- a reading! You will find it explained in the ALUD platform.
-4. Make groups of 3-4 people to work throughout the semester (let me know in class or send me an email with the group members).
+1. Make sure you have or have requested an OpenDeusto account. You will need it for the following tasks!
+2. Enrol [the ALUD Platform course](http://mrn.bz/msgw-alud). Use `msgw2018` as the password when asked
+3. Start your first assignment --- a reading! You will find it explained in the ALUD platform
+4. Make groups of 3-4 people to work throughout the semester (let me know in class or send me an email with the group members)
+
+---
+
+### Assignment 1. Reading
+
+Read [_The Problem with Digital "Natives"_ by Russell Potter](https://web.archive.org/web/20150611080302/https://medium.com/media-history/the-problem-with-digital-natives-bec3cc91c275) and go to [_Digital Natives, Digital Immigrants_ by Marc Prensky](https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf) to get further background on the "digital immigrant" and "digital native" concepts.
+
+Once you read and understood the texts, answer the following questions. We will discuss them in our next class.
+
+---
+
+### Assignment 1. Reading
+
+1. What's the main idea on the text?
+2. Choose the 2-5 most important ideas to further develop the main idea. Define them briefly and explain how they relate to the main idea.
+3. Do you consider yourself a digital native? Why (apart from your age)?
+4. Do you agree with the limitations the author poses for digital natives? Why/why not?
