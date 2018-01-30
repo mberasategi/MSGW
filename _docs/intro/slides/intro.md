@@ -54,27 +54,38 @@ Helps the student acquire a global perspective of the possibilities and communic
 
 CREATIVITY: Addressing and responding well to situations in new and original ways within a given context.
 
+<div class="smaller">
 - Level 2 of mastery: Generating original, quality ideas that can be made explicit and defended in known and unknown situations.
     - Proposing original or unconventional ideas.
     - Integrating knowledge from several disciplines, sources or fields to generate novel ideas for known and unknown problems and situations.
     - Making ideas explicit through diagrams, equations, etc.
+</div>
 
 ## Competencies (specific)
 
 SC 7: Analysing the possibilities that different languages and mediums offer to the creator of messages.
+
+<div class="smaller">
 - 7.4 Analyses expressive possibilities of the multimedia language for the creation of messages.
+</div>
 
 SC 8: Making scripts, messages and contents for the different areas of communication, adapted to their finality and in different mediums.
+
+<div class="smaller">
 - 8.4 Makes scripts, messages and contents for the web.
+</div>
 
 ## Competencies (specific)
 
 SC 9: Using technical resources for the creation of messages and contents in production processes.
+
+<div class="smaller">
 - 9.1 Analyses the creative and communicative possibilities of the techniques and tools involved in the message creation and production process.
 - 9.2 Uses the appropriate technical resources for the informative production processes.
 - 9.4 (b) Uses the appropriate technical resources for multimedia and hypertext edition to create messages.
+</div>
 
-## Contents
+## Contents {.smaller}
 
 **UNIT 1. The web environment**  What is the web? How the web works. W3C: The World Wide Web Consortium. News on the web.
 
@@ -84,35 +95,38 @@ SC 9: Using technical resources for the creation of messages and contents in pro
 
 **UNIT 4. Communicating in this environment**  How to approach this market/audience. Active listening. Dialogue. Integration.
 
-## Teaching-learning strategy
+## Teaching-learning strategy {.smaller}
 
 Competencies are developed progressively through the 4 thematic units and their knowledge must be conceptual as well as theoretical and practical. Such knowledge will be supervised through review of exercises and activities made by students. They will be worked as follows:
 
 #### 1. Analysis and explanation of contents
 The teacher will coordinate the development of the syllabus in face-to-face classes, presenting and analysing concepts, arguments and basic analysis that each student must prepare and widen, individually or in groups, to follow each one of the face-to-face classes.
 
-## Teaching-learning strategy
+## Teaching-learning strategy {.smaller}
 
 #### 2. Activities
 Students will carry out eight activities (two for each unit) throughout the term, to apply the knowledge and abilities of the subject. There will be individual and group activities of different kinds: debates in class, case resolution, presentations to the class, tutorials and a final exam.
 
 Of the 8 scheduled activities, four will be made in class and they will later be commented and evaluated, also in class. The four activities corresponding to the active experimentation of each unit (activities 2, 4, 6 and 8) will be started in class and will be developed outside the classroom. They will later be evaluated and graded, and suggestions will be offered for improvement. Specific instructions for each activity will be available to students.
 
-## Assessment
+## Assessment {.smaller}
 
 The following evidences are used for the assessment and grading of this subject:
 
+<div class="small">
 - A **final exam**, making up to 40% of the final grade. This exam consists of two parts:
     - Objective test: 20% of the grade
     - Practical test: 20% of the grade
 - **Individual activities** making up to 15% of the final grade
 - **Group activities** making up to 45% of the final grade
+</div>
 
 To obtain a pass grade, all parts must be passed (group activities, individual activities and final exam). The extra exam session will require to pass the parts failed in the previous session.
 
-## Basic documentation
+## Basic documentation {.smallest}
 
 ANDERSON, Chris. _The Long-Tail Economy. Why the future of business is selling less of more_
+
 GILLMOR, Dan. _We the media_. USA: O’Reilly, 2006
 
 LEVINE, Rick, et al. _The Cluetrain Manifesto.The end of business as usual_. New York: Basic Books, 2001
@@ -141,7 +155,7 @@ It is compulsory to **schedule an appointment** for tutorials through the class 
 
 **Email** or **instant messaging** may also be used for any inquiry (miren.berasategi@deusto.es), as well as the discussion board, where you can also **try and answer questions from your fellow students**.
 
-## Attendance
+## Attendance {.small}
 
 You will be asked to sign a list every class in order to take attendance. There are **no specific grades given for attendance**, but it will be used to round off the final grade as follows:
 
@@ -163,7 +177,7 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 
 </div>
 
-## Warm-up tasks
+## Warm-up tasks {.small}
 
 1. Make sure you have an OpenDeusto account and remember how to access it. You will need it for the following tasks!
 2. Enrol the ALUD Platform course. Use `msgw2015` as the password when asked.
