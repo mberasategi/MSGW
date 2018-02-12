@@ -64,6 +64,12 @@ css: style.css
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -92,6 +98,9 @@ css: style.css
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -151,6 +160,12 @@ css: style.css
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -179,6 +194,9 @@ css: style.css
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -240,6 +258,12 @@ css: style.css
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -268,6 +292,9 @@ css: style.css
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -337,6 +364,12 @@ css: style.css
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -365,6 +398,9 @@ css: style.css
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -443,6 +479,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -471,6 +513,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -530,6 +575,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -558,6 +609,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -619,6 +673,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -647,6 +707,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -708,6 +771,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -736,6 +805,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -795,6 +867,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -823,6 +901,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -882,6 +963,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -910,6 +997,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -971,6 +1061,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -999,6 +1095,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1060,6 +1159,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -1088,6 +1193,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1147,6 +1255,12 @@ His NeXT computer
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -1175,6 +1289,9 @@ His NeXT computer
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1236,6 +1353,12 @@ x generation
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -1264,6 +1387,9 @@ x generation
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1325,6 +1451,12 @@ x generation
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -1353,6 +1485,9 @@ x generation
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1412,6 +1547,12 @@ x generation
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -1440,6 +1581,9 @@ x generation
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1509,6 +1653,12 @@ video sharing
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -1537,6 +1687,9 @@ video sharing
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1596,6 +1749,12 @@ video sharing
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -1624,6 +1783,9 @@ video sharing
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1685,6 +1847,12 @@ video sharing
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">1984</td>
@@ -1713,6 +1881,9 @@ video sharing
 <td colspan="2">&nbsp;</td>
 <td colspan="2">&nbsp;</td>
 <td colspan="2">2009</td>
+<td colspan="2">&nbsp;</td>
+<td colspan="2">2011</td>
+<td colspan="2">&nbsp;</td>
 </tr>
 </table>
 
@@ -1827,6 +1998,8 @@ https://www.livescience.com/20727-internet-history.html
 https://www.w3.org/webat25/
 
 http://www.telegraph.co.uk/technology/0/history-of-the-world-wide-web---25-years-in-25-pictures/
+
+https://www.w3.org/People/Berners-Lee/Kids.html
 
 <table class="timeline">
 <tr>
