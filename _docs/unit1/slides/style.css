@@ -1,5 +1,9 @@
-#title-slide h1 { font-size:2em; text-align:left; padding-left:20px; padding-right:20px; padding-bottom:10px; line-height:.8em;}
+#title-slide h1 { font-size:2em; /* text-align:left; */padding-left:20px; padding-right:20px; padding-bottom:10px; line-height:.8em;}
 #title-slide h1:first-line, .bottomL .title:first-line { font-size:.6em; }
 .bottomL .title { width:300px; }
-#title-slide p.subtitle { text-align:left; padding-left:20px; }
+#title-slide p.subtitle { /*text-align:left;*/ padding-left:20px; }
 .reveal blockquote {width:90%; font-style:normal; color:#444; font-size:.8em;}
+table.timeline {width:100%;font-family:'Frutiger LT Std', Montserrat, sans-serif; font-size:10px;color:#999;position:absolute;top:0;}
+table.timeline td {text-align:center;}
+table.timeline tr:first-child td {font-size:3px;}
+td.timeline {background-color:#999;}
