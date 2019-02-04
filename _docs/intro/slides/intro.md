@@ -4,6 +4,7 @@ subtitle: Production of messages for the web
 author: Miren Berasategi
 email: miren.berasategi@deusto.es
 theme: deusto
+deusto: true
 revealjs-url: /MSGW/assets/reveal.js
 template: ../assets/reveal.js/default.revealjs
 ...
