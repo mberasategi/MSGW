@@ -5,6 +5,7 @@ author: Miren Berasategi
 email: miren.berasategi@deusto.es
 theme: deusto
 revealjs-url: /MSGW/assets/reveal.js
+template: ../assets/reveal.js/default.revealjs
 ...
 
 ## {.center}
@@ -26,10 +27,10 @@ Office 235 (P.Arrupe, 2nd floor)
 <div style="text-align:center;">
 ### Classes
 
-Tuesdays, 10:00 - 12:00 <br />
-Fridays, 8:00 - 10:00
+Mondays, 9:00 - 11:00 <br />
+Thursdays, 11:00 - 13:00
 
-Room 006
+Room 013
 </div>
 
 ---
@@ -91,7 +92,7 @@ SC 9: Using technical resources for the creation of messages and contents in pro
 
 **UNIT 2. Creation on the web**  Information architecture. Aspects to have in mind: usability, accessibility. 
 
-**UNIT 3. The user as content creator**  The Long Tail economy. Democratization of production tools. Online reputation. Organizing without organization. Collective intelligence.
+**UNIT 3. Writing for the web**  A new way of reading. Text planning for screen reading. Text presentation strategies. Search Engine Optimization.
 
 **UNIT 4. Communicating in this environment**  How to approach this market/audience. Active listening. Dialogue. Integration.
 
@@ -105,9 +106,9 @@ The teacher will coordinate the development of the syllabus in face-to-face clas
 ## Teaching-learning strategy {.smaller}
 
 #### 2. Activities
-Students will carry out eight activities (two for each unit) throughout the term, to apply the knowledge and abilities of the subject. There will be individual and group activities of different kinds: debates in class, case resolution, presentations to the class, tutorials and a final exam.
+Students will carry out eight activities (two for each unit) throughout the term, to apply the knowledge and abilities of the subject. There will be individual and group activities of different kinds: debates in class, projects, presentations to the class, tutorials and a final exam.
 
-Of the 8 scheduled activities, four will be made in class and they will later be commented and evaluated, also in class. The four activities corresponding to the active experimentation of each unit (activities 2, 4, 6 and 8) will be started in class and will be developed outside the classroom. They will later be evaluated and graded, and suggestions will be offered for improvement. Specific instructions for each activity will be available to students.
+Of the scheduled activities, some will be made in class and they will later be commented and evaluated, also in class. The four activities corresponding to the active experimentation of each unit (projects 1, 2, 3 and 4) will be started in class and will be developed outside the classroom. They will later be evaluated and graded, and suggestions will be offered for improvement. Specific instructions for each assignment will be available to students.
 
 ## Assessment {.smaller}
 
@@ -118,7 +119,7 @@ The following evidences are used for the assessment and grading of this subject:
     - Objective test: 20% of the grade
     - Practical test: 20% of the grade
 - **Individual activities** making up to 15% of the final grade
-- **Group activities** making up to 45% of the final grade
+- **Team projects** making up to 45% of the final grade
 </div>
 
 To obtain a pass grade, all parts must be passed (group activities, individual activities and final exam). The extra exam session will require to pass the parts failed in the previous session.
@@ -144,12 +145,11 @@ WEINBERGER, David. _Everything is miscellaneous. The power of the new digital di
 ---
 ## {.center}
 
-[ALUD Platform](https://alud.deusto.es/course/view.php?id=269)<br />
-`mrn.bz/msgw-alud` 
+[ALUD Platform](https://alud.deusto.es/course/view.php?id=5698)
 
 ## Tutorials
 
-The hours for face-to-face tutorials are Tuesdays and Fridays after class
+The hours for face-to-face tutorials are Mondays and Thursdays in the afternoon.
 
 It is compulsory to **schedule an appointment** for tutorials through the class website, at least two days in advance. 
 
@@ -180,9 +180,10 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 ## Warm-up tasks {.small}
 
 1. Make sure you have or have requested an OpenDeusto account. You will need it for the following tasks!
-2. Enrol [the ALUD Platform course](http://mrn.bz/msgw-alud). Use `msgw2018` as the password when asked
+2. Check enrollment in [the ALUD Platform course](https://alud.deusto.es/course/view.php?id=5698)
 3. Start your first assignment --- a reading! You will find it explained in the ALUD platform
-4. Make groups of 3-4 people to work throughout the semester (let me know in class or send me an email with the group members)
+4. Make groups of 3-4 people to work throughout the semester (let me know in class or send me an email with the group members ASAP)
+5. Fill in the Handout for student profile identification
 
 ##
 
