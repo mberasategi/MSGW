@@ -190,9 +190,9 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 
 ### Assignment 1. Reading
 
-Read [_The Problem with Digital "Natives"_ by Russell Potter](https://web.archive.org/web/20150611080302/https://medium.com/media-history/the-problem-with-digital-natives-bec3cc91c275) and go to [_Digital Natives, Digital Immigrants_ by Marc Prensky](https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf) to get further background on the "digital immigrant" and "digital native" concepts.
+Read _The myths of the digital native and the multitasker_ by Kirschner and De Bruyckere to understand the term "digital native" and their relationship with multitasking.
 
-Once you read and understood the texts, answer the following questions. We will discuss them in our next class.
+Once you read and understood the text, answer the following questions. We will discuss them in our next class.
 
 ## 
 
@@ -201,4 +201,4 @@ Once you read and understood the texts, answer the following questions. We will 
 1. What's the main idea on the text?
 2. Choose the 2-5 most important ideas to further develop the main idea. Define them briefly and explain how they relate to the main idea.
 3. Do you consider yourself a digital native? Why (apart from your age)?
-4. Do you agree with the limitations the author poses for digital natives? Why/why not?
+4. Do you agree with the authors main point? Why/why not?
