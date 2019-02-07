@@ -12,8 +12,9 @@ td.timeline {background-color:#999;}
   opacity: 1;
   visibility: inherit;
   padding: 0 .25em !important; 
+  background-color:transparent !important;
 }
 
 .reveal .slides section .fragment.highlighted.visible {
-  background-color: #FEF595;
+  background-color: #FEF595 !important;
 }
