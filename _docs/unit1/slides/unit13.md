@@ -21,7 +21,7 @@ Led by Web inventor Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to *
 
 The W3C's mission is to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web. Below we discuss important aspects of this mission, all of which further W3C's vision of **One Web**.
 
-<table class="small"><tr><td> 
+<table class="smaller"><tr><td> 
 
 Design principles
 
@@ -73,12 +73,12 @@ W3C’s mission includes ensuring that the Web be available on as many kind of d
 
 ## Design principles: <br />Web on everything
 
-<div class="small">
+<div class="smaller">
 
 - [mobile Web applications](http://www.w3.org/standards/techs/mobileapp) can take full advantage of the technical progress in the Open Web Platform, including [HTML5](http://www.w3.org/standards/techs/html), [CSS3](http://www.w3.org/standards/techs/css), numerous JavaScript APIs — in particular device APIs who allow deeper integration with the hosting device; see the [list of Standards for Web Applications on Mobile](http://www.w3.org/Mobile/mobile-web-app-state/);
 - [W3C widgets](http://www.w3.org/standards/techs/widgets) offer a packaging format to distribute Web-based applications;
-- <span class="fragment highlighted">the [Mobile Web Best Practices](http://www.w3.org/TR/mobile-bp) and the [Mobile Web Application Best Practices](http://www.w3.org/TR/mwabp) offer guidance to developers on how to create content and applications that work well on mobile devices;</span>
-- <span class="fragment highlighted">mobile devices are available in areas of the World where computers and fixed Internet access won’t be available for long if ever: W3C is also exploring ways to use the [Web on mobile devices to bridge the digital divide](http://www.w3.org/2008/MW4D/);</span>
+- <span class="fragment grow">the [Mobile Web Best Practices](http://www.w3.org/TR/mobile-bp) and the [Mobile Web Application Best Practices](http://www.w3.org/TR/mwabp) offer guidance to developers on how to create content and applications that work well on mobile devices;</span>
+- <span class="fragment grow">mobile devices are available in areas of the World where computers and fixed Internet access won’t be available for long if ever: W3C is also exploring ways to use the [Web on mobile devices to bridge the digital divide](http://www.w3.org/2008/MW4D/);</span>
 - see also [how to design Web sites that are both accessible and mobile-friendly](http://www.w3.org/WAI/mobile/).
 
 </div>
