@@ -28,8 +28,8 @@ Office 235 (P.Arrupe, 2nd floor)
 <div style="text-align:center;">
 ### Classes
 
-Mondays, 9:00 - 11:00 <br />
-Thursdays, 11:00 - 13:00
+Mondays, 9:00 - 10:40 <br />
+Thursdays, 11:00 - 12:40
 
 Room 013
 </div>
@@ -107,9 +107,12 @@ The teacher will coordinate the development of the syllabus in face-to-face clas
 ## Teaching-learning strategy {.smaller}
 
 #### 2. Activities
+
+<div class="small">
 Students will carry out eight activities (two for each unit) throughout the term, to apply the knowledge and abilities of the subject. There will be individual and group activities of different kinds: debates in class, projects, presentations to the class, tutorials and a final exam.
 
 Of the scheduled activities, some will be made in class and they will later be commented and evaluated, also in class. The four activities corresponding to the active experimentation of each unit (projects 1, 2, 3 and 4) will be started in class and will be developed outside the classroom. They will later be evaluated and graded, and suggestions will be offered for improvement. Specific instructions for each assignment will be available to students.
+</div>
 
 ## Assessment {.smaller}
 
