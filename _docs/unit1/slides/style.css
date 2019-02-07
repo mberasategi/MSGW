@@ -7,3 +7,13 @@ table.timeline {width:100%;font-family:'Frutiger LT Std', Montserrat, sans-serif
 table.timeline td {text-align:center;}
 table.timeline tr:first-child td {font-size:3px;}
 td.timeline {background-color:#999;}
+
+.reveal .slides section .fragment.highlighted {
+  opacity: 1;
+  visibility: inherit;
+  padding: 0 .25em !important; 
+}
+
+.reveal .slides section .fragment.highlighted.visible {
+  background-color: #FEF595;
+}
