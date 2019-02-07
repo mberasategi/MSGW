@@ -21,7 +21,7 @@ Led by Web inventor Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to *
 
 The W3C's mission is to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web. Below we discuss important aspects of this mission, all of which further W3C's vision of **One Web**.
 
-<table><tr><td> 
+<table class="small"><tr><td> 
 
 Design principles
 
@@ -38,11 +38,13 @@ Vision
 
 </td></tr></table>
 
-<figure><figcaption>More in http://www.w3.org/Consortium/mission</figcaption></figure>
+<figure style="text-align:right;"><figcaption>More in http://www.w3.org/Consortium/mission</figcaption></figure>
 
 ## Design principles: Web for all
 
+<div class="small">
 The social value of the Web is that it enables human communication, commerce, and opportunities to share knowledge. One of W3C's primary goals is to make these benefits available to all people, whatever their hardware, software, network infrastructure, native language, culture, geographical location, or physical or mental ability. 
+</div>
 
 - [Web Accessibility Initiative](http://www.w3.org/WAI/)
 - [Internationalization](http://www.w3.org/International/)
@@ -50,7 +52,7 @@ The social value of the Web is that it enables human communication, commerce, an
 
 ## Design principles: Web for all
 
-<blockquote style="margin-top:1em;">
+<blockquote style="margin-top:2em;">
     <p>The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.</p>
 </blockquote>
 
@@ -71,15 +73,21 @@ W3C’s mission includes ensuring that the Web be available on as many kind of d
 
 ## Design principles: <br />Web on everything
 
+<div class="small">
+
 - [mobile Web applications](http://www.w3.org/standards/techs/mobileapp) can take full advantage of the technical progress in the Open Web Platform, including [HTML5](http://www.w3.org/standards/techs/html), [CSS3](http://www.w3.org/standards/techs/css), numerous JavaScript APIs — in particular device APIs who allow deeper integration with the hosting device; see the [list of Standards for Web Applications on Mobile](http://www.w3.org/Mobile/mobile-web-app-state/);
 - [W3C widgets](http://www.w3.org/standards/techs/widgets) offer a packaging format to distribute Web-based applications;
-- <span class="fragment highlight-red">the [Mobile Web Best Practices](http://www.w3.org/TR/mobile-bp) and the [Mobile Web Application Best Practices](http://www.w3.org/TR/mwabp) offer guidance to developers on how to create content and applications that work well on mobile devices;</span>
-- <span class="fragment highlight-red">mobile devices are available in areas of the World where computers and fixed Internet access won’t be available for long if ever: W3C is also exploring ways to use the [Web on mobile devices to bridge the digital divide](http://www.w3.org/2008/MW4D/);</span>
+- <span class="fragment highlighted">the [Mobile Web Best Practices](http://www.w3.org/TR/mobile-bp) and the [Mobile Web Application Best Practices](http://www.w3.org/TR/mwabp) offer guidance to developers on how to create content and applications that work well on mobile devices;</span>
+- <span class="fragment highlighted">mobile devices are available in areas of the World where computers and fixed Internet access won’t be available for long if ever: W3C is also exploring ways to use the [Web on mobile devices to bridge the digital divide](http://www.w3.org/2008/MW4D/);</span>
 - see also [how to design Web sites that are both accessible and mobile-friendly](http://www.w3.org/WAI/mobile/).
+
+</div>
 
 ## Vision: Web for rich interaction
 
+<div class="small">
 The Web was invented as a communications tool intended to allow anyone, anywhere to share information. For many years, the Web was a "read-only" tool for many. Blogs and wikis brought more authors to the Web, and social networking emerged from the flourishing market for content and personalized Web experiences. W3C standards have supported this evolution thanks to strong architecture and design principles. 
+</div>
 
 - [Web Design and Applications](http://www.w3.org/standards/webdesign/)
 - [Web Architecture](http://www.w3.org/standards/webarch/)
