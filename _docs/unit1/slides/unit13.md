@@ -4,6 +4,7 @@ subtitle: 1.3 The W3C<br />Leading the web to its full potential
 theme: deusto
 revealjs-url: ../../../assets/reveal.js
 css: style.css
+deusto: true
 ...
 
 ## What is the W3C?
@@ -12,31 +13,30 @@ The World Wide Web Consortium (W3C) is an **international community** where Memb
 
 During its first moments, the W3C formed a neutral and facilitating forum, as well as contributing technically qualified staff, that allowed to generate consensus among developers on how to advance. 
 
+## What is the W3C?
+
 Led by Web inventor Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to **lead the Web to its full potential**. 
 
 ## W3C mission
 
 The W3C's mission is to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web. Below we discuss important aspects of this mission, all of which further W3C's vision of **One Web**.
 
-<table>
-    <tr>
-        <td> 
+<table><tr><td> 
+
 Design principles
 
 - Web for all
 - Web on everything
 
-        </td>
-        <td>
+</td><td>
+
 Vision
 
 - Web for rich interaction
 - Web of data and services
 - Web of trust
 
-        </td>
-    </tr>
-</table>
+</td></tr></table>
 
 <figure><figcaption>More in http://www.w3.org/Consortium/mission</figcaption></figure>
 
@@ -50,14 +50,14 @@ The social value of the Web is that it enables human communication, commerce, an
 
 ## Design principles: Web for all
 
-<blockquote>
+<blockquote style="margin-top:1em;">
     <p>The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect.</p>
 </blockquote>
 
-<figure><figcaption>&mdash; [Tim Berners-Lee](http://www.w3.org/People/Berners-Lee/), W3C Director and inventor of the World Wide Web
+<figure style="text-align:right;"><figcaption>&mdash; [Tim Berners-Lee](http://www.w3.org/People/Berners-Lee/), W3C Director and inventor of the World Wide Web
 </figcaption></figure>
 
-## Design principles: Web on everything
+## Design principles: <br />Web on everything
 
 The number of different kinds of devices that can access the Web has grown immensely. Mobile phones, smart phones, personal digital assistants, interactive television systems, voice response systems, kiosks and even certain domestic appliances can all access the Web. 
 
@@ -65,9 +65,11 @@ The number of different kinds of devices that can access the Web has grown immen
 - [Mobile Web Initiative](http://www.w3.org/Mobile/)
 - [Browsers and Other Agents](http://www.w3.org/standards/agents/Overview.html)
 
-## Design principles: Web on everything
+## Design principles: <br />Web on everything
 
 W3C’s mission includes ensuring that the Web be available on as many kind of devices as possible. With the surge of powerful mobile devices in the past few years, the role of the Web as a platform for content, applications and services on these devices is increasingly important.
+
+## Design principles: <br />Web on everything
 
 - [mobile Web applications](http://www.w3.org/standards/techs/mobileapp) can take full advantage of the technical progress in the Open Web Platform, including [HTML5](http://www.w3.org/standards/techs/html), [CSS3](http://www.w3.org/standards/techs/css), numerous JavaScript APIs — in particular device APIs who allow deeper integration with the hosting device; see the [list of Standards for Web Applications on Mobile](http://www.w3.org/Mobile/mobile-web-app-state/);
 - [W3C widgets](http://www.w3.org/standards/techs/widgets) offer a packaging format to distribute Web-based applications;
@@ -92,7 +94,9 @@ Some people view the Web as a giant repository of linked data while others as a 
 
 ## Vision: Web of trust
 
+<div class="small">
 The Web has transformed the way we communicate with each other. In doing so, it has also modified the nature of our social relationships. People now "meet on the Web" and carry out commercial and personal relationships, in some cases without ever meeting in person. W3C recognizes that trust is a social phenomenon, but technology design can foster trust and confidence. As more activity moves on-line, it will become even more important to support complex interactions among parties around the globe. 
+</div>
 
 - [Semantic Web](http://www.w3.org/standards/semanticweb/) <span class="fragment">&larr; linked data</span>
 - [XML Security, Web of Services Security](http://www.w3.org/standards/xml/security)
