@@ -15,7 +15,7 @@ During its first moments, the W3C formed a neutral and facilitating forum, as we
 
 ## What is the W3C?
 
-![](img/w3c.jpg)
+![The World Wide Web Consortium](img/w3c.jpg){width="350"}
 
 Led by Web inventor Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to **lead the Web to its full potential**. 
 
