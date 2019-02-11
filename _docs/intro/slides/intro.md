@@ -122,8 +122,8 @@ The following evidences are used for the assessment and grading of this subject:
 - A **final exam**, making up to 40% of the final grade. This exam consists of two parts:
     - Objective test: 20% of the grade
     - Practical test: 20% of the grade
-- **Individual activities** making up to 15% of the final grade
-- **Team projects** making up to 45% of the final grade
+- **Individual activities** making up to 20% of the final grade
+- **Team projects** making up to 40% of the final grade
 </div>
 
 To obtain a pass grade, all parts must be passed (group activities, individual activities and final exam). The extra exam session will require to pass the parts failed in the previous session.
