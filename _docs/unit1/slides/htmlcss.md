@@ -2,8 +2,10 @@
 title: HTML & CSS
 subtitle: Production of messages for the web
 theme: deusto
-revealjs-url: ../../../assets/reveal.js
 syntax-highlighting: true
+deusto: true
+revealjs-url: /MSGW/assets/reveal.js
+template: ../assets/reveal.js/default.revealjs
 ...
 
 <div class="center">
@@ -113,14 +115,11 @@ Text content with <important>some words</important> highlighted for emphasis.
 
 ### Set up your HTML&CSS<br />learning environment
 
-1. Sign in to [Codecademy](http://codecademy.com/)
-    - Use your real name as a username
-    - In your Account Settings, enter (at least) your name and profile picture
-    - Leave your profile visible for everyone
-5. Follow the [HTML & CSS track](http://www.codecademy.com/en/tracks/web)
-6. Let me know about your username
-7. Check your position in the [Codecademy Ranking 2018](http://mrn.bz/coderanking2018)
+1. Sign in to [Codecademy](http://codecademy.com/) (leave your profile visible for everyone)
+5. Follow the [Introduction to HTML](https://www.codecademy.com/learn/learn-html), [Learn CSS](https://www.codecademy.com/learn/learn-css) and [Make a Website](https://www.codecademy.com/learn/make-a-website) to get yourself started 
+6. Let me know about your username if you want to get extra marks for your advance 
 
+<!--
 ---
 
 ### How this is going to be assessed
@@ -128,3 +127,5 @@ Text content with <important>some words</important> highlighted for emphasis.
 - You will use these skills for A4 
 - Finishing the HTML & CSS track in Codecademy is **compulsory** (if you don’t, you will lose marks in your grade for A4) 
 - You can **optionally** follow other courses on web development such as [Make a website](http://www.codecademy.com/en/skills/make-a-website) or [Make an interactive website](http://www.codecademy.com/en/skills/make-an-interactive-website), or even learn other languages such as [JavaScript](http://www.codecademy.com/en/tracks/javascript), [PHP](http://www.codecademy.com/en/tracks/php) or [Python](http://www.codecademy.com/en/tracks/python). Finishing those will give you extra marks in your final individual grade.
+
+-->
