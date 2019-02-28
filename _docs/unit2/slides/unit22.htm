@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>UNIT 2 Creation on the web</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../../../assets/reveal.js/css/reveal.css">
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="../../../assets/reveal.js/css/theme/deusto.css" id="theme">
+  <link rel="stylesheet" href="style.css"/>
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? '../../../assets/reveal.js/css/print/pdf.css' : '../../../assets/reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="../../../assets/reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+  <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+</head>
+<body>
+
+  <div class="reveal">
+    <div class="slides">
+      
+            <div class="static">
+        <div class="bottomR"><img src="../../../assets/reveal.js/logo-deusto.png" alt="Universidad de Deusto" /></div>
+        <div class="bottomL">
+                                <div class="title">UNIT 2<br />Creation on the web</div>
+                  </div>
+      </div>
+            
+<section id="title-slide">
+  <h1 class="title">UNIT 2<br />Creation on the web</h1>
+  <p class="subtitle">2.2 The website development process</p>
+</section>
+
+<section class="slide level3">
+
+<div style="height:2em;">
+ 
+</div>
+<ol type="1">
+<li>Conceptualize and research</li>
+<li>Create and organize content</li>
+<li>Develop the “look and feel”</li>
+<li>Produce a working prototype</li>
+<li>Test</li>
+<li>Launch</li>
+<li>Maintain</li>
+</ol>
+<div class="fragment" style="font-size: .6em;
+background-color:rgba(255,255,255,.8);
+position: absolute;
+top: 0;
+left: 0;
+padding:5em;
+padding-top:10em;
+text-align:center;font-family:&#39;Montserrat&#39;">
+<p>Note:<br /> Depending on the nature and scale of the site, these steps will vary in sequence, proportion, number of people required, and even in concept. <br />But in essence, they are the aspects of a typical journey in the creation of a site.</p>
+</div>
+</section>
+<section><section id="conceptualize-and-research" class="title-slide slide level2" data-transition="slide-in fade-out"><h2>1. Conceptualize and research</h2></section><section class="slide level3">
+
+<h2>
+<ol type="1">
+<li>Conceptualize and research
+</h2></li>
+</ol>
+<div class="center" style="margin-top:2em;">
+<p>idea</p>
+<div class="fragment small" style="font-family:&#39;Satisfy&#39;;color:#666;">
+brainstorm<br />
+
+<div style="width:50px;display:inline-block;color:#ccc;margin-top:-.5em;">
+<span class="db color-inherit link hover-indigo" data-balloon="size: 2x" data-balloon-pos="up"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-double-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-double-down fa-w-10 fa-2x"><path fill="currentColor" d="M143 256.3L7 120.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0L313 86.3c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.4 9.5-24.6 9.5-34 .1zm34 192l136-136c9.4-9.4 9.4-24.6 0-33.9l-22.6-22.6c-9.4-9.4-24.6-9.4-33.9 0L160 352.1l-96.4-96.4c-9.4-9.4-24.6-9.4-33.9 0L7 278.3c-9.4 9.4-9.4 24.6 0 33.9l136 136c9.4 9.5 24.6 9.5 34 .1z" class=""></path></svg></span>
+</div>
+</div>
+<p><span class="fragment">how is this going to<br />
+manifest itself as a website?</span></p>
+<p><span class="smaller fragment" style="font-family:Satisfy, cursive;">list, sketches, whiteboards, notebooks</span></p>
+</div>
+</section><section class="slide level3">
+
+<h2>
+<ol type="1">
+<li>Conceptualize and research
+</h2></li>
+</ol>
+<div style="height:2em">
+ 
+</div>
+<p>Involves asking your client (or yourself) a number of questions regarding <strong>resources</strong>, <strong>goals</strong>, and, most importantly, <strong>audience</strong>.</p>
+</section><section id="some-questions-before-you-begin" class="slide level3">
+<h3>Some questions before you begin</h3>
+<div class="box">
+<div class="col-left smallest" style="font-family:&#39;Fira Mono&#39;;">
+<p>Strategy</p>
+<ul>
+<li>Why are you creating this web site? What do you expect to accomplish?</li>
+<li>What are you offering your audience?</li>
+<li>What do you want users to do on your web site?</li>
+<li>After they’ve left?</li>
+<li>What brings your visitors back?</li>
+</ul>
+<p>General Site Description</p>
+<ul>
+<li>What kind of site is it? (Purely promotional? Info-gathering? A publication? A point of sale?)</li>
+<li>What features will it have?</li>
+<li>What are your most important messages?</li>
+<li>Who are your competitors? What are they doing right? What could be improved upon?</li>
+</ul>
+</div>
+<div class="col-right smallest" style="font-family:&#39;Fira Mono&#39;;">
+<p>Target Audience</p>
+<ul>
+<li>Who is your primary audience?</li>
+<li>How Internet-savvy are they? How technically savvy?</li>
+<li>Can you make assumptions about an average user’s connection speed? Platform? Monitor size? Browser use?</li>
+<li>How often do you expect them to visit your site? How long will they stay during an average visit?</li>
+</ul>
+<p>Content</p>
+<ul>
+<li>Who is responsible for generating original content?</li>
+<li>How will content be submitted (process and format)?</li>
+<li>How often will the information be updated (daily, weekly, monthly)?</li>
+</ul>
+</div>
+<div class="clear">
+
+</div>
+</div>
+<div class="smaller right">
+<p>continues ↓</p>
+</div>
+</section><section id="some-questions-before-you-begin-1" class="slide level3">
+<h3>Some questions before you begin</h3>
+<div class="smaller">
+<p>↑ comes from</p>
+</div>
+<div class="box">
+<div class="col-left smallest" style="font-family:&#39;Fira Mono&#39;;">
+<p>Resources</p>
+<ul>
+<li>What resources have you dedicated to the site (budget, staff, time)?</li>
+<li>Does the site require a full content management system?</li>
+<li>Can maintenance be handled by the client’s staff?</li>
+<li>Do you have a server for your site?</li>
+<li>Have you registered a domain name for your site?</li>
+</ul>
+</div>
+<div class="col-right smallest" style="font-family:&#39;Fira Mono&#39;;">
+<p>Graphic Look and Feel</p>
+<ul>
+<li>Are you envisioning a certain look and feel for the site?</li>
+<li>Do you have existing standards, such as logos and colors, that must be incorporated?</li>
+<li>Is the site part of a larger site or group of sites with design standards that need to be matched?</li>
+<li>What are some other web sites you like? What do you like about them? What sites do you not like?</li>
+</ul>
+</div>
+<div class="clear">
+
+</div>
+</div>
+</section></section>
+<section><section id="create-and-organize-content" class="title-slide slide level2" data-transition="slide-in fade-out"><h2>2. Create and organize content</h2></section><section class="slide level3">
+
+<h2>
+<ol start="2" type="1">
+<li>Create and organize content
+</h2></li>
+</ol>
+<p>The most important part of a web site is its <strong>content</strong>.</p>
+<div class="fragment small">
+<p>Who will be responsible for generating the content? Ideally, the client is responsible for generating its own content and will allocate the appropriate resources to do so.</p>
+</div>
+<p><span class="fragment"> It must be <strong>organised</strong> so it will be easily and intuitively accessible to your audience… </span></p>
+</section><section class="slide level3">
+
+<div class="center sans" style="font-weight:bold;font-size:1.5em;">
+<p><span class="smallest" style="color:#2a76dd;">KEY CONCEPT:</span></p>
+<p>Information<br />
+Architecture</p>
+<p><span class="fragment smallest" style="font-family:&#39;Fira Mono&#39;, monospace;font-weight:normal;">a.k.a. IA</span></p>
+</div>
+</section><section id="information-architecture-ia" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p>According to Louis Rosenfeld and Peter Morville:</p>
+<div class="sans" style="margin-top:1.5em;">
+1.
+</div>
+<p>The combination of <span class="fragment highlighted" data-fragment-index="1">organization, labelling, and navigation</span> schemes within an <span class="fragment highlighted" data-fragment-index="1">information</span> system.</p>
+<figure style="text-align:right;margin-top:2em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-1" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<div class="col-left" style="text-align:right;width:45%;">
+<p>information architecture</p>
+<p><span class="smallest"> <em>knowledge</em> is the stuff in people’s heads: <em>information</em> is in the middle<br />
+there’s often no single “right” answer to a given question </span></p>
+</div>
+<div class="center" style="float:left;">
+<p>    ≠   </p>
+</div>
+<div class="col-right" style="width:45%;">
+<p>data management</p>
+<p><span class="smallest"> facts &amp; figures<br />
+relational databases: highly structured produce specific answers for specific questions </span></p>
+</div>
+<figure style="text-align:right;padding-top:2em;font-size:.7em;clear:both;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-2" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p><strong>structuring</strong> <span class="small">determining the appropriate levels of granularity for the information atoms in the site, and deciding how to relate them to one another.</span></p>
+<p><strong>organising</strong> <span class="small">grouping those components into meaningful and distinctive categories.</span></p>
+<p><strong>labeling</strong> <span class="small">figuring out what to call those categories and the series of navigation links that lead to them.</span></p>
+<figure style="text-align:right;margin-top:1em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-3" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p>According to Louis Rosenfeld and Peter Morville:</p>
+<div class="sans" style="margin-top:1.5em;">
+2.
+</div>
+<p>The structural design of an information space to facilitate task completion and intuitive access to content.</p>
+<figure style="text-align:right;margin-top:2em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-4" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p>According to Louis Rosenfeld and Peter Morville:</p>
+<div class="sans" style="margin-top:1.5em;">
+3.
+</div>
+<p>The <span class="highlighted fragment" data-fragment-index="1">art and science</span> of structuring and classifying web sites and intranets to help people <span class="highlighted fragment" data-fragment-index="1">find and manage</span> information.</p>
+<figure style="text-align:right;margin-top:1em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-5" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p>Findability. If the user can’t find what they need through a combination of browsing, searching and asking, then the site fails.</p>
+<div class="fragment center sans" data-fragment-index="1">
+<div style="width:40px;display:inline-block;vertical-align: top;color:#999;margin-top:.15em;">
+<span class="db color-inherit link hover-indigo" data-balloon="size: 2x" data-balloon-pos="up"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="long-arrow-alt-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa fa-long-arrow-alt-right fa-w-14 fa-2x"><path fill="currentColor" d="M313.941 216H12c-6.627 0-12 5.373-12 12v56c0 6.627 5.373 12 12 12h301.941v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.569 0-33.941l-86.059-86.059c-15.119-15.119-40.971-4.411-40.971 16.971V216z" class=""></path></svg></span>
+</div>
+<div style="display:inline-block;vertical-align: top;">
+user centered design
+</div>
+<div class="fragment" data-fragment-index="2" style="width:30px;display:inline-block;vertical-align: bottom;color:#ccc;padding-top:.6em;padding-left:1em;">
+<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="level-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" class="svg-inline--fa fa-level-down fa-w-11 fa-2x">
+<path fill="currentColor" d="M345.04 368l-136 136.901c-9.388 9.465-24.691 9.465-34.079 0L38.96 368c-9.307-9.384-9.277-24.526.069-33.872l22.056-22.056c9.619-9.619 25.301-9.329 34.557.639L152 373.16V80H68.024a11.996 11.996 0 0 1-8.485-3.515l-56-56C-4.021 12.926 1.333 0 12.024 0H208c13.255 0 24 10.745 24 24v349.16l56.357-60.448c9.256-9.968 24.938-10.258 34.557-.639l22.056 22.056c9.346 9.345 9.377 24.487.07 33.871z" class=""></path>
+</svg>
+</div>
+</div>
+<p><span class="fragment small" data-fragment-index="2">Not enough: the organizations and people who manage information are important too.</span></p>
+<figure style="text-align:right;margin-top:2em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-6" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p>Usability engineering and ethnography are helping to bring the rigor of the scientific method to the analysis of users’ needs and information seeking behaviours.</p>
+<div class="sans fragment" style="font-weight:bold;color:#999;padding-left:2em;">
+BUT
+</div>
+<div class="fragment">
+<p>The practice of information architecture will never be reduced to numbers; there’s too much ambiguity and complexity. Information Architects must rely on experience, intuition and creativity.</p>
+</div>
+<figure style="text-align:right;margin-top:1em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-7" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p>According to Louis Rosenfeld and Peter Morville:</p>
+<div class="sans" style="margin-top:1.5em;">
+4.
+</div>
+<p>An emerging discipline and community of practice focused on bringing principles of design and architecture to the digital landscape.</p>
+<figure style="text-align:right;margin-top:3em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-8" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p>According to Louis Rosenfeld and Peter Morville:</p>
+<div class="small">
+<ol type="1">
+<li>The combination of organization, labelling, and navigation schemes within an information system.</li>
+<li>The structural design of an information space to facilitate task completion and intuitive access to content.</li>
+<li>The art and science of structuring and classifying web sites and intranets to help people find and manage information.</li>
+<li>An emerging discipline and community of practice focused on bringing principles of design and architecture to the digital landscape.</li>
+</ol>
+</div>
+<figure style="text-align:right;margin-top:1em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-9" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<div style="height:2em;">
+ 
+</div>
+<blockquote>
+<p>Were you expecting a single definition? Something short and sweet? A few words that succinctly capture the essence and expanse of the field of information architecture? Keep dreaming!</p>
+</blockquote>
+<figure style="text-align:right;margin-top:3em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-10" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<figure>
+<img data-src="img/ia-circles.png" alt="These three circles illustrate the interdependent nature of users, content,  and context within a complex, adaptive information ecology" /><figcaption>These three circles illustrate the interdependent nature of users, content, <br />and context within a complex, adaptive information ecology</figcaption>
+</figure>
+<figure style="text-align:right;margin-top:1em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="section" class="slide level3">
+<h3></h3>
+<h3 style="margin-bottom:0;">
+Information Architecture (IA)
+</h3>
+<h4>
+Components
+</h4>
+<div class="small">
+<p><span class="small sans">Organization systems</span><br />
+How we categorize information</p>
+<p><span class="small sans">Labeling systems</span><br />
+How we represent information (e.g. terminology)</p>
+<p><span class="small sans">Navigation systems</span><br />
+How we browse or move through information</p>
+<p><span class="small sans">Searching systems</span><br />
+How we search information</p>
+</div>
+<figure style="text-align:right;margin-top:1em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section><section id="information-architecture-ia-11" class="slide level3">
+<h3>Information Architecture (IA)</h3>
+<p>The result of the information architecture phase may be a diagram, often called a <span class="highlighted fragment">site map</span>, that reveals the overall shape of the site. It gives designers a sense of the scale of the site and how sections are related, and aids in the navigation design.</p>
+<div class="fragment sans smaller" style="width:66%;margin-left:30%;">
+<p>→ Reading: Dan M. BROWN, “Chapter 5. Site Maps” in <em>Communicating Design</em>. New Riders, 2010</p>
+</div>
+<figure style="text-align:right;margin-top:1em;font-size:.7em;">
+<figcaption>
+Peter MORVILLE and Louis ROSENFELD, <em>Information Architecture for the World Wide Web</em>. California: O’Reilly Media, 1998
+</figcaption>
+</figure>
+</section></section>
+<section id="develop-the-look-and-feel" class="title-slide slide level2"><h2>3. Develop the “look and feel”</h2></section>
+<section id="produce-a-working-prototype" class="title-slide slide level2"><h2>4. Produce a working prototype</h2></section>
+<section id="test" class="title-slide slide level2"><h2>5. Test</h2></section>
+<section id="launch" class="title-slide slide level2"><h2>6. Launch</h2></section>
+<section id="maintain" class="title-slide slide level2"><h2>7. Maintain</h2></section>
+    </div>
+  </div>
+
+  <script src="../../../assets/reveal.js/lib/js/head.min.js"></script>
+  <script src="../../../assets/reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: '../../../assets/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '../../../assets/reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: '../../../assets/reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
