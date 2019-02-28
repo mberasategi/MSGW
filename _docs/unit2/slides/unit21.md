@@ -2,67 +2,12 @@
 title: UNIT 2<br />Creation on the web
 subtitle: 2.1 Context
 theme: deusto
+deusto: TRUE
 revealjs-url: ../../../assets/reveal.js
 css: style.css
 header-includes: <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet"> 
 ...
 
-<div class="center" style="margin-top:100px;">
-
-All websites are not created equal.
-
-<span class="fragment">
-We all identify a bad design when we see it...  
-<span class="smaller">[The World's Worst Website](http://www.angelfire.com/super/badwebs/) or [The World's Worst Website... Ever!](http://www.theworldsworstwebsiteever.com/)  
-(There are [some](http://art.yale.edu/) [real](http://www.gatesnfences.com/) [examples](http://www.suzannecollinsbooks.com/) as well)</span>
-</span>
-
-<span class="fragment">
-But what makes a great website?
-</span>
-
-</div>
-
----
-
-## {data-transition="slide-in fade-out"}
-
-<div style="height:100px;"></div>
-
-In this Unit...
-
-<span class="large" style="font-size:1.5em;">How are websites created?</span>  
-Development process: objectives, content structure, looks, prototypes, test, launch, maintain.
-
----
-
-## {data-transition="fade-in slide-out"}
-
-<div style="height:100px;"></div>
-
-In this Unit...
-
-<span class="large" style="font-size:1.5em;">How are websites created?</span>  
-Development process: objectives, <span class="highlighted">content structure</span>, looks, prototypes, test, launch, maintain.
-
----
-
-## Assignment 3
-
-<div class="small">
-
-Let's have a look around and see if we can **work out the structure** of an existing website.
-
-Each group must **choose a website** and **identify its underlying structure**. Try to make as comprehensive an examination as possible.
-
-Each group must **[submit a PDF file](https://alud.deusto.es/mod/assign/view.php?id=15855)** containing
-
-- the title and URL of the selected website, and
-- their view on its structure.
-
-</div>
-
-<div class="center highlighted" style="margin-top:1em;">DEADLINE: Tuesday 13th March</div>
 
 ## Information interaction design
 
@@ -94,7 +39,7 @@ Some are complex but structurable tasks, such as...
 
 ### Information design
 
-![The Continuum of Understanding, also known as the [DIKW Pyramid](https://en.wikipedia.org/wiki/DIKW_Pyramid)](continuum.png){height="500"}
+![The Continuum of Understanding, also known as the [DIKW Pyramid](https://en.wikipedia.org/wiki/DIKW_Pyramid)](continuum.png){height="450"}
 
 ---
 
@@ -111,11 +56,13 @@ STRUCTURED = information design, interaction design
 UNSTRUCTURED/CHAOTIC/CREATIVE = sensorial design
 </div>
 
-<div style="font-family:Satisfy, serif;">
+<div style="color:#666;font-size:.9em;font-family:Satisfy, cursive;font-weight:200;text-align:center;line-height:.8em;">
 
->- Is graphic/visual design a mere question of taste?
->- Is it possible to create _beautiful_ things following a method or structure?
->- Will everything designed to be functional be necessarily ugly?
+<div class="fragment" style="margin-bottom:1em;margin-top:2em;">Is graphic/visual design a mere question of taste?</div>
+
+<div class="fragment" style="margin-bottom:1em;">Is it possible to create _beautiful_ things<br/>following a method or structure?</div>
+
+<div class="fragment">Will everything designed to be functional<br />be necessarily ugly?</div>
 
 </div>
 
@@ -130,17 +77,20 @@ Don Norman, [3 ways good design makes you happy](https://www.ted.com/talks/don_n
 
 ---
 
+<div style="height:2em;">&nbsp;</div>
+
 Good design does not have to be ugly. It has to be oriented to providing great experiences to <div class="fragment grow" style="display:inline-block;padding:0 .5em;">the user</div>
 
-<div class="fragment center" style="padding:2em 0;font-family:Satisfy;">
+<div class="fragment center" style="padding:2em 0;">
 Have <span class="highlighted">the user</span> in mind. All the time.  
 He/she is the one getting the experience.
 </div>
 
-<div class="fragment smaller center">
-&rdsh; This is called **User Experience** (more on this later on this Unit).
+<div class="fragment smaller center" style="font-family:Satisfy, cursive;">
+&rdsh; This is called <u>user experience</u> (more on this later on this Unit).
 </div>
 
+<!--
 ## Assignment 4
 
 The objective of this assignment is to **design the structure of a website**. To accomplish this, each group must complete these task at least:
@@ -164,3 +114,4 @@ Each group must [submit](https://alud.deusto.es/mod/assign/view.php?id=15857):
 <div class="center highlighted" style="margin-top:1em;">
 DEADLINE: Sunday 25th March
 </div>
+-->
