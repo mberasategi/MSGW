@@ -43,9 +43,30 @@ Some are complex but structurable tasks, such as...
 
 ---
 
+### Information design
+
+<div style="margin-bottom:2em;"></div>
+
+>Knowledge is a fluid mix of framed experience, values, contextual information, expert insight and grounded intuition that provides an environment and framework for evaluating and incorporating new experiences and information. It originates and is applied in the minds of knowers. In organizations it often becomes embedded not only in documents and repositories but also in organizational routines, processes, practices and norms
+
+<figure class="small" style="text-align:right;">
+    <figcaption>Wallace, Danny P. (2007). _Knowledge Management: Historical and <br />Cross-Disciplinary Themes_. Libraries Unlimited. pp. 1–14. ISBN 978-1-59158-502-2.</figcaption>
+</figure>
+
+---
+
 ### Interaction design
 
 ![&nbsp;](continuum-of-interactivity.png){height="500"}
+
+
+---
+
+### Interaction design
+
+<div style="margin-bottom:2em;"></div>
+
+>(...) <span class="fragment highlighted">productivity is traditionally of more concern in business products than entertainment products</span>&mdash;but being creative and producing something are typically more interesting, entertaining, and fulfilling activities.
 
 ---
 
