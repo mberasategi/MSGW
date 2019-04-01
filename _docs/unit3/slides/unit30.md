@@ -288,7 +288,6 @@ It comes down to two main reasons:
 >- **People** will read it better
 >- **Machines** will read it <br/>better (more on this later)
 
-
 ## General recommendations
 
 ### Do not explain, converse
@@ -322,3 +321,16 @@ Inverted pyramid.
 ### Texts that can not be adapted to the web
 
 ### Revise and correct
+
+
+<!-- Resources:
+
+    https://www.nngroup.com/topic/writing-web/
+    https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html
+    https://plainlanguage.gov/resources/checklists/web-checklist/
+    https://content-guide.18f.gov/plain-language/
+    https://www.nngroup.com/articles/how-little-do-users-read/
+    https://www.nngroup.com/articles/how-users-read-on-the-web/
+    https://www.nngroup.com/articles/inverted-pyramids-in-cyberspace/
+https://yoast.com/tag/content-seo/
+-->
