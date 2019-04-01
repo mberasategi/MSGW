@@ -6,6 +6,10 @@ revealjs-url: ../../../assets/reveal.js
 css: style.css
 ...
 
+
+https://content-guide.18f.gov/
+
+
 ## Length of texts
 
 ### When is a text considered long
