@@ -290,38 +290,191 @@ It comes down to two main reasons:
 
 ## General recommendations
 
-### Do not explain, converse
+###  General recommendations
 
-### Do not waste users' time
+>- Do not explain, converse
+>- Do not waste users' time; help them
+>- Use precise, useful language: specific, honest, interesting, interctive
 
-### Help users
+::: notes 
+- Identify yourself, do not hide behind anonymity
+- Use a proper tone 
 
-### Use precise, useful language
+<!-- image about explaining/condescending/patronizing -->
+
+- Use direct language when writing the content and communicating the message
+- Adapt to users' profile and knowledge level
+
+- make sure the most important information is clearly visible from the very beginning
+
+- careful choice of words: "Join in" or "become a member" instead of "register/sign up"
+:::
+
 
 ## Planning texts for the web
 
-### Define the objective
+### Planning texts for the web {data-transition="slide-in fade-out"}
 
-### Identify target audience
+1. Define the objective
+ 
+::: notes
+- what's the main objective of the text?
+- what do you want the readers to perceive?
+    - Communicate a decision
+    - Inform about a course of action
+    - Transmit a point of view 
+    - Convince them
+    - Ask them for something
+- what do you need to get there?
+:::
 
-### Gather ideas
+### Planning texts for the web {data-transition="fade"}
 
-### Create an outline and determine the order of ideas
+1. Define the objective
+1. Identify target audience
+
+::: notes
+- who are you trying to reach?
+- how are those people? what do you know about them?
+- why did they get to your website?
+- do you know their age, digital literacy level, knowledge about the subject?
+- do they have a problem to solve?
+
+target audience &#8800; every user of your website
+
+use of personas
+:::
+
+### Planning texts for the web {data-transition="fade"}
+
+1. Define the objective
+1. Identify target audience
+1. Gather ideas
+
+::: notes
+
+what to say _vs._ how to say it: gather ideas first. Do not worry about quality of language, use of keywords, grammar or typos at this point.
+
+Tools: mindmaps, brainstorming, base on the title, free writing...
+
+:::
+
+### {data-background="#c10c06" data-transition="fade"}
+
+<div style="text-align:center;">
+
+![](img/keep-calm-and-write-nonstop.jpg){width="500"}
+
+</div>
+
+::: notes
+
+something else about free writing
+
+:::
+
+### Planning texts for the web {data-transition="fade"}
+
+1. Define the objective
+1. Identify target audience
+1. Gather ideas
+1. Create an outline and determine the order of ideas
+
+::: notes
+
+:::
+
+### Planning texts for the web {data-transition="fade"}
 
 Inverted pyramid.
 
-### Write the content
 
-### How is it going to be presented?
+### Planning texts for the web {data-transition="fade"}
 
-### Write the title
+1. Define the objective
+1. Identify target audience
+1. Gather ideas
+1. Create an outline and determine the order of ideas
+5. Write the content
 
-### Adapt for diverse reading levels
+:::notes
 
-### Texts that can not be adapted to the web
+:::
 
-### Revise and correct
+### Planning texts for the web {data-transition="fade"}
 
+1. Define the objective
+1. Identify target audience
+1. Gather ideas
+1. Create an outline and determine the order of ideas
+5. Write the content
+6. How is it going to be presented?
+
+:::notes
+
+:::
+
+### Planning texts for the web {data-transition="fade"}
+
+1. Define the objective
+1. Identify target audience
+1. Gather ideas
+1. Create an outline and determine the order of ideas
+5. Write the content
+6. How is it going to be presented?
+1. Write the title
+
+:::notes
+
+:::
+
+### Planning texts for the web {data-transition="fade"}
+
+1. Define the objective
+1. Identify target audience
+1. Gather ideas
+1. Create an outline and determine the order of ideas
+5. Write the content
+6. How is it going to be presented?
+1. Write the title
+1. Adapt for diverse reading levels
+
+:::notes
+
+:::
+
+### Planning texts for the web {data-transition="fade"}
+
+1. Define the objective
+1. Identify target audience
+1. Gather ideas
+1. Create an outline and determine the order of ideas
+5. Write the content
+6. How is it going to be presented?
+1. Write the title
+1. Adapt for diverse reading levels
+1. Texts that can not be adapted to the web
+
+:::notes
+
+:::
+
+### Planning texts for the web {data-transition="fade"}
+
+1. Define the objective
+1. Identify target audience
+1. Gather ideas
+1. Create an outline and determine the order of ideas
+5. Write the content
+6. How is it going to be presented?
+1. Write the title
+1. Adapt for diverse reading levels
+1. Texts that can not be adapted to the web
+1. Revise and correct
+
+:::notes
+
+:::
 
 <!-- Resources:
 
