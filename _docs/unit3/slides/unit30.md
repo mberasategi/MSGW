@@ -381,13 +381,55 @@ something else about free writing
 1. Create an outline and determine the order of ideas
 
 ::: notes
+- structure the content
+- pay attention to transitional phrases to create a natural flow
+- 
+:::
+
+### Planning texts for the web {data-transition="fade"}
+
+<div style="text-align:center;font-size:.6em;">
+
+![Jakob Nielsen (1996), ["Inverted Pyramids in Cyberspace"](https://www.nngroup.com/articles/inverted-pyramids-in-cyberspace/)
+<br />Amy Schade (2018), ["Inverted Pyramid: Writing for Comprehension"](https://www.nngroup.com/articles/inverted-pyramid/)
+](img/inverted-pyramid.png){width="640"}
+
+</div>
+
+::: notes
+
+<div class="smallest" style="font-size:.6em !important;">
+
+- traditional pyramid: intro > details > conclusion
+- inverted comes from the field of journalism:
+    - start the article by telling the reader the conclusion, follow by the most important supporting information, and end by giving the background.
+    - useful for newspapers because **readers can stop at any time** and will still get the most important parts of the article.
+- even more important on the web because users barely scroll - important things should go _above the fold_
+- **the Web is a linking medium** and we know from hypertext theory that writing for interlinked information spaces is different than writing linear flows of text --  no need for so much background
+    + _rhetoric of departure_ and _rhetoric of arrival_ to indicate the need for both ends of the link to give users some understanding of where they can go as well as why the arrival page is of relevance to them.
+- how to:
+    + identify key points
+    + rank secondary information
+    + write well and concisely
+    + frontload all elements of content with important information
+    + consider adding a summary or list of highlights
+- the fold: We don’t go to a page, see useless and irrelevant content, and scroll out of the blind hope that something useful may be hidden 5 screens down.
+
+</div>
 
 :::
 
 ### Planning texts for the web {data-transition="fade"}
 
-Inverted pyramid.
+<div style="text-align:center;font-size:.6em;">
 
+![Amy Schade (2015), ["The Fold Manifesto: Why the Page Fold Still Matters"](https://www.nngroup.com/articles/page-fold-manifesto/)](img/inverted-pyramid-fold.png){width="640"}
+
+</div>
+
+::: notes
+- What appears at the top of the page vs. what’s hidden will always influence the user experience — regardless of screen size. The average difference in how users treat info above vs. below the fold is 84%.
+:::
 
 ### Planning texts for the web {data-transition="fade"}
 
@@ -398,8 +440,13 @@ Inverted pyramid.
 5. Write the content
 
 :::notes
-
+- tone. not too formal, not too informal: coherent with objectives and audience
+- write in positive and active tense (easier to read and understand)
+- avoid "click here" links and redundant instructions
+- remove superfluous words
 :::
+
+
 
 ### Planning texts for the web {data-transition="fade"}
 
@@ -411,7 +458,77 @@ Inverted pyramid.
 6. How is it going to be presented?
 
 :::notes
+- click & read _vs._ download:
+    + longer than 3 printed pages
+    + written to be read as a unity, no sense to divide
+    + contains complex graphics or design elements
+- single long page _vs._ paginated
+:::
 
+### Planning texts for the web {data-transition="fade"}
+
+<div style="padding:.3em .6em;background-color:#ddd;border-radius:7px;font-family:'Roboto', sans-serif;">
+
+<div style="text-align:center;">When to use:</div>
+
+<table><tr><td>
+
+<div style="text-align:center;font-family:raustila,sans-serif;color:#666;border-bottom:solid 2px #eee;margin-bottom:.6em;font-size:1.2em;">single page</div>
+
+<div class="smaller">
+- half-screen-wide column (10-12 words)
+- use lists whenever possible
+- highlight relevant content
+- subtitles allow skimming
+- internal linking (TOC + up)
+</div>
+
+</td><td>
+
+<div style="text-align:center;font-family:raustila,sans-serif;color:#666;border-bottom:solid 2px #eee;margin-bottom:.6em;font-size:1.2em;">pagination</div>
+
+<div class="smaller">
+- increases entry points
+- no need of vertical scroll
+- shorter text more appealing
+- nonlinear reading, guided by interest
+</div>
+
+</td></tr></table>
+</div>
+
+::: notes
+
+:::
+
+### Planning texts for the web {data-transition="fade"}
+
+<div style="font-family:sans-serif;padding:.3em .6em; border-radius:7px; background-color:yellow;text-align:center;margin:0 auto;width:70%">
+
+<div style="width:100px;margin:.25em auto;">
+<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="exclamation-triangle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-exclamation-triangle fa-w-18 fa-2x"><path fill="currentColor" d="M569.517 440.013C587.975 472.007 564.806 512 527.94 512H48.054c-36.937 0-59.999-40.055-41.577-71.987L246.423 23.985c18.467-32.009 64.72-31.951 83.154 0l239.94 416.028zM288 354c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z" class=""></path></svg>
+</div>
+
+<div style="font-family:raustila, sans-serif;font-size:60px;">pagination</div>
+
+<div class="small">
+
+<strike>"as we said before"</strike>
+
+repeat basic information
+
+split based on meaning, not length
+
+significant connection to other fragments
+</div></div>
+
+::: notes
+
+- we should not assume the user has read other pages. provide background info and/or links instead
+- repeating basic information may be required to compensate for loss of context: fragment needs to be self-explaining without any more context
+- do not paginate based on lenght only ("continue" button at the bottom)
+- fragments need to be significantly inter-connected
+ 
 :::
 
 ### Planning texts for the web {data-transition="fade"}
@@ -424,7 +541,11 @@ Inverted pyramid.
 6. How is it going to be presented?
 1. Write the title
 
-:::notes
+::: notes
+
+- should be the last thing, once everything else is written
+- will be read in isolation / out of context (SERPs etc.)
+- should not repeat words from introduction: in the inverted pyramid model, the title or headline is the most relevant piece of information
 
 :::
 
@@ -439,7 +560,36 @@ Inverted pyramid.
 1. Write the title
 1. Adapt for diverse reading levels
 
-:::notes
+### Planning texts for the web {data-transition="fade"}
+
+<div class="small" style="padding:.3em .6em;background-color:#ddd;border-radius:7px;font-family:'Roboto', sans-serif;width:66%;margin:0 auto;">
+<p style="font-family:raustila, sans-serif;font-size:1.5em;border-bottom:solid 2px #eee;">Web writing for many interest levels </p>
+
+1. No interest
+1. Title only
+1. One sentence summary
+1. One paragraph summary
+1. Major points
+1. Minor points
+1. Detailed interest
+1. Thirst for more information 
+
+</div>
+
+<figure><figcaption>Nathan Wallace (1999), ["Web writing for many interest levels"](http://e-gineer.com/v1/articles/web-writing-for-many-interest-levels.html)</figcaption></figure>
+
+::: notes
+
+<div style="font-size:.7em;">
+1. better avoided, hopefully will never reach. Write informative titles to make links clear; promote in relevant locations only; provide accurate descriptions and keywords for search engines.
+2. often first filter/invitation: should be clear and meaningful. Basic idea of the page
+3. small interest level filter: helps readers determine their level of interest more accurately. gives insight into the major point of the page
+4. higher quality version of 1 sentence summary. readers who have reached this level clearly have some interest. gives a few seconds to influence the reader, impact those with only small interest
+5. use (informative) headings to make major points, allow skimming. each major heading should be an anchor (allow internal linking, even if you don't use them)
+6. readers can pick info easily. minor points detail arguments behind a major point. boldface font, bulleted lists. make sure they are useful without surrounding text
+7. interested not only in info, but in you as well. use informal and personal style of writing, unique perspective and presentation
+8. links (do not include extra info on the page itself). be extremely specific with links to related and detailed information sources: should be embedded in the relevant sections. gives credibility.
+</div>
 
 :::
 
@@ -453,11 +603,30 @@ Inverted pyramid.
 6. How is it going to be presented?
 1. Write the title
 1. Adapt for diverse reading levels
-1. Texts that can not be adapted to the web
+1. (Texts that cannot be adapted to the web)
 
-:::notes
+::: notes
+
+adapting texts is costly: first, is it worth it?
+
+- how much interest would readers have on it
+- is the format appropriate (best in text, or downloadable)
+- how long will it be relevant
 
 :::
+
+### Planning texts for the web {data-transition="fade"}
+
+<div class="smaller" style="padding:.3em .6em;background-color:#ddd;border-radius:7px;font-family:'Roboto', sans-serif;">
+<p style="font-family:raustila, sans-serif;font-size:1.5em;border-bottom:solid 2px #eee;">Steps for the middle ground between completely transforming a text or making it into a PDF to download</p>
+
+1. Convert the document to HTML / plain text
+2. Correct typos and fix linking elements (_previously_ or _in page xx_)
+3. Write an introduction, with a link to the full HTML and the downloadable PDF
+4. In case the document contains many sections, summarize and link all of them (30-50 words in simple, positive, active style)
+5. If the cover is eye-catching, add a thumbnail in the summary page (reinforces the idea that the text was not originally written for the web)
+
+</div>
 
 ### Planning texts for the web {data-transition="fade"}
 
@@ -472,7 +641,16 @@ Inverted pyramid.
 1. Texts that can not be adapted to the web
 1. Revise and correct
 
-:::notes
+::: notes
+
+- let it rest for a few days 
+- read it out loud
+- golden rule: if not understandable the first time, it needs to be rewritten
+- check with other people
+- don't trust the autocorrection
+- check all references to external sources
+- small details (like references to time: today, last week...)
+- consider shortening
 
 :::
 
