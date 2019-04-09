@@ -5,7 +5,6 @@ theme: deusto
 deusto: TRUE
 revealjs-url: ../../../assets/reveal.js
 css: style.css
-highlighting-css: .reveal h2 { padding-top:4em !important; text-align:center; font-size:1.6em !important; }
 ...
 
 ## How we read online
