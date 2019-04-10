@@ -161,7 +161,7 @@ Search engines have three primary functions:
 https://moz.com/beginners-guide-to-seo/how-search-engines-operate
 -->
 
-### 1. Crawl
+### 1. Crawl {data-transition="slide-in fade-out"}
 
 ![](img/crawling.svg)
 
@@ -173,7 +173,7 @@ Googlebot starts out by fetching a few web pages, and then follows the links on 
 
 :::
 
-### 1. Crawl
+### 1. Crawl {data-transition="fade"}
 
 Search engines need to find our pages in order for them to appear as search results.
 
@@ -186,23 +186,101 @@ site:deusto.es
 ```
 
 </div>
----
+
+###  {data-transition="fade"}
 
 ![&nbsp;](img/crawl-results.png)
 
-### 2. Index
+### 1. Crawl {data-transition="fade"}
+
+Make sure the bot can crawl _through_ your website, and not just _to_ it.
+
+>- Is content hidden behind login forms?
+>- Are you relying on search forms (instead of navigation menus)?
+>- Is text hidden within non-text content?
+>- Can search engines follow your site navigation?
+
+::: notes
+- crawlers cannot log in, unable to access that content
+- same
+- text in images, videos, gifs; will not be understood / indexed / ranked well
+- Just as a crawler needs to discover your site via links from other sites, it needs a path of links on your own site to guide it from page to page.
+:::
+
+### 1. Crawl {data-transition="fade"}
+
+![&nbsp;](img/crawl-nav.svg)
+
+::: notes
+
+If you’ve got a page you want search engines to find but it isn’t linked to from any other pages, it’s as good as invisible
+
+:::
+
+### 1. Crawl {data-transition="fade-in slide-out"}
+
+Make sure the bot can crawl _through_ your website, and not just _to_ it.
+
+- Is content hidden behind login forms?
+- Are you relying on search forms (instead of navigation menus)?
+- Is text hidden within non-text content?
+- Can search engines follow your site navigation?
+
+>- Have a clean information architecture
+>- Use sitemaps!
+
+::: notes
+
+-
+- a list of links of everything on the website! Does not replace the need for a good IA, but can help crawlers
+
+:::
+
+### 2. Index {data-transition="slide-in fade-out"}
 
 <div style="height:2em;"></div>
 
-![&nbsp;](img/index.png)
+![The index is where the discovered pages are stored](img/index.svg){width="600"}
 
 ::: notes
 
 Search engines process and store information they find in an index, a huge database of all the content they’ve discovered and deem good enough to serve up to searchers.
 
+After a crawler finds a page, the search engine renders it just like a browser would. In the process of doing so, the search engine analyzes that page's contents. All of that information is stored in its index.
+
 :::
 
-### 3. Rank
+### 2. Index {data-transition="fade"}
+
+What is stored in the index?
+
+![The cached version of any website is accessible through the SERP](img/google-cache.png){style="margin-top:1em;"}
+
+::: notes
+
+Can I see how a Googlebot crawler sees my pages?
+
+Yes, the cached version of your page will reflect a snapshot of the last time Googlebot crawled it.
+
+Google crawls and caches web pages at different frequencies. More established, well-known sites that post frequently like https://www.nytimes.com will be crawled more frequently than the much-less-famous website for Roger the Mozbot’s side hustle, http://www.rogerlovescupcakes.com (if only it were real…)
+
+You can view what your cached version of a page looks like by clicking the drop-down arrow next to the URL in the SERP and choosing "Cached":
+
+:::
+
+### 2. Index {data-transition="fade-in slide-out"}
+
+What is stored in the index?
+
+![Check the text-only version](img/text-only.png){width="500"}
+
+::: notes
+
+You can also view the text-only version of your site to determine if your important content is being crawled and cached effectively.
+
+:::
+
+### 3. Rank {data-transition="slide-in fade-out"}
 
 ![&nbsp;](img/rank.jpg)
 
@@ -210,8 +288,103 @@ Search engines process and store information they find in an index, a huge datab
 
 Ordering of results from the index according to relevance.
 
+To determine relevance, search engines use algorithms, a process or formula by which stored information is retrieved and ordered in meaningful ways. 
+
 :::
 
+### 3. Rank {data-transition="fade"}
+
+![Each year, Google changes its search algorithm around 500–600 times](img/google-algorithm-update.png){width="700"}
+
+::: notes
+
+These algorithms have gone through many changes over the years in order to improve the quality of search results. Google, for example, makes algorithm adjustments every day — some of these updates are minor quality tweaks, whereas others are core/broad algorithm updates deployed to tackle a specific issue, like Penguin to tackle link spam.
+
+While Google doesn’t always reveal specifics as to why they do what they do, we do know that Google’s aim when making algorithm adjustments is to improve overall search quality.
+
+
+>Search engines [want to] provide useful answers to searcher's questions in the most helpful formats.
+
+Reason for so many changes: search engines (still) learn. As with language: Eventually, with enough practice, the student knows the language well enough to even understand nuance, and is able to provide answers to even vague or incomplete questions.
+
+When search engines were just beginning to learn our language, it was much easier to game the system by using tricks and tactics that actually go against quality guidelines. Take keyword stuffing, for example. If you wanted to rank for a particular keyword like “funny jokes,” you might add the words “funny jokes” a bunch of times onto your page, and make it bold, in hopes of boosting your ranking for that term:
+
+:::
+
+### 3. Rank {data-transition="fade"}
+
+<div class="small" style="margin-top:2em;">
+>Welcome to **funny jokes**! We tell the **funniest jokes** in the world. **Funny jokes** are **fun** and crazy. Your **funny joke** awaits. Sit back and read **funny jokes** because **funny jokes** can make you happy and **funnier**. Some **funny favorite funny jokes**.
+</div>
+
+<figure><figcaption>Keyword stuffing</figcaption>
+
+::: notes
+This tactic made for terrible user experiences, and instead of laughing at funny jokes, people were bombarded by annoying, hard-to-read text. It may have worked in the past, but this is never what search engines wanted.
+:::
+
+### 3. Rank: the role of links {data-transition="fade"}
+
+![Types of links](img/links.svg){width="700"}
+
+::: notes
+
+Backlinks or "inbound links" are links from other websites that point to your website, while internal links are links on your own site that point to your other pages (on the same site).
+
+Calculating the number of links pointing to any given site helped them do this. work very similarly to real-life WoM (Word-of-Mouth) referrals. 
+
+:::
+
+### 3. Rank: links (SEO _off-page_) {data-transition="fade"}
+
+<div class="small">
+
+- Referrals from others = good sign of authority  
+- Referrals from yourself = biased, so not a good sign of authority
+- Referrals from irrelevant or low-quality sources = not a good sign of authority and could even get you flagged for spam
+- No referrals = unclear authority
+
+</div>
+
+<div class="fragment">
+
+![Google PageRank](img/pagerank.png){width="300"}
+
+</div>
+
+::: notes
+- Example: Many different people have all told you that Jenny’s Coffee is the best in town
+- Example: Jenny claims that Jenny’s Coffee is the best in town
+- Example: Jenny paid to have people who have never visited her coffee shop tell others how good it is.
+- Example: Jenny’s Coffee might be good, but you’ve been unable to find anyone who has an opinion so you can’t be sure.
+
+PageRank (part of Google's core algorithm) is a link analysis algorithm named after one of Google's founders, Larry Page. PageRank estimates the importance of a web page by measuring the quality and quantity of links pointing to it. The assumption is that the more relevant, important, and trustworthy a web page is, the more links it will have earned.
+
+:::
+
+### 3. Rank: content (SEO _on-page_) {data-transition="fade"}
+
+>Does this page match the words that were searched and help fulfill the task the searcher was trying to accomplish?
+
+No strict benchmarks on:
+
+- length of content
+- keyword density
+- header tags
+
+<div class="box fragment" style="width:300px;float:right;margin-right:2em;transform:rotate(10deg);text-align:center">
+**FOCUS** should be on the users
+</div>
+
+::: notes
+
+focus on user satisfaction and task accomplishment.All those can play a role in how well a page performs in search, but the focus should be on the users who will be reading the content.
+
+:::
+
+### 3. Rank: RankBrain {data-transition="fade" data-background="#595959"}
+
+![Google RankBrain](img/rankbrain.jpg)
 
 ## Keyword research
 
@@ -221,12 +394,101 @@ https://moz.com/beginners-guide-to-seo/keyword-research
 
 ## The importance of quality content for SEO
 
----
+### Low value tactics to avoid {data-transition="slide-in fade out"}
 
-https://moz.com/beginners-guide-to-seo/on-page-seo
+![Thin content](img/thin-content.svg){width="800"}
 
-https://yoast.com/importance-quality-content-seo/
+::: notes
+Creating a page for every single one of the keywords in order to rank on page 1 for those highly specific queries.
 
-Site structure https://yoast.com/site-structure-the-ultimate-guide/
+Different pages even if they are essentialy saying the same thing, or for each city or region the company works on.
+
+Not helpful for users, so addressed directly by Google on 2011. The assessment of quality content is a work in progress.
+
+You should have a comprehensive page on a topic instead of multiple, weaker pages for each variation of a keyword.
+:::
+
+### Low value tactics to avoid  {data-transition="fade"}
+
+![Duplicate content](img/duplicate-content.svg){width="800"}
+
+::: notes
+This can include taking content and republishing as-is, or modifying it slightly before republishing, without adding any original content or value.
+
+Duplication is not penalized, but instead filtered now. Your page could just as well not show up at all on SERPs -- the original page would.
+:::
+
+### Low value tactics to avoid  {data-transition="fade"}
+
+![Users were presented with a login screen in Spotify when searching for the National Philharmonic orchestra.](img/spotify1.png){width="600"}
+
+::: notes
+showing  a different thing to crawlers than to human visitors.
+
+Spotify lost bt. 45-82% of their visibility in 2016 for this reason.
+:::
+
+### Low value tactics to avoid  {data-transition="fade"}
+
+![Viewing Google's cached version of the page shows the content Spotify provided to the search engine](img/spotify2.png){height="450"}
+
+### Low value tactics to avoid  {data-transition="fade-in slide-out"}
+
+![Keyword stuffing](img/keyword-stuffing.png)
+
+::: notes
+Many people mistakenly think that if you just include a keyword within your page’s content X times, you will automatically rank for it. 
+
+If a page is going to be valuable to users, it won’t sound like it was written by a robot, so incorporate your keywords and phrases naturally in a way that is understandable to your readers.
+:::
+
+<!-- https://moz.com/beginners-guide-to-seo/on-page-seo -->
+
+### Site structure {data-transition="slide-in fade-out"}
+
+Highly important for both
+
+<div class="box center" style="padding-top:0;margin-bottom:.6em;">
+usability <span style="width:25px;display:inline-block;font-size:2em;padding:0 .6em;vertical-align:baseline"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa fa-plus fa-w-14 fa-2x"><path fill="currentColor" d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z" class=""></path></svg></span> findability / SEO
+</div>
+
+<figure style="text-align: right"><figcaption>
+Marieke van de Rakt, [Site structure: the ultimate guide](https://yoast.com/site-structure-the-ultimate-guide/)</figcaption></figure>
+
+::: notes
+- The structure of the site (IA) has a significant impact on the UX. Navigating should be easy. You need to categorize and link your posts and products so they are easy to find. New visitors should be able to instantly grasp what you’re writing about or selling.
+- Improves chances of ranking, helps search engines 'understand' the site
+:::
+
+### Site structure {data-transition="fade"}
+
+The homepage
+
+Classifying links: navigation menu, breadcrumbs, categories/tags
+
+Contextual links
+
+::: notes
+Homepage: on top of the pyramid. Most important pages should be linked from the homepage.
+
+- visitors more likely to end up there
+- show Google that they are important
+
+Contextual: internal links in the text, relevant for someone reading the current page. The importance of CONTEXT
+:::
+
+### Page structure
+
+Header tags: there is only one `<h1>` (should be unique)
+
+Use sub-topics according to keyword hierarchy
+
+Internal links: anchor text, context, volume
+
+::: notes
+h1 should contain the primary keyword or phrase
+
+link vol: limit the number of links on a page to a reasonable number
+:::
 
 Copywriting https://yoast.com/complete-guide-seo-copywriting/

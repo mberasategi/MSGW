@@ -218,54 +218,283 @@ Rand Fishkin, <a href="https://moz.com/blog/smart-seo-goals">“How Do You Set S
 <!-- 
 https://moz.com/beginners-guide-to-seo/how-search-engines-operate
 -->
-</section><section id="crawl" class="slide level3">
+</section><section id="crawl" class="slide level3" data-transition="slide-in fade-out">
 <h3>1. Crawl</h3>
 <p><img data-src="img/crawling.svg" /></p>
 <aside class="notes">
 <p>Crawling is the discovery process in which search engines send out a team of robots (known as crawlers or spiders) to find new and updated content. Content can vary — it could be a webpage, an image, a video, a PDF, etc. — but regardless of the format, content is discovered by links.</p>
 <p>Googlebot starts out by fetching a few web pages, and then follows the links on those webpages to find new URLs. By hopping along this path of links, the crawler is able to find new content and add it to their index called Caffeine — a massive database of discovered URLs — to later be retrieved when a searcher is seeking information that the content on that URL is a good match for.</p>
 </aside>
-</section><section id="crawl-1" class="slide level3">
+</section><section id="crawl-1" class="slide level3" data-transition="fade">
 <h3>1. Crawl</h3>
 <p>Search engines need to find our pages in order for them to appear as search results.</p>
 <p>To check how many/which pages are indexed in a search engine, use the <code>site:</code> advanced operator:</p>
 <div class="box">
 <pre><code>site:deusto.es</code></pre>
 </div>
-</section><section class="slide level3">
-
+</section><section id="section-3" class="slide level3" data-transition="fade">
+<h3></h3>
 <figure>
 <img data-src="img/crawl-results.png" alt=" " /><figcaption> </figcaption>
 </figure>
-</section><section id="index" class="slide level3">
+</section><section id="crawl-2" class="slide level3" data-transition="fade">
+<h3>1. Crawl</h3>
+<p>Make sure the bot can crawl <em>through</em> your website, and not just <em>to</em> it.</p>
+<ul>
+<li class="fragment">Is content hidden behind login forms?</li>
+<li class="fragment">Are you relying on search forms (instead of navigation menus)?</li>
+<li class="fragment">Is text hidden within non-text content?</li>
+<li class="fragment">Can search engines follow your site navigation?</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>crawlers cannot log in, unable to access that content</li>
+<li>same</li>
+<li>text in images, videos, gifs; will not be understood / indexed / ranked well</li>
+<li>Just as a crawler needs to discover your site via links from other sites, it needs a path of links on your own site to guide it from page to page.</li>
+</ul>
+</aside>
+</section><section id="crawl-3" class="slide level3" data-transition="fade">
+<h3>1. Crawl</h3>
+<figure>
+<img data-src="img/crawl-nav.svg" alt=" " /><figcaption> </figcaption>
+</figure>
+<aside class="notes">
+<p>If you’ve got a page you want search engines to find but it isn’t linked to from any other pages, it’s as good as invisible</p>
+</aside>
+</section><section id="crawl-4" class="slide level3" data-transition="fade-in slide-out">
+<h3>1. Crawl</h3>
+<p>Make sure the bot can crawl <em>through</em> your website, and not just <em>to</em> it.</p>
+<ul>
+<li>Is content hidden behind login forms?</li>
+<li>Are you relying on search forms (instead of navigation menus)?</li>
+<li>Is text hidden within non-text content?</li>
+<li>Can search engines follow your site navigation?</li>
+</ul>
+<ul>
+<li class="fragment">Have a clean information architecture</li>
+<li class="fragment">Use sitemaps!</li>
+</ul>
+<aside class="notes">
+<ul>
+<li></li>
+<li>a list of links of everything on the website! Does not replace the need for a good IA, but can help crawlers</li>
+</ul>
+</aside>
+</section><section id="index" class="slide level3" data-transition="slide-in fade-out">
 <h3>2. Index</h3>
 <div style="height:2em;">
 
 </div>
 <figure>
-<img data-src="img/index.png" alt=" " /><figcaption> </figcaption>
+<img data-src="img/index.svg" alt="The index is where the discovered pages are stored" width="600" /><figcaption>The index is where the discovered pages are stored</figcaption>
 </figure>
 <aside class="notes">
 <p>Search engines process and store information they find in an index, a huge database of all the content they’ve discovered and deem good enough to serve up to searchers.</p>
+<p>After a crawler finds a page, the search engine renders it just like a browser would. In the process of doing so, the search engine analyzes that page’s contents. All of that information is stored in its index.</p>
 </aside>
-</section><section id="rank" class="slide level3">
+</section><section id="index-1" class="slide level3" data-transition="fade">
+<h3>2. Index</h3>
+<p>What is stored in the index?</p>
+<figure>
+<img data-src="img/google-cache.png" alt="The cached version of any website is accessible through the SERP" style="margin-top:1em;" /><figcaption>The cached version of any website is accessible through the SERP</figcaption>
+</figure>
+<aside class="notes">
+<p>Can I see how a Googlebot crawler sees my pages?</p>
+<p>Yes, the cached version of your page will reflect a snapshot of the last time Googlebot crawled it.</p>
+<p>Google crawls and caches web pages at different frequencies. More established, well-known sites that post frequently like https://www.nytimes.com will be crawled more frequently than the much-less-famous website for Roger the Mozbot’s side hustle, http://www.rogerlovescupcakes.com (if only it were real…)</p>
+<p>You can view what your cached version of a page looks like by clicking the drop-down arrow next to the URL in the SERP and choosing “Cached”:</p>
+</aside>
+</section><section id="index-2" class="slide level3" data-transition="fade-in slide-out">
+<h3>2. Index</h3>
+<p>What is stored in the index?</p>
+<figure>
+<img data-src="img/text-only.png" alt="Check the text-only version" width="500" /><figcaption>Check the text-only version</figcaption>
+</figure>
+<aside class="notes">
+<p>You can also view the text-only version of your site to determine if your important content is being crawled and cached effectively.</p>
+</aside>
+</section><section id="rank" class="slide level3" data-transition="slide-in fade-out">
 <h3>3. Rank</h3>
 <figure>
 <img data-src="img/rank.jpg" alt=" " /><figcaption> </figcaption>
 </figure>
 <aside class="notes">
 <p>Ordering of results from the index according to relevance.</p>
+<p>To determine relevance, search engines use algorithms, a process or formula by which stored information is retrieved and ordered in meaningful ways.</p>
 </aside>
+</section><section id="rank-1" class="slide level3" data-transition="fade">
+<h3>3. Rank</h3>
+<figure>
+<img data-src="img/google-algorithm-update.png" alt="Each year, Google changes its search algorithm around 500–600 times" width="700" /><figcaption>Each year, Google changes its search algorithm around 500–600 times</figcaption>
+</figure>
+<aside class="notes">
+<p>These algorithms have gone through many changes over the years in order to improve the quality of search results. Google, for example, makes algorithm adjustments every day — some of these updates are minor quality tweaks, whereas others are core/broad algorithm updates deployed to tackle a specific issue, like Penguin to tackle link spam.</p>
+<p>While Google doesn’t always reveal specifics as to why they do what they do, we do know that Google’s aim when making algorithm adjustments is to improve overall search quality.</p>
+<blockquote>
+<p>Search engines [want to] provide useful answers to searcher’s questions in the most helpful formats.</p>
+</blockquote>
+<p>Reason for so many changes: search engines (still) learn. As with language: Eventually, with enough practice, the student knows the language well enough to even understand nuance, and is able to provide answers to even vague or incomplete questions.</p>
+<p>When search engines were just beginning to learn our language, it was much easier to game the system by using tricks and tactics that actually go against quality guidelines. Take keyword stuffing, for example. If you wanted to rank for a particular keyword like “funny jokes,” you might add the words “funny jokes” a bunch of times onto your page, and make it bold, in hopes of boosting your ranking for that term:</p>
+</aside>
+</section><section id="rank-2" class="slide level3" data-transition="fade">
+<h3>3. Rank</h3>
+<div class="small" style="margin-top:2em;">
+<blockquote>
+<p>Welcome to <strong>funny jokes</strong>! We tell the <strong>funniest jokes</strong> in the world. <strong>Funny jokes</strong> are <strong>fun</strong> and crazy. Your <strong>funny joke</strong> awaits. Sit back and read <strong>funny jokes</strong> because <strong>funny jokes</strong> can make you happy and <strong>funnier</strong>. Some <strong>funny favorite funny jokes</strong>.</p>
+</blockquote>
+</div>
+<figure>
+<figcaption>
+Keyword stuffing
+</figcaption>
+<aside class="notes">
+<p>This tactic made for terrible user experiences, and instead of laughing at funny jokes, people were bombarded by annoying, hard-to-read text. It may have worked in the past, but this is never what search engines wanted.</p>
+</aside>
+</section><section id="rank-the-role-of-links" class="slide level3" data-transition="fade">
+<h3>3. Rank: the role of links</h3>
+<figure>
+<img data-src="img/links.svg" alt="Types of links" width="700" /><figcaption>Types of links</figcaption>
+</figure>
+<aside class="notes">
+<p>Backlinks or “inbound links” are links from other websites that point to your website, while internal links are links on your own site that point to your other pages (on the same site).</p>
+<p>Calculating the number of links pointing to any given site helped them do this. work very similarly to real-life WoM (Word-of-Mouth) referrals.</p>
+</aside>
+</section><section id="rank-links-seo-off-page" class="slide level3" data-transition="fade">
+<h3>3. Rank: links (SEO <em>off-page</em>)</h3>
+<div class="small">
+<ul>
+<li>Referrals from others = good sign of authority<br />
+</li>
+<li>Referrals from yourself = biased, so not a good sign of authority</li>
+<li>Referrals from irrelevant or low-quality sources = not a good sign of authority and could even get you flagged for spam</li>
+<li>No referrals = unclear authority</li>
+</ul>
+</div>
+<div class="fragment">
+<figure>
+<img data-src="img/pagerank.png" alt="Google PageRank" width="300" /><figcaption>Google PageRank</figcaption>
+</figure>
+</div>
+<aside class="notes">
+<ul>
+<li>Example: Many different people have all told you that Jenny’s Coffee is the best in town</li>
+<li>Example: Jenny claims that Jenny’s Coffee is the best in town</li>
+<li>Example: Jenny paid to have people who have never visited her coffee shop tell others how good it is.</li>
+<li>Example: Jenny’s Coffee might be good, but you’ve been unable to find anyone who has an opinion so you can’t be sure.</li>
+</ul>
+<p>PageRank (part of Google’s core algorithm) is a link analysis algorithm named after one of Google’s founders, Larry Page. PageRank estimates the importance of a web page by measuring the quality and quantity of links pointing to it. The assumption is that the more relevant, important, and trustworthy a web page is, the more links it will have earned.</p>
+</aside>
+</section><section id="rank-content-seo-on-page" class="slide level3" data-transition="fade">
+<h3>3. Rank: content (SEO <em>on-page</em>)</h3>
+<blockquote>
+<p>Does this page match the words that were searched and help fulfill the task the searcher was trying to accomplish?</p>
+</blockquote>
+<p>No strict benchmarks on:</p>
+<ul>
+<li>length of content</li>
+<li>keyword density</li>
+<li>header tags</li>
+</ul>
+<div class="box fragment" style="width:300px;float:right;margin-right:2em;transform:rotate(10deg);text-align:center">
+<p><strong>FOCUS</strong> should be on the users</p>
+</div>
+<aside class="notes">
+<p>focus on user satisfaction and task accomplishment.All those can play a role in how well a page performs in search, but the focus should be on the users who will be reading the content.</p>
+</aside>
+</section><section id="rank-rankbrain" class="slide level3" data-transition="fade" data-background="#595959">
+<h3>3. Rank: RankBrain</h3>
+<figure>
+<img data-src="img/rankbrain.jpg" alt="Google RankBrain" /><figcaption>Google RankBrain</figcaption>
+</figure>
 </section></section>
 <section><section id="keyword-research" class="title-slide slide level2"><h2>Keyword research</h2></section><section class="slide level3">
 
 <p>https://moz.com/beginners-guide-to-seo/keyword-research</p>
 </section></section>
-<section><section id="the-importance-of-quality-content-for-seo" class="title-slide slide level2"><h2>The importance of quality content for SEO</h2></section><section class="slide level3">
-
-<p>https://moz.com/beginners-guide-to-seo/on-page-seo</p>
-<p>https://yoast.com/importance-quality-content-seo/</p>
-<p>Site structure https://yoast.com/site-structure-the-ultimate-guide/</p>
+<section><section id="the-importance-of-quality-content-for-seo" class="title-slide slide level2"><h2>The importance of quality content for SEO</h2></section><section id="low-value-tactics-to-avoid" class="slide level3" data-transition="slide-in fade out">
+<h3>Low value tactics to avoid</h3>
+<figure>
+<img data-src="img/thin-content.svg" alt="Thin content" width="800" /><figcaption>Thin content</figcaption>
+</figure>
+<aside class="notes">
+<p>Creating a page for every single one of the keywords in order to rank on page 1 for those highly specific queries.</p>
+<p>Different pages even if they are essentialy saying the same thing, or for each city or region the company works on.</p>
+<p>Not helpful for users, so addressed directly by Google on 2011. The assessment of quality content is a work in progress.</p>
+<p>You should have a comprehensive page on a topic instead of multiple, weaker pages for each variation of a keyword.</p>
+</aside>
+</section><section id="low-value-tactics-to-avoid-1" class="slide level3" data-transition="fade">
+<h3>Low value tactics to avoid</h3>
+<figure>
+<img data-src="img/duplicate-content.svg" alt="Duplicate content" width="800" /><figcaption>Duplicate content</figcaption>
+</figure>
+<aside class="notes">
+<p>This can include taking content and republishing as-is, or modifying it slightly before republishing, without adding any original content or value.</p>
+<p>Duplication is not penalized, but instead filtered now. Your page could just as well not show up at all on SERPs – the original page would.</p>
+</aside>
+</section><section id="low-value-tactics-to-avoid-2" class="slide level3" data-transition="fade">
+<h3>Low value tactics to avoid</h3>
+<figure>
+<img data-src="img/spotify1.png" alt="Users were presented with a login screen in Spotify when searching for the National Philharmonic orchestra." width="600" /><figcaption>Users were presented with a login screen in Spotify when searching for the National Philharmonic orchestra.</figcaption>
+</figure>
+<aside class="notes">
+<p>showing a different thing to crawlers than to human visitors.</p>
+<p>Spotify lost bt. 45-82% of their visibility in 2016 for this reason.</p>
+</aside>
+</section><section id="low-value-tactics-to-avoid-3" class="slide level3" data-transition="fade">
+<h3>Low value tactics to avoid</h3>
+<figure>
+<img data-src="img/spotify2.png" alt="Viewing Google’s cached version of the page shows the content Spotify provided to the search engine" height="450" /><figcaption>Viewing Google’s cached version of the page shows the content Spotify provided to the search engine</figcaption>
+</figure>
+</section><section id="low-value-tactics-to-avoid-4" class="slide level3" data-transition="fade-in slide-out">
+<h3>Low value tactics to avoid</h3>
+<figure>
+<img data-src="img/keyword-stuffing.png" alt="Keyword stuffing" /><figcaption>Keyword stuffing</figcaption>
+</figure>
+<aside class="notes">
+<p>Many people mistakenly think that if you just include a keyword within your page’s content X times, you will automatically rank for it.</p>
+<p>If a page is going to be valuable to users, it won’t sound like it was written by a robot, so incorporate your keywords and phrases naturally in a way that is understandable to your readers.</p>
+</aside>
+<!-- https://moz.com/beginners-guide-to-seo/on-page-seo -->
+</section><section id="site-structure" class="slide level3" data-transition="slide-in fade-out">
+<h3>Site structure</h3>
+<p>Highly important for both</p>
+<div class="box center" style="padding-top:0;margin-bottom:.6em;">
+<p>usability <span style="width:25px;display:inline-block;font-size:2em;padding:0 .6em;vertical-align:baseline"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="plus" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="svg-inline--fa fa-plus fa-w-14 fa-2x"><path fill="currentColor" d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z" class=""></path></svg></span> findability / SEO</p>
+</div>
+<figure style="text-align: right">
+<figcaption>
+Marieke van de Rakt, <a href="https://yoast.com/site-structure-the-ultimate-guide/">Site structure: the ultimate guide</a>
+</figcaption>
+</figure>
+<aside class="notes">
+<ul>
+<li>The structure of the site (IA) has a significant impact on the UX. Navigating should be easy. You need to categorize and link your posts and products so they are easy to find. New visitors should be able to instantly grasp what you’re writing about or selling.</li>
+<li>Improves chances of ranking, helps search engines ‘understand’ the site</li>
+</ul>
+</aside>
+</section><section id="site-structure-1" class="slide level3" data-transition="fade">
+<h3>Site structure</h3>
+<p>The homepage</p>
+<p>Classifying links: navigation menu, breadcrumbs, categories/tags</p>
+<p>Contextual links</p>
+<aside class="notes">
+<p>Homepage: on top of the pyramid. Most important pages should be linked from the homepage.</p>
+<ul>
+<li>visitors more likely to end up there</li>
+<li>show Google that they are important</li>
+</ul>
+<p>Contextual: internal links in the text, relevant for someone reading the current page. The importance of CONTEXT</p>
+</aside>
+</section><section id="page-structure" class="slide level3">
+<h3>Page structure</h3>
+<p>Header tags: there is only one <code>&lt;h1&gt;</code> (should be unique)</p>
+<p>Use sub-topics according to keyword hierarchy</p>
+<p>Internal links: anchor text, context, volume</p>
+<aside class="notes">
+<p>h1 should contain the primary keyword or phrase</p>
+<p>link vol: limit the number of links on a page to a reasonable number</p>
+</aside>
 <p>Copywriting https://yoast.com/complete-guide-seo-copywriting/</p>
 </section></section>
     </div>
