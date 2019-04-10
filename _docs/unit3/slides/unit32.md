@@ -99,6 +99,9 @@ Not a traditional organic result
 
 ### How?
 
+<div style="height:1em;"> </div>
+Essentially:
+
 > Don’t try to trick search engines. Instead, provide your visitors with a great online experience.
 
 ---
@@ -159,6 +162,56 @@ https://moz.com/beginners-guide-to-seo/how-search-engines-operate
 -->
 
 ### 1. Crawl
+
+![](img/crawling.svg)
+
+::: notes
+
+Crawling is the discovery process in which search engines send out a team of robots (known as crawlers or spiders) to find new and updated content. Content can vary — it could be a webpage, an image, a video, a PDF, etc. — but regardless of the format, content is discovered by links.
+
+Googlebot starts out by fetching a few web pages, and then follows the links on those webpages to find new URLs. By hopping along this path of links, the crawler is able to find new content and add it to their index called Caffeine — a massive database of discovered URLs — to later be retrieved when a searcher is seeking information that the content on that URL is a good match for.
+
+:::
+
+### 1. Crawl
+
+Search engines need to find our pages in order for them to appear as search results.
+
+To check how many/which pages are indexed in a search engine, use the `site:` advanced operator:
+
+<div class="box">
+
+```
+site:deusto.es
+```
+
+</div>
+---
+
+![&nbsp;](img/crawl-results.png)
+
+### 2. Index
+
+<div style="height:2em;"></div>
+
+![&nbsp;](img/index.png)
+
+::: notes
+
+Search engines process and store information they find in an index, a huge database of all the content they’ve discovered and deem good enough to serve up to searchers.
+
+:::
+
+### 3. Rank
+
+![&nbsp;](img/rank.jpg)
+
+::: notes
+
+Ordering of results from the index according to relevance.
+
+:::
+
 
 ## Keyword research
 
