@@ -663,4 +663,7 @@ adapting texts is costly: first, is it worth it?
     https://www.nngroup.com/articles/how-users-read-on-the-web/
     https://www.nngroup.com/articles/inverted-pyramids-in-cyberspace/
 https://yoast.com/tag/content-seo/
+
+https://content-guide.18f.gov/
+
 -->
