@@ -99,14 +99,15 @@ Not a traditional organic result
 
 ### How?
 
-<div style="height:1em;"> </div>
-Essentially:
+<div style="padding-top:1em;font-size:1.3em"> 
 
-> Don’t try to trick search engines. Instead, provide your visitors with a great online experience.
+The primary goal should be to build and maintain <span class="highlighted">THE BEST possible website</span>. Ranking in Google will come automatically if the website is of extremely high quality.
+
+</div>
 
 ---
 
-<h3> Basic principles <div style="width:60px;display:inline-block;margin-left:30px;color:#666"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="hat-wizard" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-hat-wizard fa-w-16 fa-2x"><path fill="currentColor" d="M496 464h-35.5l-81.32-200.17c-7.21-17.73-7.99-37.64-2.21-55.94L442.67 0 223.83 131.92c-27.61 16.64-49.46 42.15-62.37 72.8L52.22 464H16c-8.84 0-16 7.16-16 16v16c0 8.84 7.16 16 16 16h480c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16zm-256 0l10.67-21.33L304 416l-53.33-26.67L224 336l-26.67 53.33L144 416l53.33 26.67L208 464H104.31l101.38-240.64c.99-2.36 2.34-4.5 3.49-6.77L224 224l16 32 16-32 32-16-32-16-8.93-17.86c.53-.34 1-.79 1.54-1.11l110-66.31-27.4 86.71c-9.15 28.96-7.91 60.38 3.51 88.47l6.86 16.89L320 288l-16-32-16 32-32 16 32 16 16 32 16-32 25.09-12.55L408.69 464H240z" class=""></path></svg></div></h3>
+<h3> Basic principles <div style="width:60px;display:inline-block;margin-left:30px;color:#666"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="hat-wizard" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-hat-wizard fa-w-16 fa-2x"><path fill="currentColor" d="M496 464h-35.5l-81.32-200.17c-7.21-17.73-7.99-37.64-2.21-55.94L442.67 0 223.83 131.92c-27.61 16.64-49.46 42.15-62.37 72.8L52.22 464H16c-8.84 0-16 7.16-16 16v16c0 8.84 7.16 16 16 16h480c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16zm-256 0l10.67-21.33L304 416l-53.33-26.67L224 336l-26.67 53.33L144 416l53.33 26.67L208 464H104.31l101.38-240.64c.99-2.36 2.34-4.5 3.49-6.77L224 224l16 32 16-32 32-16-32-16-8.93-17.86c.53-.34 1-.79 1.54-1.11l110-66.31-27.4 86.71c-9.15 28.96-7.91 60.38 3.51 88.47l6.86 16.89L320 288l-16-32-16 32-32 16 32 16 16 32 16-32 25.09-12.55L408.69 464H240z" class=""></path></svg></div><div style="display:inline-block;font-family:raustila;font-size:.8em;color:#fff;text-shadow: 0 0 2px #333;transform:rotate(-15deg);vertical-align:middle;">white hat</div></h3>
 
 >- Make pages primarily for **users, not search engines**.
 >- Don't deceive your users.
@@ -115,7 +116,7 @@ Essentially:
 
 ---
 
-<h3> Things to avoid <div style="width:60px;display:inline-block;margin-left:30px;color:#333"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="hat-witch" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-hat-witch fa-w-18 fa-2x"><path fill="currentColor" d="M571.21 426.81l-22.66-22.66c-6.03-6.03-15.49-5.96-21.99-.43C492.89 432.38 450.6 448 405.89 448H170.11c-44.71 0-87.01-15.62-120.68-44.28-6.5-5.53-15.95-5.61-21.99.43L4.79 426.81c-6.44 6.44-6.45 17.25.4 23.25C50.85 490.12 108.8 512 170.11 512h235.78c61.31 0 119.26-21.88 164.93-61.94 6.84-6 6.84-16.81.39-23.25zM224 416v-64c0-17.67 14.33-32 32-32h64c17.67 0 32 14.33 32 32v64h53.89c23.94 0 46.54-5.79 67.29-15.91l-79.6-185.73a64.009 64.009 0 0 1-1.89-45.45l6.35-19.04A32.01 32.01 0 0 1 428.4 128h39.2c13.77 0 26 8.81 30.36 21.88L512 192l30.36-77.24c3.83-11.5.84-24.18-7.73-32.75L465.28 9.37c-10.21-10.2-25.97-12.32-38.5-5.16L260.43 107.18a128.004 128.004 0 0 0-53.47 59.15L103.03 400.19c20.69 10.06 43.23 15.81 67.08 15.81H224zm32 0h64v-64h-64v64z" class=""></path></svg></div></h3>
+<h3> Things to avoid <div style="width:60px;display:inline-block;margin-left:30px;color:#333"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="hat-witch" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-hat-witch fa-w-18 fa-2x"><path fill="currentColor" d="M571.21 426.81l-22.66-22.66c-6.03-6.03-15.49-5.96-21.99-.43C492.89 432.38 450.6 448 405.89 448H170.11c-44.71 0-87.01-15.62-120.68-44.28-6.5-5.53-15.95-5.61-21.99.43L4.79 426.81c-6.44 6.44-6.45 17.25.4 23.25C50.85 490.12 108.8 512 170.11 512h235.78c61.31 0 119.26-21.88 164.93-61.94 6.84-6 6.84-16.81.39-23.25zM224 416v-64c0-17.67 14.33-32 32-32h64c17.67 0 32 14.33 32 32v64h53.89c23.94 0 46.54-5.79 67.29-15.91l-79.6-185.73a64.009 64.009 0 0 1-1.89-45.45l6.35-19.04A32.01 32.01 0 0 1 428.4 128h39.2c13.77 0 26 8.81 30.36 21.88L512 192l30.36-77.24c3.83-11.5.84-24.18-7.73-32.75L465.28 9.37c-10.21-10.2-25.97-12.32-38.5-5.16L260.43 107.18a128.004 128.004 0 0 0-53.47 59.15L103.03 400.19c20.69 10.06 43.23 15.81 67.08 15.81H224zm32 0h64v-64h-64v64z" class=""></path></svg></div><div style="display:inline-block;font-family:raustila;font-size:.8em;color:#000;text-shadow: 0 0 5px #ccc;transform:rotate(-15deg);vertical-align:middle;">black hat</div></h3>
 
 - Automatically generated content
 - Participating in link schemes
@@ -335,7 +336,13 @@ Calculating the number of links pointing to any given site helped them do this. 
 
 :::
 
-### 3. Rank: links (SEO _off-page_) {data-transition="fade"}
+### 3. Rank: links {data-transition="fade"}
+
+<div class="box fragment" style="background-color:white;border:solid 3px #000;width:300px;position:absolute;top:40px; right:20px;transform: rotate(10deg);color:#333;font-size:.9em;padding:0 .5em;">
+Topic list for A3:
+
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-check-circle fa-w-16 fa-2x"><path fill="currentColor" d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 48c110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200-110.532 0-200-89.451-200-200 0-110.532 89.451-200 200-200m140.204 130.267l-22.536-22.718c-4.667-4.705-12.265-4.736-16.97-.068L215.346 303.697l-59.792-60.277c-4.667-4.705-12.265-4.736-16.97-.069l-22.719 22.536c-4.705 4.667-4.736 12.265-.068 16.971l90.781 91.516c4.667 4.705 12.265 4.736 16.97.068l172.589-171.204c4.704-4.668 4.734-12.266.067-16.971z" class=""></path></svg></div><p style="display:inline-block;margin-top:0;font-size:.6em;">Link juice</p>
+</div>
 
 <div class="small">
 
@@ -384,13 +391,15 @@ focus on user satisfaction and task accomplishment.All those can play a role in 
 
 ### 3. Rank: RankBrain {data-transition="fade" data-background="#595959"}
 
+<div class="box fragment" style="background-color:white;border:solid 3px #000;width:300px;position:absolute;top:40px; right:20px;transform: rotate(10deg);color:#333;font-size:.9em;padding:0 .5em;">
+Topic list for A3:
+
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div><p style="display:inline-block;margin:0;font-size:.6em;">Link juice</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-check-circle fa-w-16 fa-2x"><path fill="currentColor" d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 48c110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200-110.532 0-200-89.451-200-200 0-110.532 89.451-200 200-200m140.204 130.267l-22.536-22.718c-4.667-4.705-12.265-4.736-16.97-.068L215.346 303.697l-59.792-60.277c-4.667-4.705-12.265-4.736-16.97-.069l-22.719 22.536c-4.705 4.667-4.736 12.265-.068 16.971l90.781 91.516c4.667 4.705 12.265 4.736 16.97.068l172.589-171.204c4.704-4.668 4.734-12.266.067-16.971z" class=""></path></svg></div><p style="display:inline-block;margin-top:0;font-size:.6em;">BrainRank</p>
+</div>
+
 ![Google RankBrain](img/rankbrain.jpg)
-
-## Keyword research
-
----
-
-https://moz.com/beginners-guide-to-seo/keyword-research
 
 ## The importance of quality content for SEO
 
@@ -466,24 +475,58 @@ The homepage
 
 Classifying links: navigation menu, breadcrumbs, categories/tags
 
-Contextual links
+![eBay navigation menus](img/ebay-menu.png)
 
 ::: notes
 Homepage: on top of the pyramid. Most important pages should be linked from the homepage.
 
 - visitors more likely to end up there
 - show Google that they are important
+:::
 
+### Site structure {data-transition="fade"}
+
+The homepage
+
+Classifying links: navigation menu, breadcrumbs, categories/tags
+
+<div style="margin-top:-200px;">
+![Breadcrumbs in an Amazon product page](img/breadcrumbs.jpg)
+</div>
+
+### Site structure {data-transition="fade"}
+
+<div class="box fragment" style="background-color:white;border:solid 3px #000;width:300px;position:absolute;top:40px; right:20px;transform: rotate(10deg);color:#333;font-size:.9em;padding:0 .5em;">
+Topic list for A3:
+
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div><p style="display:inline-block;margin:0;font-size:.6em;">Link juice</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div><p style="display:inline-block;margin:0;font-size:.6em;">BrainRank</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-check-circle fa-w-16 fa-2x"><path fill="currentColor" d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 48c110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200-110.532 0-200-89.451-200-200 0-110.532 89.451-200 200-200m140.204 130.267l-22.536-22.718c-4.667-4.705-12.265-4.736-16.97-.068L215.346 303.697l-59.792-60.277c-4.667-4.705-12.265-4.736-16.97-.069l-22.719 22.536c-4.705 4.667-4.736 12.265-.068 16.971l90.781 91.516c4.667 4.705 12.265 4.736 16.97.068l172.589-171.204c4.704-4.668 4.734-12.266.067-16.971z" class=""></path></svg></div> <p style="display:inline-block;margin-top:0;font-size:.6em !important;">Context of links</p>
+</div>
+
+The homepage
+
+Classifying links: navigation menu, breadcrumbs, categories/tags
+
+Contextual links
+
+::: notes
 Contextual: internal links in the text, relevant for someone reading the current page. The importance of CONTEXT
 :::
 
 ### Page structure
 
-Header tags: there is only one `<h1>` (should be unique)
+<div style="width:40%;float:right;" class="fragment">
+![](img/on-page-seo.png)
+</div>
 
-Use sub-topics according to keyword hierarchy
-
-Internal links: anchor text, context, volume
+<div style="width:60%;float:left;padding-top:1em;">
+- Header tags: there is only one `<h1>` (should be unique)
+- Use sub-topics according to keyword hierarchy
+- Internal links: anchor text, context, volume
+</div>
 
 ::: notes
 h1 should contain the primary keyword or phrase
@@ -491,4 +534,115 @@ h1 should contain the primary keyword or phrase
 link vol: limit the number of links on a page to a reasonable number
 :::
 
-Copywriting https://yoast.com/complete-guide-seo-copywriting/
+### Copywriting {data-transition="slide-in fade-out"}
+
+<div class="fragment fade-in" data-fragment-index="1">
+<div class="box fragment fade-out" data-fragment-index="2" style="background-color:white;border:solid 3px #000;width:300px;position:absolute;top:40px; right:20px;transform: rotate(10deg);color:#333;font-size:.9em;padding:0 .5em;">
+Topic list for A3:
+
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div><p style="display:inline-block;margin:0;font-size:.6em;">Link juice</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div><p style="display:inline-block;margin:0;font-size:.6em;">BrainRank</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div> <p style="display:inline-block;margin:0;font-size:.6em !important;">Context of links</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-check-circle fa-w-16 fa-2x"><path fill="currentColor" d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 48c110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200-110.532 0-200-89.451-200-200 0-110.532 89.451-200 200-200m140.204 130.267l-22.536-22.718c-4.667-4.705-12.265-4.736-16.97-.068L215.346 303.697l-59.792-60.277c-4.667-4.705-12.265-4.736-16.97-.069l-22.719 22.536c-4.705 4.667-4.736 12.265-.068 16.971l90.781 91.516c4.667 4.705 12.265 4.736 16.97.068l172.589-171.204c4.704-4.668 4.734-12.266.067-16.971z" class=""></path></svg></div> <p style="display:inline-block;margin-top:0;font-size:.6em !important;">Keyword research</p>
+</div>
+</div>
+
+Before writing, always start with keyword research
+
+<div class="box center fragment" data-fragment-index="2" style="margin-top:2em;"> 
+The writing process: 
+
+![Stages in the writing process](img/writing-process-1.png)
+</div>
+
+::: notes
+1st, recap on:
+
+- what's the main message?
+- who's the audience?
+
+Think about the structure / hierarchy of keywords / inverted pyramid
+:::
+
+### Copywriting {data-transition="fade"}
+
+Before writing, always start with keyword research
+
+<div class="box center" style="margin-top:2em;">
+The writing process: 
+
+![Stages in the writing process](img/writing-process-2.png)
+</div>
+
+::: notes
+Just write. 
+
+Beginnings and endings are easier to write once you’ve fleshed out the main body of your post.
+
+Use the structure created in the previous step as an outline. Inverted pyramid at the paragraph level.
+:::
+
+### Copywriting {data-transition="fade"}
+
+Before writing, always start with keyword research
+
+<div class="box center" style="margin-top:2em;">
+The writing process: 
+
+![Stages in the writing process](img/writing-process-3.png)
+</div>
+
+::: notes
+Edit that first draft until the final version of the article.
+
+re-re-read and correct any awkward sentences, unclear phrasing, and jumbled paragraph structures. 
+
+1. Read slowly and out loud, check for correct grammar & spelling
+2. Focus on sentences (not too long)
+3. Focus on paragraphs (structure, first sentence, transitions)
+4. Structure between paragraphs, headings & subheadings
+5. Ask for feedback (proofread)
+:::
+
+### Measuring accomplishments in SEO
+
+<div class="box fragment" data-fragment-index="2" style="z-index:1;background-color:white;border:solid 3px #000;width:300px;position:absolute;top:40px; right:20px;transform: rotate(10deg);color:#333;font-size:.9em;padding:0 .5em;">
+Topic list for A3:
+
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div><p style="display:inline-block;margin:0;font-size:.6em;">Link juice</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div><p style="display:inline-block;margin:0;font-size:.6em;">BrainRank</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div> <p style="display:inline-block;margin:0;font-size:.6em !important;">Context of links</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-circle fa-w-16 fa-3x"><path fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200z" class=""></path></svg></div> <p style="display:inline-block;margin:0;font-size:.6em !important;">Keyword research</p>
+<br />
+<div style="display:inline-block;width:20px;"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-check-circle fa-w-16 fa-2x"><path fill="currentColor" d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 48c110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200-110.532 0-200-89.451-200-200 0-110.532 89.451-200 200-200m140.204 130.267l-22.536-22.718c-4.667-4.705-12.265-4.736-16.97-.068L215.346 303.697l-59.792-60.277c-4.667-4.705-12.265-4.736-16.97-.069l-22.719 22.536c-4.705 4.667-4.736 12.265-.068 16.971l90.781 91.516c4.667 4.705 12.265 4.736 16.97.068l172.589-171.204c4.704-4.668 4.734-12.266.067-16.971z" class=""></path></svg></div> <p style="display:inline-block;margin-top:0;font-size:.6em !important;">Measuring SEO</p>
+</div>
+
+<div style="height:1em;">&nbsp;</div>
+
+>If you can't measure something, you can't improve it. 
+
+<div style="height:.6em;">&nbsp;</div>
+
+>You can't manage what you can't measure.
+
+## The single most important take away about SEO
+
+---
+
+<div style="padding-top:1em;font-size:1.3em"> 
+
+The primary goal should be to build and maintain <span class="highlighted">THE BEST possible website</span>. Ranking in Google will come automatically if the website is of extremely high quality.
+
+</div>
+
+### Resources
+https://yoast.com/complete-guide-seo-copywriting/
+
+- [ ] Gather all references here
+<!-- - [x] Add A3 topic boxes -->
