@@ -4,8 +4,8 @@ subtitle: Production of messages for the web
 theme: deusto
 syntax-highlighting: true
 deusto: true
-revealjs-url: /MSGW/assets/reveal.js
-template: ../assets/reveal.js/default.revealjs
+revealjs-url: ../reveal.js
+template: ../reveal.js/default.revealjs
 ...
 
 <div class="center">

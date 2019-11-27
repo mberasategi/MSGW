@@ -3,7 +3,8 @@ title: UNIT 3<br />Writing for the web
 subtitle: Search Engine Optimization (SEO)
 theme: deusto
 deusto: TRUE
-revealjs-url: ../../../assets/reveal.js
+revealjs-url: ../reveal.js
+template: ../reveal.js/default.revealjs
 css: style.css
 ...
 

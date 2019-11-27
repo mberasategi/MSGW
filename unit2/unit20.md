@@ -3,7 +3,8 @@ title: UNIT 2<br />Creation on the web
 subtitle: Production of messages for the web
 theme: deusto
 deusto: TRUE
-revealjs-url: ../../../assets/reveal.js
+revealjs-url: ../reveal.js
+template: ../reveal.js/default.revealjs
 css: style.css
 ...
 

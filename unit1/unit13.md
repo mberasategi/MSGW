@@ -2,9 +2,10 @@
 title: UNIT 1<br />The web environment
 subtitle: 1.3 The W3C<br />Leading the web to its full potential
 theme: deusto
-revealjs-url: ../../../assets/reveal.js
+deusto: TRUE
+revealjs-url: ../reveal.js
+template: ../reveal.js/default.revealjs
 css: style.css
-deusto: true
 ...
 
 ## What is the W3C?

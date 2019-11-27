@@ -5,8 +5,8 @@ author: Miren Berasategi
 email: miren.berasategi@deusto.es
 theme: deusto
 deusto: true
-revealjs-url: /MSGW/assets/reveal.js
-template: ../assets/reveal.js/default.revealjs
+revealjs-url: ../reveal.js
+template: ../reveal.js/default.revealjs
 ...
 
 ## {.center}

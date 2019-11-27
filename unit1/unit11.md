@@ -2,7 +2,9 @@
 title: UNIT 1<br />The web environment
 subtitle: 1.1 How the web works
 theme: deusto
-revealjs-url: ../../../assets/reveal.js
+deusto: TRUE
+revealjs-url: ../reveal.js
+template: ../reveal.js/default.revealjs
 css: style.css
 ...
 

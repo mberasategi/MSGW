@@ -3,7 +3,8 @@ title: UNIT 2<br />Creation on the web
 subtitle: 2.1 Context
 theme: deusto
 deusto: TRUE
-revealjs-url: ../../../assets/reveal.js
+revealjs-url: ../reveal.js
+template: ../reveal.js/default.revealjs
 css: style.css
 header-includes: <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet"> 
 ...
