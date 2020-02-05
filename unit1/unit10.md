@@ -1,6 +1,6 @@
 ---
-title: UNIT 1<br />The web environment
-subtitle: Production of messages for the web
+title: UNIT 1<br />The context of online journalism
+subtitle: Fundamentals about the Internet and the Web
 theme: deusto
 deusto: TRUE
 revealjs-url: ../reveal.js
@@ -8,12 +8,15 @@ template: ../reveal.js/default.revealjs
 css: style.css
 ...
 
-## The Internet <span class="fragment">&#x2260; Web</span>
+# The Internet &#x2260; Web
 
-<div class="center fragment">
+## {.center}
+
+#### The Internet &#x2260; Web: 
+
 Two terms that are  
 **mis-used** as synonyms
-</div>
+
 
 ## The Internet 
 
@@ -49,7 +52,7 @@ There are many ways to share information over the internet, standardised  method
 
 ## The Web
 
->A system of Internet servers that support specially formatted documents. The documents are formatted in a markup language called HTML (_HyperText Markup Language_) that supports links to other documents, as well as graphics, audio, and video files. This means you can jump from one document to another simply by clicking on hot spots. 
+>A system of Internet servers that support specially formatted documents. The documents are formatted in a markup language called HTML \(_HyperText Markup Language_\) that supports links to other documents, as well as graphics, audio, and video files. This means you can jump from one document to another simply by clicking on hot spots. 
 >
 >There are several applications called Web browsers that make it easy to access the World Wide Web.
 >
@@ -82,9 +85,9 @@ A **uniform resource identifier** (**URI**) is a string of characters used to id
 
 Such identification enables interaction with representations of the web resource over a network (typically the World Wide Web) using specific protocols. Schemes specifying a concrete syntax and associated protocols define each URI.
 
-<div class="center">
+<!-- <div class="center">
 Reading: [Cool URIs don’t change](http://www.w3.org/Provider/Style/URI.html.en)
-</div>
+</div> -->
 
 ## The Web: URIs
 
@@ -160,7 +163,149 @@ In general, authors should use style sheets to achieve stylistic and formatting 
 from [W3C, HTML 4.01 Specification](http://www.w3.org/TR/html401/conform.html#deprecated)
 </figcaption></figure>
 
-## The Web
+## {.center}
 
-Just another way to share information over the internet.
+The web is<br />just another way to share information over the internet.
 
+# How web browsing works
+
+## {.center}
+
+
+
+![Jennifer NIEDERST ROBBINS, _Learning Web Design_. O’Reilly: Canada, 2007. 681.374.13/N49j](img/process.png){width=550}
+
+
+---
+
+## 1
+
+You request a web page by either typing its URL (for example, `http://jenskitchensite.com`) directly in the browser, or by clicking a link on the page.
+
+---
+
+### Server
+There are many software options, but the most popular ones are: Apache (<span class="highlighted">open source</span>) and Microsoft Internet Information Services (IIS).
+
+#### IP addresses
+Each computer on the internet has its own and unique numeric IP address. The Domain Name System (DNS) translates those numeric IPs into server names, which are easier to read and remember.
+
+---
+
+### Browsers
+They are the **client** on the web architecture: they request the information or documents, and the server returns them.
+
+<div class="small">
+**Graphic desktop browsers** are the most popular, but there are many other ways to experiment navigation on the web: screen readers, text-only browsers... Even graphic browsers are available for very different screen sizes. Web sites must be created so that they are accessible from all these environments.
+</div>
+
+The most popular ones are Internet Explorer, Mozilla Firefox, Google Chrome and Safari.
+
+---
+
+## {data-transition="slide-in fade-out"}
+
+### Web page addresses (URLs)
+
+<div class="center">
+![](img/url.png)
+</div>
+
+<span class="highlighted">`http://`</span>
+
+<div class="small">
+Defines the protocol that will be used for this particular transaction. The letters HTTP let the server know to use Hypertext Transfer Protocol, or get into _web-mode_.
+</div>
+
+---
+
+## {data-transition="fade"}
+
+### Web page addresses (URLs)
+
+<div class="center">
+![](img/url.png)
+</div>
+
+<span class="highlighted">`www.jendesign.com`</span>
+<div class="small">
+Identifies the website by its domain name (`jendesign.com`). The `www.` part at the beginning is the particular host name at that domain. The host name _www_ has become a convention, but is not a rule. There can be more than one web site at a domain (sometimes called subdomains).
+</div>
+
+---
+
+## {data-transition="fade"}
+
+### Web page addresses (URLs)
+
+<div class="center">
+![](img/url.png)
+</div>
+
+<span class="highlighted">`/2007/samples/first.html`</span>
+<div class="small">
+This is the absolute path to the requested HTML document, `first.html`. The words separated by slashes indicate the pathway through directory levels, starting with the root directory of the host. 
+</div>
+
+## 2
+
+The browser sends an HTTP request to the server named in the URL and asks for the specific file. If the URL specifies a directory (not a file), it is the same as requesting the <span class="highlighted">default file</span> in that directory.
+
+---
+
+### Default files
+
+<div class="small">
+Many addresses do not include a file name, but simply point to a directory. In these cases, the server looks in that directory for a default document, typically named `index.html`, and sends it back for display.
+
+The name of the default file (also referred to as the index file) may vary, and depends on how the server is configured (it can also be `default.htm`, `index.php`...)
+
+The index file is also useful for security. Some servers return the contents of the directory for display in the browser if the default file is not found; one way to prevent people from snooping around in your files is to be sure there is an index file in every directory.
+</div>
+
+## 3
+
+The server looks for the requested file and issues an HTTP response.
+
+1. If the page is not found, the server returns an error message (typically, `404 Not Found`)
+2. It the document _is_ found, the server retrieves the requested file and returns it to the browser
+
+## 4
+
+The browser parses the HTML document. If the page contains images, the browser contacts the server again to request each image file specified in the markup.
+
+---
+
+### Anatomy of a web page
+
+<div class="center">
+![](img/browserview.png)
+</div>
+
+---
+
+### HTML documents
+
+The graphically rich and interactive pages we see on the web are generated by simple, text-only documents: just letters, numbers, and a few symbol characters. This text file is referred to as the source document.
+
+HTML &rarr;
+
+---
+
+### Anatomy of a web page
+
+<div class="center">
+![](img/page.png)
+</div>
+
+## 5
+
+The browser inserts each image in the document flow where indicated by the markup and _voilà_! The assembled web page is displayed for your viewing pleasure.
+
+
+<!-- # Key takeouts
+
+---
+
+- The internet and the web are NOT the same thing
+-  -->
