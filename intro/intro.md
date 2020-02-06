@@ -116,8 +116,8 @@ Specific instructions for each activity will be available to students through AL
 The following evidences are used for the assessment and grading of this subject:
 
 <div class="small">
-- A **final exam**, making up to 40% of the final grade.
-- **Individual activities** making up to 20% of the final grade
+- A **final exam**, making up to 30% of the final grade.
+- **Individual activities** making up to 30% of the final grade
 - **Team projects** making up to 40% of the final grade
 </div>
 
