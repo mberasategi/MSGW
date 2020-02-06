@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i&display=swap');
+
+a, .btn-link { color: #5e81ac; }
+a:hover, .btn-link:hover { color:#254F82; }
+
+h1, h2, h3, h4, h5, h6 { font-family: "Roboto", sans-serif; }
+h2, h3, h4 { color: #5e81ac; font-weight:600; padding-top:.6em; }
+h2 { font-size: 2rem; text-transform:uppercase; }
+h3 { }
+h4 { color: #2e3440; text-transform: uppercase; font-size: 1.2rem; }
+h1 :target, h2 :target, h3 :target, h4 :target, h5 :target, h6 :target { padding-top: 50px;visibility: hidden; }
+
+article i, .fake-li i { display:inline-block; width:1.1em; vertical-align: middle; margin-right:.3em; opacity: .6; }
+/* article i::before, .fake-li i::before { content:none !important; } */
+
+#yui_3_17_2_1_1575373076285_211, aside > section:first-child div > div { margin-top: 0 !important; }
+#yui_3_17_2_1_1575373076285_211 svg, aside > section:first-child div > div svg { opacity:.5; width:.5em; vertical-align: baseline; }
+
+#inst222553 .card-text.mt-3 { margin-top:0; }
+
+.path-course-view .completionprogress { font-size:.9em; text-transform:uppercase; }
+.path-course-view .completionprogress::after { content: "\02935"; vertical-align: bottom; font-family: sans-serif; }
+
+.warning { background-color: #ebcb8b; border-radius: .3em; padding: .3em .6em; margin:3em 0; }
+.warning i { margin-right: .6em; vertical-align:middle; }
+.warning h3 { display: inline-block; color: #2e3440; padding-top: .1em; text-transform: uppercase; font-size: 1.2em; font-weight: 600; }
+.warning p { font-weight: normal; font-style: italic; padding-left: 30px; }
+
+/* Course page icon replacements */
+
+img[src*="quiz"] { display: none; }
+img[src*="quiz"] + span::before { content:url('https://alud.deusto.es/pluginfile.php/847510/mod_folder/content/0/self-report.svg?forcedownload=1'); width:1.6em; display: inline-block; vertical-align:middle; position: relative; left: 1em; }
+
+img[src*="workshop"] { display: none; }
+img[src*="workshop"] + span::before { content:url('https://alud.deusto.es/pluginfile.php/847510/mod_folder/content/0/peer-review.svg?forcedownload=1'); width:1.6em; display: inline-block; vertical-align:middle; position: relative; left: 1em; }
+
+
+/* Collapsible intro */
+
+button.collapsible { float: right; background: #eceff4; border-radius:.6em; border: none; text-transform: uppercase; font-weight: 600; color: #4c566a; margin-bottom:.6em; }
+button.collapsible:hover { color: #3b4252; }
+.collapsible-content { padding: 0 1em; display: block; overflow: hidden; clear:both; }
+
+.buttons { text-align: center; padding:3em 0;}
+.buttons img { width: 19%; max-width: 12em; min-width: 8em; }
+aside .buttons { padding:0 !important; }
+aside .buttons img { max-width: 90%; margin-bottom:1em; }
+
+/* Current unit */
+
+.course-content .current { background-color: #eceff4; border-left: 0 !important; /*border-bottom: solid 1px #d8dee9 !important; border-right: solid 1px #d8dee9 !important; border-radius: .3em;*/ margin: 0 -1.26rem !important; padding: 0 1.26em !important; }
+
+/* Content pages */
+
+article p, article > ol, article > ul { width:65%; }
+
+article sup { font-size:.6em; }
+article .sidenote sup, article .marginnote sup { margin-left:-1.2em;  }
+
+article .sidenote, article .marginnote, article .toc {
+    float: right;
+    clear: right;
+    margin-right: -50%;
+    width: 41%;
+    margin-top: 0;
+    margin-bottom: 1.96rem;
+    font-size: 0.75rem;
+    line-height: 1.5;
+    vertical-align: baseline;
+    position: relative;
+    font-family: Roboto, sans-serif;
+    padding-left:1.2em;
+}
+
+article .toc {
+    margin-right:0 !important;
+    width:30% !important;
+    background-color: #eceff4;
+    padding: .3em .6em;
+    border-radius: .6em;
+    border-bottom: solid 1px #d8dee9;
+}
+
+article .toc ul { margin-bottom:0; }
+article .sidenote img, article .marginnote img { max-width:100%; }
+
+article span.newthought {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+article table th { border-bottom: solid 2px #d8dee9; padding: .6em; }
+article tr.even td, article tr.odd td { padding:.3em; }
+article tr.even { background-color:#eceff4; }
+
+.fake-header-table {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    display: block;
+    padding-top: 1rem;
+ }
+td.mid-table-header {
+    text-align: center;
+    vertical-align: bottom !important;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size:.8em;
+}
+.schedule td > i::before { color: #cecece; }
+.schedule td a i::before { color:#8fbcbb; }
+.schedule td a.group i::before { color: color:#d08770; }
+.schedule td a:hover i::before{ color:#387C79; }
+.schedule td:first-child { text-transform: uppercase; font-size: .7em; vertical-align: middle; font-style: italic; }
+
+.schedule td.break { padding-right: 2em; padding-left: 6em; }
+.schedule td.break p { font-family: Roboto; width: 9em; background-color:  white; font-style: normal; margin: 0 auto; color: #8fbcbb; text-align:center; }
+.schedule td.break::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #8fbcbb;
+    opacity:.6;
+    position: relative;
+    top: .66em;
+    z-index: -100;
+}
+
+iframe { width:800px; height:600px; border: solid 1px #ccc; }
