@@ -418,6 +418,10 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 3. Complete the assigned readings
 4. Fill-in your self-report in ALUD
 
+If you cannot access ALUD yet, use this page as reference for today's class:
+
+![https://miren.be/MSGW/intro/intro-class.htm](intro-class-qr.png)
+
 ## {.center}
 
 Questions...?
