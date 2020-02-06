@@ -286,7 +286,7 @@ You can find descriptions for all the assignments on the assignments page in ALU
     + I was fairly engaged and read fairly carefully \(_4 points_\)
     + I skimmed it \(_2 points_\)
     + I didn’t read it at all \(_0 points_\)
-3. Did you listen to a podcast episode or read an economics-related article outside of the regular readings?
+3. Did you listen to a podcast episode this week?
     + Yes \(_2 points_\)
     + No \(_0 points_\)
 
