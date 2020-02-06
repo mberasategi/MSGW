@@ -413,14 +413,18 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 
 ## BEFORE our next class...
 
+<div class="small">
 1. Check enrollment in ALUD (if you had problems today)
 2. Make sure you go <span class="highlighted" style="font-family:Roboto, sans-serif;">BUY THE HANDBOOK</span> in Delta!
 3. Complete the assigned readings
 4. Fill-in your self-report in ALUD
+</div>
 
-If you cannot access ALUD yet, use this page as reference for today's class:
+<div class="fragment">
 
-![https://miren.be/MSGW/intro/intro-class.htm](intro-class-qr.png)
+![No ALUD? Go here:<br /> [https://miren.be/MSGW/intro/intro-class.htm](https://miren.be/MSGW/intro/intro-class.htm)](intro-class-qr.png)
+
+</div>
 
 ## {.center}
 
