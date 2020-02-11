@@ -19,4 +19,10 @@ td.timeline {background-color:#999;}
   background-color: #FEF595 !important;
 }
 
+.sans { font-family: Roboto, sans-serif; font-size:.8em !important; }
+
+i.fa { width:.8em; display:inline-block; color:#999; }
+
+sup { font-size:.6em; color:#999; font-family:Roboto, sans-serif !important; margin-right:.6em; }
+
 body.index { width:80%; margin: 0 auto; font-family:Roboto, "Segoe UI", sans-serif; }
