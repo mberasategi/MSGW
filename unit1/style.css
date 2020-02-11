@@ -18,3 +18,5 @@ td.timeline {background-color:#999;}
 .reveal .slides section .fragment.highlighted.visible {
   background-color: #FEF595 !important;
 }
+
+body.index { width:80%; margin: 0 auto; font-family:Roboto, "Segoe UI", sans-serif; }
