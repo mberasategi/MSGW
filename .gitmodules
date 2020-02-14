@@ -1,3 +1,3 @@
 [submodule "reveal.js"]
 	path = reveal.js
-	url = git@github.com:mberasategi/reveal.js
+	url = https://github.com/mberasategi/reveal.js.git
