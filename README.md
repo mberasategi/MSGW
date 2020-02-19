@@ -9,7 +9,7 @@
 1. [Fundamentals about the Internet and the web](unit1/unit10.htm)
 1. [How did we get here?](unit1/unit11.htm)
 1. [The decline of print and online business models](unit1/unit12.htm)
-1. Current threats for online journalism
+1. [Current threats for online journalism](unit1/unit13.htm)
 
 <!-- ## UNIT2. Writing for the web
 
