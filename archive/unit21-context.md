@@ -40,7 +40,7 @@ Some are complex but structurable tasks, such as...
 
 ### Information design
 
-![The Continuum of Understanding, also known as the [DIKW Pyramid](https://en.wikipedia.org/wiki/DIKW_Pyramid)](continuum.png){height="450"}
+![The Continuum of Understanding, also known as the [DIKW Pyramid](https://en.wikipedia.org/wiki/DIKW_Pyramid)](img/continuum.png){height="450"}
 
 ---
 
@@ -58,7 +58,7 @@ Some are complex but structurable tasks, such as...
 
 ### Interaction design
 
-![&nbsp;](continuum-of-interactivity.png){height="500"}
+![&nbsp;](img/continuum-of-interactivity.png){height="500"}
 
 
 ---
