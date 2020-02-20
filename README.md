@@ -11,9 +11,9 @@
 1. [The decline of print and online business models](unit1/unit12.htm)
 1. [Current threats for online journalism](unit1/unit13.htm)
 
-<!-- ## UNIT2. Writing for the web
+## UNIT2. Writing for the web
 
-1. Finding leads and sources
+1. [Finding leads and sources](unit2/unit21.htm)
 2. The importance of content strategy
 3. BASIC principles for writing
 4. Search engine optimization (SEO)
@@ -38,5 +38,5 @@
 
 ## Closure & review
 
-1. Review & exam details -->
+1. Review & exam details
 
