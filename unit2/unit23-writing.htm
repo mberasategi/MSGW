@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>UNIT 2 Writing for the web</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <script src="https://use.fontawesome.com/d159bc5cc2.js"></script>
+  <link rel="stylesheet" href="../reveal.js/css/reveal.css">
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="../reveal.js/css/theme/deusto.css" id="theme">
+  <link rel="stylesheet" href="style.css"/>
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? '../reveal.js/css/print/pdf.css' : '../reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="../reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+
+  <div class="reveal">
+    <div class="slides">
+      
+            <div class="static">
+        <div class="bottomR"><img src="../reveal.js/logo-deusto.png" alt="Universidad de Deusto" /></div>
+        <div class="bottomL">
+                                <div class="title">UNIT 2<br />Writing for the web</div>
+                  </div>
+      </div>
+            
+<section id="title-slide">
+  <h1 class="title">UNIT 2<br />Writing for the web</h1>
+  <p class="subtitle">BASIC principles for writing for the web</p>
+</section>
+
+<section><section id="how-we-read-online" class="title-slide slide level1"><h1>How we read online</h1></section><section id="section" class="slide level2">
+<h2></h2>
+<div style="height:3em;">
+ 
+</div>
+<blockquote>
+<p>On the average Web page, users have time to read at most 28% of the words during an average visit; 20% is more likely.</p>
+</blockquote>
+<figure style="text-align:right;">
+<figcaption>
+Jakob Nielsen (2008), <a href="https://www.nngroup.com/articles/how-little-do-users-read/">“How Little Do Users Read?”</a>
+</figcaption>
+</figure>
+</section><section id="section-1" class="slide level2">
+<h2></h2>
+<div style="height:1em;">
+ 
+</div>
+<figure>
+<img data-src="img/page-visit-time-per-word-count.gif" alt="Page visit time per word count" /><figcaption>Page visit time per word count</figcaption>
+</figure>
+<aside class="notes">
+<p>Obviously, users tend to spend more time on pages with more information. However, the best-fit formula tells us that they spend only 4.4 seconds more for each additional 100 words.</p>
+<p>Usually, I assume a reading speed of 200 words per minute (WPM), but because the users in this study are highly literate, I’ll go with 250 WPM. At that reading speed, users can read 18 words in 4.4 seconds. Thus, when you add verbiage to a page, you can assume that customers will read 18% of it.</p>
+<p>The formula in the chart above indicates that there is a fixed time of about 25 seconds, plus an additional 4.4 seconds per 100 words.</p>
+</aside>
+</section><section id="section-2" class="slide level2">
+<h2></h2>
+<div style="height:1em;">
+ 
+</div>
+<figure>
+<img data-src="img/remove-online-distractions.jpg" alt="Our reading is dynamic: multiple sources at the same time, in search for speed, often non-linear reading" /><figcaption>Our reading is dynamic: multiple sources at the same time, in search for speed, often non-linear reading</figcaption>
+</figure>
+</section><section id="section-3" class="slide level2">
+<h2></h2>
+<figure>
+<img data-src="img/860_blue_light_and_sleep.png" alt="Reading on a screen is tiresome" title="© Junpinzon/iStockPhoto" /><figcaption>Reading on a screen is tiresome</figcaption>
+</figure>
+<aside class="notes">
+<ul>
+<li>Screen text is read 25% slower than print text</li>
+<li>regardless of technological advances, resolution/blue light still makes it tiresome</li>
+<li>scrolling is annoying</li>
+</ul>
+</aside>
+</section></section>
+<section><section id="highlights" class="title-slide slide level1"><h1>Highlights</h1></section><section id="b-is-for-brevity" class="slide level2" data-transition="slide-in fade-out">
+<h2>B is for brevity</h2>
+<ul>
+<li>We tend to read less on screen that we did on paper. Less so on mobile.
+<ul>
+<li>The custom of writing with brevity remains, although</li>
+<li>recent research challenges this.</li>
+</ul></li>
+</ul>
+</section><section id="b-is-for-brevity-1" class="slide level2" data-transition="fade">
+<h2>B is for brevity</h2>
+<!-- > The place between 500 and 800 words is the place you don't want to be because it's not short and fast and focused and shareable, but it's not long enough to be a real pay-off for readers.  -->
+<div class="small">
+<p>Readers prefer:</p>
+<ul>
+<li>Short, sharp, creative takes on news stories that say something new, OR</li>
+<li>long, in-depth articles providing strong detailed narrative or insightful analysis.</li>
+</ul>
+</div>
+<p><strong>What they <em>don’t</em> like is the stuff in the middle</strong> — 500 to 800 word articles that provide exhaustive detail but no insight.</p>
+<figure style="text-align:right;">
+<figcaption>
+Jasper Jackson (2013), Is this article too long or too short? Why newspapers are writing the wrong articles for the web [<a href="https://web.archive.org/web/20160306010246/http://www.themediabriefing.com/article/is-this-article-too-long-why-newspapers-are-getting-their-article-length-just-wrong-for-the-web">archived version</a>]
+</figcaption>
+</figure>
+</section><section id="b-is-for-brevity-2" class="slide level2 small" data-transition="fade">
+<h2>B is for brevity</h2>
+<ul>
+<li><strong>Full length of article</strong>. Either longform (+1,500w ~ 7min read) or short (around 300w)</li>
+<li><strong>Length of sentences/paragraps</strong>. One concept per paragraph</li>
+<li><strong>Characters per line</strong>. Fewer characters per line makes the text appear less complex</li>
+</ul>
+<div class="fragment fade-in" data-fragment-index="1">
+<div class="fragment fade-out" data-fragment-index="2">
+<figure>
+<img data-src="img/short-line-1.png" alt="By adding a featured image (or something else)  side by side with the first paragraph" width="500" /><figcaption>By adding a featured image (or something else) <br />side by side with the first paragraph</figcaption>
+</figure>
+</div>
+</div>
+<div class="fragment" data-fragment-index="2" style="margin-top:-325px;">
+<figure>
+<img data-src="img/short-line-2.png" alt="By increasing font size on the first paragraph" width="500" /><figcaption>By increasing font size on the first paragraph</figcaption>
+</figure>
+</div>
+</section><section id="b-is-for-brevity-3" class="slide level2 small" data-transition="fade">
+<h2>B is for brevity</h2>
+<ul>
+<li><strong>Full length of article</strong>. Either longform (+1,500w ~ 7min read) or short (around 300w)</li>
+<li><strong>Length of sentences/paragraps</strong>. One concept per paragraph</li>
+<li><strong>Characters per line</strong>. Fewer characters per line makes the text appear less complex</li>
+<li><strong>‘Chunk’ a larger piece into shorter parts</strong>. Each should have a particular focus. Pagination:
+<div class="smaller">
+<ul>
+<li>increases entry points</li>
+<li>no need of vertical scroll</li>
+<li>shorter text more appealing</li>
+<li>nonlinear reading, guided by interest
+</div></li>
+</ul></li>
+</ul>
+</section><section id="b-is-for-brevity-4" class="slide level2 small" data-transition="fade-in slide-out">
+<h2>B is for brevity</h2>
+<div style="font-family:sans-serif;padding:.3em .6em; border-radius:7px; background-color:#ebcb8b;text-align:center;margin:0 auto;width:70%">
+<div style="width:100px;margin:.25em auto;">
+<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="exclamation-triangle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-exclamation-triangle fa-w-18 fa-2x">
+<path fill="currentColor" d="M569.517 440.013C587.975 472.007 564.806 512 527.94 512H48.054c-36.937 0-59.999-40.055-41.577-71.987L246.423 23.985c18.467-32.009 64.72-31.951 83.154 0l239.94 416.028zM288 354c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z" class=""></path>
+</svg>
+</div>
+<div style="font-family:raustila, sans-serif;font-size:60px;">
+pagination
+</div>
+<div class="small">
+<p><strike>“as we said before”</strike></p>
+<p>repeat basic information</p>
+<p>split based on meaning, not length</p>
+<p>significant connection to other fragments</p>
+</div>
+</div>
+<aside class="notes">
+<ul>
+<li>we should not assume the user has read other pages. provide background info and/or links instead</li>
+<li>repeating basic information may be required to compensate for loss of context: fragment needs to be self-explaining without any more context</li>
+<li>do not paginate based on lenght only (“continue” button at the bottom)</li>
+<li>fragments need to be significantly inter-connected</li>
+</ul>
+</aside>
+</section><section id="a-is-for-adaptability" class="slide level2" data-transition="slide-in fade-out">
+<h2>A is for adaptability</h2>
+<ul>
+<li>The journalist needs to be able to adapt the story to the best medium available (types of reporting, media, platforms). Minimum media literacy is required</li>
+<li>The journalist needs to think about how the content itself might be adapted by users: allow embedding or downloading, enable sharing ↓</li>
+</ul>
+</section><section id="a-is-for-adaptability-1" class="slide level2" data-transition="fade-in slide-out">
+<h2>A is for adaptability</h2>
+<figure>
+<img data-src="img/sharebutton.png" alt="Social media buttons can be placed at the top, bottom, right or left of the post, or inline the text" width="350" /><figcaption>Social media buttons can be placed at the top, bottom, right or left of the post, or inline the text</figcaption>
+</figure>
+<blockquote>
+<p>People love to share quotes on social media. Make your perfect blog post as quotable and shareable as possible.</p>
+</blockquote>
+<figure style="text-align:right;">
+<figcaption>
+Kevan Lee (2015), <a href="https://buffer.com/resources/perfect-blog-post-research-data" target="_blank">The Anatomy of a Perfect Blog Post: The Data on <br />Headlines, Length, Images and More</a>
+</figcaption>
+</figure>
+</section><section id="section-4" class="slide level2">
+<h2></h2>
+<div style="margin-top:-75px;">
+<figure>
+<img data-src="img/tweetable-quote.jpg" alt="Tim Soulo, The Anatomy of a Tweetable Quote" /><figcaption>Tim Soulo, <a href="https://bloggerjet.com/create-tweetable-quotes/">The Anatomy of a Tweetable Quote</a></figcaption>
+</figure>
+</div>
+</section><section id="s-is-for-scannability" class="slide level2" data-transition="slide-in fade-out">
+<h2>S is for scannability</h2>
+<p>Especially with longer content, it is important to enable users to scan the page without having to read it completely.</p>
+<!-- >The ultimate effect is to draw your eye down the page and engage you for longer. Just as a good text article used to mix quotes with facts and backgrounds, a good online article does all that _and_ mixes in images, tweets or video. <span class="sans">(p.81)</span> -->
+<div class="box center" style="border-radius:.3em">
+<h4 style="color:#333;padding-top:.6em">
+80/20 rule
+</h4>
+<p>80% of the people will read 20% of the content.</p>
+</div>
+</section><section id="s-is-for-scannability-1" class="slide level2" data-transition="fade">
+<h2>S is for scannability</h2>
+<p>Clear, unambiguous <span class="highlighted">headlines and subheadings</span>, with a focus on the first (and last) two or three words in the headline, intro and subheadings — we don’t just scan body text, we scan headlines, too.</p>
+<figure>
+<img data-src="img/seo-headlines.png" alt="In terms of SEO, the headline should also aim to be  around 55 characters or less (Lee 2015)" width="600" /><figcaption>In terms of SEO, the headline should also aim to be <br />around 55 characters or less (<a href="https://buffer.com/resources/perfect-blog-post-research-data">Lee 2015</a>)</figcaption>
+</figure>
+</section><section id="s-is-for-scannability-2" class="slide level2" data-transition="fade">
+<h2>S is for scannability</h2>
+<p>Headline strategies backed by psychology (<a href="https://buffer.com/resources/perfect-blog-post-research-data">Lee 2015</a>):</p>
+<div class="smaller">
+<ul>
+<li>Surprise – “This Is Not a Perfect Blog Post (But It Could’ve Been)”</li>
+<li>Questions – “Do You Know How to Create the Perfect Blog Post?”</li>
+<li>Curiosity gap – “10 Ingredients in a Perfect Blog Post. Number 9 Is Impossible!”</li>
+<li>Negatives – “Never Write a Boring Blog Post Again”</li>
+<li>How to – “How to Create a Perfect Blog Post”</li>
+<li>Numbers – “10 Tips to Creating a Perfect Blog Post”</li>
+<li>Audience referencing – “For People on the Verge of Writing the Perfect Blog Post”</li>
+<li>Specificity – “The 6-Part Process to Getting Twice the Traffic to Your Blog Post”</li>
+</ul>
+</div>
+<p>Activity?¿</p>
+</section><section id="s-is-for-scannability-3" class="slide level2" data-transition="fade">
+<h2>S is for scannability</h2>
+<p><span class="highlighted">Subheadings</span> are the heading tags that appear inside your post editor.</p>
+<ul>
+<li><code>H1</code>: post/page title</li>
+<li><code>H2</code>s and <code>H3</code>s: subheadings and sub-subheadings</li>
+<li><code>H4</code>: name of the site, widget titles</li>
+<li><code>H5</code>: same as above, sidebars, etc.</li>
+</ul>
+</section><section id="s-is-for-scannability-4" class="slide level2" data-transition="fade">
+<h2>S is for scannability</h2>
+<p>A clear <span class="highlighted">summary</span> that tells the story quickly.</p>
+<ul>
+<li>the inverted pyramid</li>
+<li>avoid ‘setting the scene’ unless it’s a longform piece (in which case, storytelling —starting with a personal anecdote or a moment of transpareny— is recommended)</li>
+</ul>
+</section><section id="s-is-for-scannability-5" class="slide level2" data-transition="fade">
+<h2>S is for scannability</h2>
+<figure>
+<img data-src="img/inverted-pyramid.png" alt="Jakob Nielsen (1996), “Inverted Pyramids in Cyberspace”  Amy Schade (2018), “Inverted Pyramid: Writing for Comprehension”" width="600" /><figcaption>Jakob Nielsen (1996), <a href="https://www.nngroup.com/articles/inverted-pyramids-in-cyberspace/">“Inverted Pyramids in Cyberspace”</a> <br />Amy Schade (2018), <a href="https://www.nngroup.com/articles/inverted-pyramid/">“Inverted Pyramid: Writing for Comprehension”</a></figcaption>
+</figure>
+<aside class="notes">
+<div class="smallest" style="font-size:.6em !important;">
+<ul>
+<li>traditional pyramid: intro &gt; details &gt; conclusion</li>
+<li>inverted comes from the field of journalism:
+<ul>
+<li>start the article by telling the reader the conclusion, follow by the most important supporting information, and end by giving the background.</li>
+<li>useful for newspapers because <strong>readers can stop at any time</strong> and will still get the most important parts of the article.</li>
+</ul></li>
+<li>even more important on the web because users barely scroll - important things should go <em>above the fold</em></li>
+<li><strong>the Web is a linking medium</strong> and we know from hypertext theory that writing for interlinked information spaces is different than writing linear flows of text – no need for so much background
+<ul>
+<li><em>rhetoric of departure</em> and <em>rhetoric of arrival</em> to indicate the need for both ends of the link to give users some understanding of where they can go as well as why the arrival page is of relevance to them.</li>
+</ul></li>
+<li>how to:
+<ul>
+<li>identify key points</li>
+<li>rank secondary information</li>
+<li>write well and concisely</li>
+<li>frontload all elements of content with important information</li>
+<li>consider adding a summary or list of highlights</li>
+</ul></li>
+<li>the fold: We don’t go to a page, see useless and irrelevant content, and scroll out of the blind hope that something useful may be hidden 5 screens down.</li>
+</ul>
+</div>
+</aside>
+</section><section id="s-is-for-scannability-6" class="slide level2" data-transition="fade">
+<h2>S is for scannability</h2>
+<figure>
+<img data-src="img/inverted-pyramid-fold.png" alt="Amy Schade (2015), “The Fold Manifesto: Why the Page Fold Still Matters”" width="600" /><figcaption>Amy Schade (2015), <a href="https://www.nngroup.com/articles/page-fold-manifesto/">“The Fold Manifesto: Why the Page Fold Still Matters”</a></figcaption>
+</figure>
+<aside class="notes">
+<ul>
+<li>What appears at the top of the page vs. what’s hidden will always influence the user experience — regardless of screen size. The average difference in how users treat info above vs. below the fold is 84%.</li>
+</ul>
+</aside>
+</section><section id="s-is-for-scannability-7" class="slide level2" data-transition="fade">
+<h2>S is for scannability</h2>
+<p><span class="highlighted">Links</span> are the ultimate building blocks of the hypertextual web, and they also serve as CTAs (calls to action: <em>click me!</em>) and scannable elements. An estimated avg of 10 links per post (in a study cited in <a href="https://buffer.com/resources/perfect-blog-post-research-data">Lee 2015</a>).</p>
+<div class="sans small center">
+<div class="fragment" style="color:#bf616a;">
+<p><strong>×</strong> <a href="" style="text-decoration:underline;color:#bf616a;">click here</a></p>
+</div>
+<div class="fragment" style="color:#bf616a;">
+<p><strong>×</strong> <a href="" style="text-decoration:underline;color:#bf616a;">You can find the assignment description on the ALUD platform</a></p>
+</div>
+<p><span class="fragment">You can find <a href="" style="text-decoration:underline;color:#666;">the assignment description</a> on the ALUD platform</span><br />
+<span class="fragment">You can find the assignment description <a href="" style="text-decoration:underline;color:#666;">on the ALUD platform</a></span><br />
+<span class="fragment">You can find <a href="" style="text-decoration:underline;color:#666;">the assignment description</a> on <a href="" style="text-decoration:underline;color:#666;">the ALUD platform</a></span></p>
+</div>
+<aside class="notes">
+<p>click here: it doesn’t matter what sits either site of those two words ‘click here to read’, ‘to find out more click here’ because it will not be read.</p>
+<p>A link should make sense on its own, out of context.</p>
+<p>Should always deep link when possible (not link to the homepage). If you are linking to anything other than a webpage, it should be made clear (PDF, spreadsheets, documents…)</p>
+</aside>
+</section><section id="s-is-for-scannability-8" class="slide level2" data-transition="fade-in slide-out">
+<h2>S is for scannability</h2>
+<p>Other elements for scannability:</p>
+<ul>
+<li>bullet or numbered lists</li>
+<li>indented quotes</li>
+<li>numbers</li>
+<li>highlighted words or sentences</li>
+<li>breaking up the text (avg of one visual every 350 words) with images, galleries, charts, video maps… or</li>
+<li>embedded material (tweets, videos, presentations), instead of simply linked</li>
+</ul>
+</section><section id="i-is-for-interactivity" class="slide level2">
+<h2>I is for interactivity</h2>
+<blockquote>
+<p>What might a user want to do while their read your article? <span class="sans">(p.82)</span></p>
+</blockquote>
+<p>Enable this through:</p>
+<ul>
+<li>shareable quotes/pictures</li>
+<li>embedded media</li>
+<li>links</li>
+<li>other interactive technologies</li>
+</ul>
+</section><section id="c-is-for-communityconversation" class="slide level2 small">
+<h2>C is for community/conversation</h2>
+<blockquote>
+<p>Good journalism has always sought to serve a community, […] and good journalism – whether informative or sensationalist – has always generated conversation. <span class="sans">(p.82)</span></p>
+</blockquote>
+<!-- <div class="box center" style="margin-top:1.2em;padding-top:.6em;font-size:1.2em">
+</div> -->
+<h4 id="contentconversation-is-king"><strike>content</strike>conversation is king</h4>
+<ul>
+<li><em>comment</em> on blogs, post on forums, update wikis, converse in social media</li>
+<li><em>link</em> to sources</li>
+<li><em>listen</em>, follow, monitor (and start over: respond, comment, link, open up)</li>
+</ul>
+</section></section>
+    </div>
+  </div>
+
+  <script src="../reveal.js/lib/js/head.min.js"></script>
+  <script src="../reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: '../reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '../reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: '../reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
