@@ -186,7 +186,11 @@ Headline strategies backed by psychology ([Lee 2015](https://buffer.com/resource
 - Specificity – “The 6-Part Process to Getting Twice the Traffic to Your Blog Post”
 </div>
 
-Activity?¿
+::: notes
+
+Activity: transform headlines from individual submissions (or try to find others ti give them) using the strategies.
+
+:::
 
 ## S is for scannability {data-transition="fade"}
 
