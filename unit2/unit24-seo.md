@@ -301,7 +301,7 @@ PageRank (part of Google's core algorithm) is a link analysis algorithm named af
 
 ## {data-transition="fade"}
 
-### 3. Rank: content (_on-page_ SEO) 
+### 3. Rank: content \(_on-page_ SEO\) 
 
 >Does this page match the words that were searched and help fulfill the task the searcher was trying to accomplish?
 
@@ -427,7 +427,7 @@ Setting (and eventually achieving) <span class="highlighted">the right goals</sp
 
 </div>
 
-# The importance of quality content for SEO
+# <span style="line-height:.3em;text-transform: uppercase;display: block;font-size:.6em;">The importance of</span>quality content
 
 ## Low value tactics to avoid {data-transition="slide-in fade out"}
 
