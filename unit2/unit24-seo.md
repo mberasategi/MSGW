@@ -8,9 +8,7 @@ template: ../reveal.js/default.revealjs
 css: style.css
 ...
 
-# Definition(s)
-
-## What is SEO?
+## {.center}
 
 >SEO stands for “search engine optimization.” It’s the practice of increasing both the quality and quantity of website traffic, as well as exposure to your brand, through non-paid (also known as "organic") search engine results.
 
@@ -51,8 +49,9 @@ search query <div style="width:20px;display:inline-block;"><svg aria-hidden="tru
 
 <figure class="fragment" data-fragment-index="2"><figcaption>Search engines work with what could be considered a _black box model_</figcaption></figure>
 
+# How do search engines work?
 
-## How search engines work {.small}
+## How do search engines work? {.small}
 
 Search engines have three primary functions:
 
@@ -374,7 +373,18 @@ Not a traditional organic result
 
 ## SERP features
 
+<div style="width:40%; float:right;" class="smaller sans">
+
+More examples:
+
+- [population basque country](https://www.google.com/search?safe=off&sxsrf=ALeKk03Zx-q0ZyIKYg3UIy2baG6bqzqIXA%3A1583321504515&ei=oJFfXqz6Ho6AjLsP76qC-Aw&q=population+basque+country&oq=population+basque+country&gs_l=psy-ab.3..0i203j0i22i30l6.1677.3200..3434...0.4..0.110.1337.12j2....2..0....1..gws-wiz.......0i71j0i67j0j0i322i203i395j0i8i13i30.3IOe7DqevCY&ved=0ahUKEwisyt2e3IDoAhUOAGMBHW-VAM8Q4dUDCAo&uact=5)
+- [pokemon](https://www.google.com/search?safe=off&sxsrf=ALeKk00gywAATkLe8bd9FEne78Ww1uVm1g%3A1583321625094&ei=GZJfXqCWBY-ejLsPk9ug-Aw&q=pokemon&oq=pokemon&gs_l=psy-ab.3..35i322i39i395j0i67j0i322i67i395j0i67j0i20i263j0i322i395j0j0i322i131i395j0j0i322i395.30488.32405..32640...2.4..0.159.1037.2j7....3..0....1..gws-wiz.......0i71j0i131j35i322i305i39i395j0i10j0i322i10i395.G351MnIhS_U&ved=0ahUKEwjghp3Y3IDoAhUPD2MBHZMtCM8Q4dUDCAo&uact=5)
+</div>
+
+
 ![What's the weather forecast for Donostia?](img/weather.png){width="400" style="border:solid 1px #ccc !important;"}
+
+# Basic principles
 
 ## How?
 
