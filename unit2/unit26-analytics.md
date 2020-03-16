@@ -124,4 +124,4 @@ social spaces for public dialogue” (Croteau and Hoynes 2001, 20). Journalism d
 
 ## {.center}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ef9QnZVpVd8?start=48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ef9QnZVpVd8?start=49" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
