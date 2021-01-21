@@ -4,7 +4,7 @@ subtitle: Search Engine Optimisation (SEO)
 theme: mbzdeusto
 revealjs-url: ../assets/reveal.js
 center: true
-foot_left: "[MSGW] UNIT1"
+foot_left: "[MSGW] UNIT 2 &mdash; Writing for the web"
 css: style.css
 color: "#CA694A"
 ...

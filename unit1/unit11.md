@@ -4,7 +4,7 @@ subtitle: How did we get here?
 theme: mbzdeusto
 revealjs-url: ../assets/reveal.js
 center: true
-foot_left: "[MSGW] UNIT1"
+foot_left: "[MSGW] UNIT 1 &mdash; The context of online journalism"
 css: style.css
 color: "#CA694A"
 ...
