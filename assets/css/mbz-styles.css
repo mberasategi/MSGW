@@ -2,6 +2,8 @@
 @import url('https://rsms.me/inter/inter.css');
 @import url(../reveal.js/lib/font/ibm-plex-mono/ibm-plex-mono.css);
 
+body { font-family: 'Inter', Helvetica, Arial, sans-serif; }
+
 a, .btn-link { color: #5e81ac; }
 a:hover, .btn-link:hover { color:#254F82; }
 
