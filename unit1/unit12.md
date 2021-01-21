@@ -1,11 +1,12 @@
 ---
 title: UNIT 1<br />The context of online journalism
 subtitle: The decline of print and online business models
-theme: deusto
-deusto: TRUE
-revealjs-url: ../reveal.js
-template: ../reveal.js/default.revealjs
+theme: mbzdeusto
+revealjs-url: ../assets/reveal.js
+center: true
+foot_left: "[MSGW] UNIT1"
 css: style.css
+color: "#CA694A"
 ...
 
 # Highlights

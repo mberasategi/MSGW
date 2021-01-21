@@ -3,15 +3,15 @@ title: Introduction
 subtitle: Production of messages for the web
 author: Miren Berasategi
 email: miren.berasategi@deusto.es
-theme: deusto
-deusto: true
-revealjs-url: ../reveal.js
-template: ../reveal.js/default.revealjs
-highlighting-css: 
-    .pretitle { display:block; font-size:.4em !important; font-weight:normal !important; text-transform:uppercase;margin-bottom:-.6em !important; }
+theme: mbzdeusto
+revealjs-url: ../assets/reveal.js
+center: true
+foot_left: "[MSGW] Introduction"
+foot_right: ""
+color: "#CA694A"
 ...
 
-## {.center}
+## {.title} 
 
 <div style="text-align:center;">
 ### Production of messages <br /> for the web (MSGW)
@@ -36,7 +36,7 @@ Thursdays, 11:00 - 12:40
 Room 013
 </div>
 
-# Syllabus
+# Syllabus {data-background-color="var(--main-color)"}
 
 ## Description {.small}
 
@@ -81,7 +81,7 @@ SC 9: Using technical resources for the creation of messages and contents in pro
 - 9.4 (b) Uses the appropriate technical resources for multimedia and hypertext edition to create messages.
 </div>
 
-## Contents {.smaller}
+## Contents {.small}
 
 **UNIT 1. The context of online journalism**  Fundamentals about the internet and the web. The decline of print and online business models. Current threats for online journalism.
 
@@ -91,14 +91,14 @@ SC 9: Using technical resources for the creation of messages and contents in pro
 
 **UNIT 4. Web development for journalistic products**  Interactivity. Coding basics: HTML&CSS. Programming concepts. Write, find and share code.
 
-## Teaching-learning strategy {.smaller}
+## Teaching-learning strategy {.small}
 
 Competencies are developed progressively through the 4 thematic units and their knowledge must be conceptual as well as theoretical and practical. Such knowledge will be supervised through review of exercises and activities made by students. They will be worked as follows:
 
 #### 1. Analysis and explanation of contents
 The teacher will coordinate the development of the syllabus in face-to-face classes, presenting and analysing concepts, arguments and basic analysis that each student must prepare and widen, individually or in groups, to follow each one of the face-to-face classes.
 
-## Teaching-learning strategy {.smaller}
+## Teaching-learning strategy {.small}
 
 #### 2. Activities
 
@@ -111,7 +111,7 @@ There will be individual and group activities of different kinds: in-depth readi
 Specific instructions for each activity will be available to students through ALUD.
 </div>
 
-## Assessment {.smaller}
+## Assessment {.small}
 
 The following evidences are used for the assessment and grading of this subject:
 
@@ -135,13 +135,15 @@ To obtain a pass grade, all parts must be passed (group activities, individual a
 
 </div>
 
-<div style="background-color:#ebcb8b;border-radius:.3em;margin-top:1em;padding:12px;">
+<div style="background-color:var(--nord-yellow);border-radius:.3em;margin-top:1em;padding:12px;">
 
-<p style="text-align:center;display:inline-block;position:relative;text-transform:uppercase;top:-72px;font-family:Roboto;font-weight:bold;color:#ebcb8b;font-size:1em;">Compulsory handbook</p>
+<p style="text-align:center;display:inline-block;position:relative;text-transform:uppercase;top:-63px;font-weight:bold;color:var(--nord-yellow);font-size:1em;">Compulsory handbook</p>
 
-<p style="margin-top:-2.3em;">Paul Bradshaw (2018), _The Online Journalism Handbook: Skills to Survive and Thrive in the Digital Age_. 2nd Edition. Routledge, New York</p>
+<div class="small">
+  <p style="margin-top:-2.3em;">Paul Bradshaw (2018), _The Online Journalism Handbook: Skills to Survive and Thrive in the Digital Age_. 2nd Edition. Routledge, New York</p>
 
-<p style="text-align: center; font-family: Roboto, sans-serif;">For sale in the bookstore (DELTA), 42€</p>
+  <p style="text-align: center;">For sale in the bookstore (DELTA), 42€</p>
+</div>
 
 </div>
 
@@ -163,9 +165,7 @@ SHIRKY, Clay. _Here Comes Everybody_. London: Penguin, 2008
 
 WEINBERGER, David. _Everything is miscellaneous. The power of the new digital disorder_. New York: Holt Paperbacks, 2007 -->
 
-# Practical Information
-
----
+# Practical Information   {data-background-color="var(--main-color)"}
 
 ## Tutorials
 
@@ -175,11 +175,11 @@ The hours for face-to-face tutorials need to be **scheduled in advance** through
 
 ## {.center}
 
-<div style="font-family:Roboto, sans-serif;display:inline-block;padding:0 .6em; background-color:white;">
+<div style="display:inline-block;padding:0 .6em; background-color:white;font-weight:bold;">
 [ALUD Platform](https://alud.deusto.es/course/view.php?id=12489){target="_blank"}
 </div>
 
-<hr style="margin-top:-1.1em;border-color:#2a76dd;" />
+<hr style="margin-top:-1.1em;border-color:var(--main-color);" />
 
 ![](msgw-flowchart.png)
 
@@ -192,7 +192,7 @@ You will be asked to sign a list every class in order to take attendance. There 
 
 Taking into account that the final grade is given with one decimal, attendance (or lack thereof) will account for 0.1 points maximum in the final grade.
 
-## Assignments and grades {.smaller}
+## Assignments and grades {.small}
 
 The assessment system for this subject uses the following evidences:
 
@@ -230,22 +230,22 @@ You can find descriptions for all the assignments on the assignments page in ALU
         <td align="center">325</td>
         <td align="center">20.6%</td>
       </tr>
-      <tr class="odd" style="background-color:#e5e9f0;">
+      <tr class="odd" style="background-color:var(--light-gray2);">
         <td align="left">Project deliverable 1: Content and publication strategy</td>
         <td align="center">150</td>
         <td align="center">9.5%</td>
       </tr>
-      <tr class="even" style="background-color:#e5e9f0;">
+      <tr class="even" style="background-color:var(--light-gray2);">
         <td align="left">Project deliverable 2: Journalistic report and social media messages</td>
         <td align="center">210</td>
         <td align="center">13.3%</td>
       </tr>
-      <tr class="odd" style="background-color:#e5e9f0;">
+      <tr class="odd" style="background-color:var(--light-gray2);">
         <td align="left">Project deliverable 3: Multimedia coverage</td>
         <td align="center">120</td>
         <td align="center">7.6%</td>
       </tr>
-      <tr class="even" style="background-color:#e5e9f0;">
+      <tr class="even" style="background-color:var(--light-gray2);">
         <td align="left">Project deliverable 4: Timeline of web history</td>
         <td align="center">120</td>
         <td align="center">7.6%</td>
@@ -273,7 +273,7 @@ You can find descriptions for all the assignments on the assignments page in ALU
 
 ### <span class="pretitle">Individual work</span> Preparation: self-reports
 
-<div style="font-family: Roboto,sans-serif;font-size:.9em;width:80%;margin:1em auto;background-color:#e5e9f0;padding:.3em .6em;border-radius:.3em;">
+<div style="width:80%;margin:1em auto;background-color:var(--light-gray2);padding:.3em .6em;border-radius:.3em;" class="smaller">
 
 1. How much of this week's reading did you finish?
     + 100% \(_5 points_\)
@@ -298,8 +298,8 @@ You can find descriptions for all the assignments on the assignments page in ALU
 
 Two distinct tasks:
 
-1. <span style="font-family:Roboto, sans-serif; font-size:.9em;">ONE WEEK</span>, listen to a podcast about online journalism, and write a (publishable) short piece about it
-2. <span style="font-family:Roboto, sans-serif; font-size:.9em;">THE NEXT WEEK</span>, peer-review contributions by classmates
+1. <span style="font-size:.9em;">ONE WEEK</span>, listen to a podcast about online journalism, and write a (publishable) short piece about it
+2. <span style="font-size:.9em;">THE NEXT WEEK</span>, peer-review contributions by classmates
 
 Ongoing assignment, will repeat &times;6 throughout the semester.
 
@@ -315,7 +315,7 @@ The project will be composed of several deliverables, each with its own requiere
 - Deliverable 3: Multimedia coverage
 - Deliverable 4: Timeline
 
-All these will be published on the subject website: <span style="font-family:Roboto,sans-serif;">[msgw.deusto.es](http://msgw.deusto.es/en/){target="_blank"}</span>
+All these will be published on the subject website: [msgw.deusto.es](http://msgw.deusto.es/en/){target="_blank"}
 </div>
 
 
@@ -361,9 +361,9 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 
 </div> -->
 
-# Getting started
+# Getting started  {data-background-color="var(--main-color)"}
 
-## Warm-up tasks {.smaller}
+## Warm-up tasks {.small}
 
 >1. Make sure you have or have requested an OpenDeusto account. You will need it as soon as possible! Let me know if you are unable to access
 >2. Check enrollment in [the ALUD Platform course](https://alud.deusto.es/course/view.php?id=12489){target="_blank"} (enroll with key `msgw20`)
@@ -378,7 +378,7 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
 ![](attendance.png){width="350" style="float:left;margin-top:3em;"}
 
 
-## Warm-up tasks {.smaller}
+## Warm-up tasks {.small}
 
 1. Make sure you have or have requested an OpenDeusto account. You will need it as soon as possible! 
 2. Check enrollment in [the ALUD Platform course](https://alud.deusto.es/course/view.php?id=12489){target="_blank"} (enroll with key `msgw20`)
@@ -400,14 +400,14 @@ turns into writing":<br /> David Carr's invaluable advice for journalists’](ht
     </tr>
 </table>
 
-## Warm-up tasks {.smaller}
+## Warm-up tasks {.small}
 
 1. Make sure you have or have requested an OpenDeusto account. You will need it as soon as possible!
 2. Check enrollment in [the ALUD Platform course](https://alud.deusto.es/course/view.php?id=12489){target="_blank"} (enroll with key `msgw20`)
 3. Register your attendance for today
 4. Sign yourself up for the class chat
 
->5. Go <span class="highlighted" style="font-family:Roboto, sans-serif;">BUY THE HANDBOOK</span> in Delta!
+>5. Go <span class="highlighted">BUY THE HANDBOOK</span> in Delta!
 >6. Make groups of 3-4 people to work throughout the semester (and add yourself to the group through the corresponding ALUD task)
 >7. Carefully read through the presented materials (the syllabus, assignment descriptions, etc.) in ALUD
 

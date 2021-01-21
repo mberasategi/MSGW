@@ -1,11 +1,12 @@
 ---
 title: UNIT 2<br />Writing for the web
 subtitle: Search Engine Optimisation (SEO)
-theme: deusto
-deusto: TRUE
-revealjs-url: ../reveal.js
-template: ../reveal.js/default.revealjs
+theme: mbzdeusto
+revealjs-url: ../assets/reveal.js
+center: true
+foot_left: "[MSGW] UNIT1"
 css: style.css
+color: "#CA694A"
 ...
 
 ## {.center}

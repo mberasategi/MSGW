@@ -1,11 +1,12 @@
 ---
 title: UNIT 2<br />Writing for the web
 subtitle: The importance of content strategy
-theme: deusto
-deusto: TRUE
-revealjs-url: ../reveal.js
-template: ../reveal.js/default.revealjs
+theme: mbzdeusto
+revealjs-url: ../assets/reveal.js
+center: true
+foot_left: "[MSGW] UNIT1"
 css: style.css
+color: "#CA694A"
 ...
 
 # Highlights
