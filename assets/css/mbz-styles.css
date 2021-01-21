@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i&display=swap');
+@import url(../reveal.js/lib/font/playfair-display/playfair-display.css);
+@import url('https://rsms.me/inter/inter.css');
+@import url(../reveal.js/lib/font/ibm-plex-mono/ibm-plex-mono.css);
 
 a, .btn-link { color: #5e81ac; }
 a:hover, .btn-link:hover { color:#254F82; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Roboto", sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; }
 h2, h3, h4 { color: #5e81ac; font-weight:600; padding-top:.6em; }
 h2 { font-size: 2rem; text-transform:uppercase; }
 h3 { }
@@ -68,7 +70,7 @@ article .sidenote, article .marginnote, article .toc {
     line-height: 1.5;
     vertical-align: baseline;
     position: relative;
-    font-family: Roboto, sans-serif;
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
     padding-left:1.2em;
 }
 
@@ -85,7 +87,7 @@ article .toc ul { margin-bottom:0; }
 article .sidenote img, article .marginnote img { max-width:100%; }
 
 article span.newthought {
-    font-family: "Roboto", sans-serif;
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
     font-weight: 400;
     text-transform: uppercase;
     font-size: 0.9em;
@@ -96,7 +98,7 @@ article tr.even td, article tr.odd td { padding:.3em; }
 article tr.even { background-color:#eceff4; }
 
 .fake-header-table {
-    font-family: "Roboto", sans-serif;
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
     font-weight: 600;
     text-transform: uppercase;
     font-size: 1.1rem;
@@ -106,7 +108,7 @@ article tr.even { background-color:#eceff4; }
 td.mid-table-header {
     text-align: center;
     vertical-align: bottom !important;
-    font-family: "Roboto", sans-serif;
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
     font-weight: 300;
     text-transform: uppercase;
     font-size:.8em;
@@ -118,7 +120,7 @@ td.mid-table-header {
 .schedule td:first-child { text-transform: uppercase; font-size: .7em; vertical-align: middle; font-style: italic; }
 
 .schedule td.break { padding-right: 2em; padding-left: 6em; }
-.schedule td.break p { font-family: Roboto; width: 9em; background-color:  white; font-style: normal; margin: 0 auto; color: #8fbcbb; text-align:center; }
+.schedule td.break p { font-family: 'Inter', Helvetica, Arial, sans-serif; width: 9em; background-color:  white; font-style: normal; margin: 0 auto; color: #8fbcbb; text-align:center; }
 .schedule td.break::before {
     content: "";
     display: block;
