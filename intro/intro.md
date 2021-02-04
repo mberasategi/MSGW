@@ -30,10 +30,10 @@ Office 235 (P.Arrupe, 2nd floor)
 <div style="text-align:center;">
 ### Classes
 
-Mondays, 9:00 - 10:40 <br />
-Thursdays, 11:00 - 12:40
+Mondays, 13:00 - 13:50 <br />
+Thursdays, 8:00 - 9:40
 
-Room 013
+Room 007
 </div>
 
 # Syllabus {data-background-color="var(--main-color)"}
