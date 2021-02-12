@@ -19,11 +19,11 @@ Two terms that are
 **mis-used** as synonyms
 
 
-## The Internet 
+<!-- ## The Internet 
 
 <div class="center">
 <iframe width="650" height="420" src="https://www.youtube.com/embed/iDbyYGrswtg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+</div> -->
 
 ## The Internet
 
