@@ -186,7 +186,7 @@ You request a web page by either typing its URL (for example, `http://jenskitche
 ---
 
 ### Server
-There are many software options, but the most popular ones are: Apache (<span class="highlighted">open source</span>) and Microsoft Internet Information Services (IIS).
+There are many software options, but the most popular ones are: Apache (open source) and Microsoft Internet Information Services (IIS).
 
 #### IP addresses
 Each computer on the internet has its own and unique numeric IP address. The Domain Name System (DNS) translates those numeric IPs into server names, which are easier to read and remember.
