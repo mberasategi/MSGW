@@ -188,14 +188,14 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Paywall):
 
 # In-class activity
 
-## History of a media outlet -- business model
+## History of a media outlet <br />&mdash; business model
 
 In groups,
 
 <div class="small">
 
 1. Get the news outlet and its WaybackMachine screenshots from last week
-2. Go back to the WaybackMachine to explore: can you spot evidence of its changing business model? Or did it not change at all over the years?
+2. Go back to the WaybackMachine to explore: **can you spot evidence of its changing business model? Or did it not change at all over the years?**
 3. Choose the most relevant screenshots to briefly present the evolution of your site to the class
 
 </div>
