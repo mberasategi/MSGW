@@ -36,7 +36,7 @@ color: "#CA694A"
 
 ## {.center}
 
-![Michael Barthel, Katerina Eva Matsa and Kirsten Worden (2020), [Coronavirus-Driven Downturn Hits Newspapers Hard as TV News Thrives](https://www.journalism.org/2020/10/29/coronavirus-driven-downturn-hits-newspapers-hard-as-tv-news-thrives/)](img/pew_covid.png)
+![Michael Barthel, Katerina Eva Matsa and Kirsten Worden (2020), [Coronavirus-Driven Downturn Hits Newspapers Hard as TV News Thrives](https://www.journalism.org/2020/10/29/coronavirus-driven-downturn-hits-newspapers-hard-as-tv-news-thrives/)](img/pew_covid.png){width="400"}
 
 ## {.center}
 
