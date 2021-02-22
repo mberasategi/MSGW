@@ -68,6 +68,22 @@ color: "#CA694A"
     + CPA cost per action/acquisition
     + CPL cost per lead
 
+## 
+
+<div class="box sans" style="border-radius:.3em;">
+
+### Analytics in online journalism {.center style="color:black;padding-top:.3em;"}
+
+- **Pageviews**: number of pages viewed over a specified time period
+- **Unique users**: how many separate users have used the site (not always so _unique_)
+- **Bounce rate**: % of users who leave after viewing just one page
+- **Visit duration**: how long a user stays on the site
+<hr />
+- **Acquisition**: how/where did we get users from
+- **Engagement**: a combination of visit duration, frequency of visits, sharing, participating through comments...
+
+</div>
+
 ## Advertising: the half that worked {.small data-transition="fade-in slide-out"}
 
 <div class="small">
@@ -168,22 +184,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Paywall):
 
 <div style="width:49%;float:left;text-align:center">
 ![[ProPublica](https://www.propublica.org/)](img/propublica.svg){width="400"}
-</div>
-
-## 
-
-<div class="box sans" style="border-radius:.3em;">
-
-### Analytics in online journalism {.center style="color:black;padding-top:.3em;"}
-
-- **Pageviews**: number of pages viewed over a specified time period
-- **Unique users**: how many separate users have used the site (not always so _unique_)
-- **Bounce rate**: % of users who leave after viewing just one page
-- **Visit duration**: how long a user stays on the site
-<hr />
-- **Acquisition**: how/where did we get users from
-- **Engagement**: a combination of visit duration, frequency of visits, sharing, participating through comments...
-
 </div>
 
 # In-class activity
