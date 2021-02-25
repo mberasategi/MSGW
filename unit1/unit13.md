@@ -9,7 +9,7 @@ css: style.css
 color: "#CA694A"
 ...
 
-# Highlights
+# Highlights  {data-background="var(--main-color)"}
 
 ## {.center}
 
@@ -40,6 +40,10 @@ The Edward Snowden case:
 ## {.center}
 
 >The importance of journalists being security-conscious in their communications was now paramout [...]. <span class="sans">(p.37)</span>
+
+##
+
+![](img/digital-security.png){height="600"}
 
 ## Hackers targeting hacks
 
@@ -77,7 +81,7 @@ The Edward Snowden case:
 
 ## Information wars {data-transition="fade"}
 
-- Fake news: triggered by the 2016 US election and the Camgridge Analytica case, with most criticisim aimed at Facebook <div class="sans small fragment" style="display:inline-block;float:right;line-height:.6em;color:#999;"> <i class="fa fa-film" style="padding-right:.6em;"></i> Netflix (2019), [The Great Hack](https://www.thegreathack.com/) </div> <div class="smaller">
+- Fake news: triggered by the 2016 US election and the Camgridge Analytica case, with most criticism aimed at Facebook <div class="sans small fragment" style="display:inline-block;float:right;line-height:.6em;color:#999;"> <i class="fa fa-film" style="padding-right:.6em;"></i> Netflix (2019), [The Great Hack](https://www.thegreathack.com/) </div> <div class="smaller">
     - Decided earlier on 2016 to "fire the human editors overseeing its 'Trending Topics' section", which "led to fake stories appearing in that section within days". <span class="sans">(p.39)</span> 
     - Significant increase in sites and sections devoted to factchecking and verification.
 </div>
@@ -100,3 +104,11 @@ The Edward Snowden case:
 ## {.center}
 
 >Journalists and news organisations were realising that they had ceded at least some editorial independence to the platforms they published on. <span class="sans">(p.39)</span>
+
+# In-class activity  {data-background="var(--main-color)"}
+
+## Digital security for journalists
+
+1. Identify key elements in security for journalists (understanding of threat models, VPNs and Tor, password management, encryption, private communications...)
+2. Briefly research one of those elements in groups
+3. Make a short presentation to the class
