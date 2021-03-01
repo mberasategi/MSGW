@@ -9,7 +9,7 @@ css: style.css
 color: "#CA694A"
 ...
 
-# Highlights
+# Highlights  {data-background-color="var(--main-color)"}
 
 ## {.center}
 
@@ -106,6 +106,29 @@ Advanced Guide](https://espirian.co.uk/twitter-search-advanced-guide/)</span>
 
 </div>
 
+# Deliverable 1 {data-background-color="var(--main-color)"}
+
+## {.center}
+
+<div class="box sans" style="padding-top:.6em;border-radius:.3em;background-color:#ebcb8b;">
+<span class="smaller">Project Deliverable 1: Content strategy  </span>  
+**DEADLINE** 19th March
+</div>
+
+## {data-transition="slide-in fade-out"}
+
+#### Project Deliverable 1: Content strategy
+
+![Content requirements](img/project1-content.png){width="800"}
+
+## {data-transition="fade-in slide-out"}
+
+#### Project Deliverable 1: Content strategy
+
+![Formal requirements](img/project1-formal.png){width="800"}
+
+<!-- MOVED TO NEXT CLASS 
+
 # In-class activity
 
 ## {.small}
@@ -137,3 +160,5 @@ Advanced Guide](https://espirian.co.uk/twitter-search-advanced-guide/)</span>
     + Share!
 
 </div>
+
+-->

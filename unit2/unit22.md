@@ -9,7 +9,7 @@ css: style.css
 color: "#CA694A"
 ...
 
-# Highlights
+# Highlights  {data-background-color="var(--main-color)"}
 
 ## {.center}
 
@@ -129,13 +129,13 @@ Timing is also platform-dependant.
 
 https://onlinejournalismblog.com/2014/10/13/scarf-a-content-strategy-mnemonic-for-journalists/
  -->
-# Deliverable 1
+# Deliverable 1  {data-background-color="var(--main-color)"}
 
 ## {.center}
 
 <div class="box sans" style="padding-top:.6em;border-radius:.3em;background-color:#ebcb8b;">
 <span class="smaller">Project Deliverable 1: Content strategy  </span>  
-**DEADLINE** 12th March
+**DEADLINE** 19th March
 </div>
 
 ## {data-transition="slide-in fade-out"}
@@ -150,7 +150,41 @@ https://onlinejournalismblog.com/2014/10/13/scarf-a-content-strategy-mnemonic-fo
 
 ![Formal requirements](img/project1-formal.png){width="800"}
 
-##
+<!-- ##
 
 
 ![DeustoForum Gipuzkoa](img/deustoforum.jpg){width="500"}
+-->
+ 
+
+# In-class activity  {data-background-color="var(--main-color)"}
+
+## {.small}
+
+#### Identify leads and sources for your group project
+
+- Think about specific specialty terms for your subject topic that you can use in search engines
+- Summarize your findings, conclusions, links to your setups... in the subject website (a Wordpress site): [http://msgw.deusto.es](http://msgw.deusto.es)
+
+<div class="box smaller sans" style="border-radius:.3em;">
++ In order to have access to write into the site, create an account with your @opendeusto.es email address and your real first and last names
++ [Create a new post](https://msgw.deusto.es/wp-admin/post-new.php) and make sure to:
+    - set the language to English (top of the page)
+    - set the corresponding categories for (1) your group no., and (2) the specific activity/assignment (today, 'Finding leads and sources')
+</div>
+
+
+## {.small}
+
+#### Identify leads and sources for your group project
+
+- Explore sources and set up your own news feed considering:<div class="small">
+    + Search in search engines, using advanced operators, with alerts
+    + Identify key profiles in social networks and set up lists, maybe use dashboards
+    + Find personal sources you may contact directly if necessary and follow
+    + Locate RSS feeds of relevant sources (Google Alerts, Twitter accounts, websites...)
+    + Search for local or thematic agendas to follow events in your area
+    + Set up further automation if you feel creative using IFTTT
+    + Share!
+
+</div>
