@@ -5,7 +5,7 @@
 3. [BASIC principles for writing](unit23-writing.htm)
 4. [Search engine optimization (SEO)](unit24-seo.htm)
 5. Social media optimization (SMO)
-6. Writing for social media and chats
-7. Experiment and measure
+6. [Writing for social media and chats](unit25-socialmedia.htm)
+7. [Experiment and measure](unit26-analytics.md)
 8. Blogging, liveblogging and mobile journalism
 9. Verification

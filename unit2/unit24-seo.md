@@ -50,7 +50,7 @@ search query <div style="width:20px;display:inline-block;"><svg aria-hidden="tru
 
 <figure class="fragment" data-fragment-index="2"><figcaption>Search engines work with what could be considered a _black box model_</figcaption></figure>
 
-# How do search engines work?
+# How do search engines work? {data-background-color="var(--main-color)"}
 
 ## How do search engines work? {.small}
 
@@ -385,7 +385,7 @@ More examples:
 
 ![What's the weather forecast for Donostia?](img/weather.png){width="400" style="border:solid 1px #ccc !important;"}
 
-# Basic principles
+# Basic principles for SEO {data-background-color="var(--main-color)"}
 
 ## How?
 
@@ -438,7 +438,7 @@ Setting (and eventually achieving) <span class="highlighted">the right goals</sp
 
 </div>
 
-# <span style="line-height:.3em;text-transform: uppercase;display: block;font-size:.6em;">The importance of</span>quality content
+# <span class="pretitle">The importance of</span> Quality content  {data-background-color="var(--main-color)"}
 
 ## Low value tactics to avoid {data-transition="slide-in fade out"}
 
@@ -630,7 +630,7 @@ re-re-read and correct any awkward sentences, unclear phrasing, and jumbled para
 
 <figure class="right"><figcaption>Source: business common knowledge</figcaption></figure>
 
-# To sum up...
+# To sum up... {data-background-color="var(--main-color)"}
 
 ## {.center}
 
