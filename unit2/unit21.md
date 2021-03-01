@@ -26,8 +26,6 @@ color: "#CA694A"
 
 ## Search engines: search operators {data-transition="fade"}
 
-<div style="margin-top:2em;">&nbsp;</div>
-
 >Most people use search engines by searching for _what they want to know_. However, to use them more effectively you should describe _what you expect to find_. <span class="sans">(p.59)</span>
 
 ## Search engines: search operators {data-transition="fade-in slide-out"}
@@ -44,31 +42,27 @@ color: "#CA694A"
 
 - Lists allow to filter/classify accounts depending on different criteria
 - Dashboards improve the interface to access social networks
-
-<table>
-    <tr>
-        <td>
-![](img/tweetdeck.png){width="300"}
-        </td><td>
-![](img/hootsuite.jpg){width="300"}
-        </td>
-    </tr>
-</table>
-
+    <table>
+        <tr>
+            <td>
+    ![](img/tweetdeck.png){width="300"}
+            </td><td>
+    ![](img/hootsuite.jpg){width="300"}
+            </td>
+        </tr>
+    </table>
 - Search <span class="sans" style="color:#999;font-size:.6em !important;padding-left:2em;"> <i class="fa fa-file-text-o"></i> John Espirian (2018), [Twitter Search 
 Advanced Guide](https://espirian.co.uk/twitter-search-advanced-guide/)</span>
 
-## Finding people {data-transition="slide-in fade-out"}
+## Finding sources {data-transition="slide-in fade-out"}
 
 - Experts: insiders, academics, observers, campaigners...
     + Find research first, as a way to contact the researcher
-    + People search through LinkedIn
+    + People search through LinkedIn or Twitter bios
 - Case studies
 - People on the scene
 
-## Finding people {data-transition="slide-out fade-in"}
-
-<div style="margin-top:2em">&nbsp;</div>
+## Finding sources {data-transition="slide-out fade-in"}
 
 >These techniques should be attempted alongside analogous approaches in the physical world, such as contacting organisations representing people [...], or physically going to relevant locations[, or picking up the phone]. <span class="sans">(p.66)</span>
 
@@ -106,7 +100,7 @@ Advanced Guide](https://espirian.co.uk/twitter-search-advanced-guide/)</span>
 
 </div>
 
-# Deliverable 1 {data-background-color="var(--main-color)"}
+# Project deliverable 1: <br />Content strategy {data-background-color="var(--main-color)"}
 
 ## {.center}
 
@@ -115,15 +109,11 @@ Advanced Guide](https://espirian.co.uk/twitter-search-advanced-guide/)</span>
 **DEADLINE** 19th March
 </div>
 
-## {data-transition="slide-in fade-out"}
-
-#### Project Deliverable 1: Content strategy
+## <span class="pretitle">Project Deliverable 1</span> Content strategy {data-transition="slide-in fade-out"}
 
 ![Content requirements](img/project1-content.png){width="800"}
 
-## {data-transition="fade-in slide-out"}
-
-#### Project Deliverable 1: Content strategy
+## <span class="pretitle">Project Deliverable 1</span> Content strategy {data-transition="fade-in slide-out"}
 
 ![Formal requirements](img/project1-formal.png){width="800"}
 
