@@ -11,9 +11,20 @@ color: "#CA694A"
 
 # Highlights  {data-background-color="var(--main-color)"}
 
+## 
+
+>It took decades to invent the language of broadcast journalism on radio and TV, and you are part of the generation that is inventing the language of online journalism. (p.72)
+
+>[...] fundamental principles of good journalism apply whatever medium you work in: answering the '5Ws and an H' (who, why, what, where, when and how), being factual, clear and getting to the point quickly. (p.73)
+
+##
+
+internet, hyperlinks, non-linear storytelling, multimedia, multiplatform, transmedia, real time, interactivity, accessibility, transparency, measurability
+
 ## {.center}
 
 >Online, the dizzying array of choices can cause a certain degree of anxiety. Many publishers have developed _content strategies_ to <span class="highlighted">prioritise this decision-making process</span>: identifying their objectives and deciding which types of contents and formats might best meet them. <span class="sans">(p.74)</span>
+
 
 ## {.center}
 
@@ -24,7 +35,7 @@ color: "#CA694A"
 ## Why: Objectives 
 
 
->The 'why' might be a combination of of editorial and commercial imperatives: on the editorial side [...] whether your audience wants primarily to be informed, educated or entertained. On the commercial side [...] from reaching a wider audience to targeting more specific ones; and from focusing on "clicks" to a more sophisticated focus on "engagement". <span class="sans">(p.74)</span>
+>The 'why' might be a combination of editorial and commercial imperatives: on the editorial side [...] whether your audience wants primarily to be informed, educated or entertained. On the commercial side [...] from reaching a wider audience to targeting more specific ones; and from focusing on "clicks" to a more sophisticated focus on "engagement". <span class="sans">(p.74)</span>
 
 ## Audience research {data-transition="slide-in fade-out"}
 
