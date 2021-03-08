@@ -266,6 +266,10 @@ A clear <span class="highlighted">summary</span> that tells the story quickly.
 <span class="fragment">You can find <a href="" style="text-decoration:underline;color:#666;">the assignment description</a> on <a href="" style="text-decoration:underline;color:#666;">the ALUD platform</a></span>
 </div>
 
+<span class="fragment smaller">
+    <i class="fa fa-file-test-o"></i> Berkeley Web Access, <a href="https://webaccess.berkeley.edu/ask-pecan/click-here">What’s wrong with using "Click Here" links?</a>
+</span>
+
 ::: notes
 
 click here: it doesn't matter what sits either site of those two words 'click here to read', 'to find out more click here' because it will not be read. 
