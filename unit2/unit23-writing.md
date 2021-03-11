@@ -9,7 +9,7 @@ css: style.css
 color: "#CA694A"
 ...
 
-# How we read online
+# How we read online {data-background-color="var(--main-color)"}
 
 ## 
 
@@ -54,7 +54,7 @@ The formula in the chart above indicates that there is a fixed time of about 25 
 :::
 
 
-# Highlights
+# Highlights {data-background-color="var(--main-color)"}
 
 ## B is for brevity {data-transition="slide-in fade-out"}
 
@@ -314,3 +314,26 @@ Enable this through:
 - _comment_ on blogs, post on forums, update wikis, converse in social media
 - _link_ to sources
 - _listen_, follow, monitor (and start over: respond, comment, link, open up)
+
+# In-class activity {data-background-color="var(--main-color)"}
+
+## Re-writing exercise
+
+- Take your first submission from the Online Journalism News assignment and re-write it according to the writing principles we have seen in this unit.
+    + You do not need to change the total length of the text.
+- Post your updated version to the [class website](https://msgw.deusto.es).
+    + Remember to set the correct category:  
+      In-class activities > **Re-writing**
+
+
+## Re-writing exercise
+
+**B**revity <span class="smaller">&mdash; sentences, paragraphs</span>
+
+**A**daptability <span class="smaller">&mdash; shareable quotes</span>
+
+**S**cannability <span class="smaller">&mdash; heading, subheadings, highlights...</span>
+
+**I**nteractivity <span class="smaller">&mdash; embedded media, links</span>
+
+**C**ommunity <span class="smaller">&mdash; encourage comments</span>
