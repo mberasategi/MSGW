@@ -478,6 +478,16 @@ Spotify lost bt. 45-82% of their visibility in 2016 for this reason.
 
 ![Viewing Google's cached version of the page shows the content Spotify provided to the search engine](img/spotify2.png){height="450"}
 
+## Low value tactics to avoid  {data-transition="fade"}
+
+![Visibility index for Spotify domains](img/spotify-evolution.png)
+
+::: notes
+
+Spotify has since improved their strategy in an attempt to match the intention of searches
+
+:::
+
 ## Low value tactics to avoid  {data-transition="fade-in slide-out"}
 
 ![Keyword stuffing](img/keyword-stuffing.png)
