@@ -50,163 +50,178 @@
   <p class="subtitle">Experiment and measure: web analytics</p>
 </section>
 
-<section id="section" class="slide level2 center smallest">
-<h2></h2>
-<!-- https://www.slideshare.net/glinskiii/introduction-to-web-analytics-for-journalists
+<section><section id="web-analytics-101" class="title-slide slide level1" data-background-color="var(--main-color)"><h1>Web Analytics 101</h1></section><section class="slide level2">
 
-J analytics w Tableau https://www.youtube.com/playlist?list=PL_qx68DwhYA8tlYkA0zOBS0gev76BYi8m -->
-<p>All quotes from Tandoc Jr., Edson C. and Ryan J. Thomas (2015), “The ethics of web analytics: implications of using audience metrics in news construction” in <em>Digital Journalism</em> vol.3, No.2, pags.243-258 <code>doi: <a href="https://doi.org/10.1080/21670811.2014.909122">10.1080/21670811.2014.909122</a></code></p>
-</section>
-<section id="section-1" class="slide level2 center">
+<ul>
+<li>identify What constitutes success</li>
+<li>identify a few critical metrics to measure results</li>
+</ul>
+</section><section id="sources-of-data" class="slide level2">
+<h2>Sources of data</h2>
+<table style="font-size:.8em;" class="small">
+<tr>
+<th>
+Server logs
+</th>
+<th>
+</th>
+<th>
+Page tags
+</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li class="fragment">data ownership</li>
+<li class="fragment">direct register to database</li>
+<li class="fragment">determine whether downloads are completed</li>
+<li class="fragment">measure traffic from bots and spiders</li>
+</ul>
+</td>
+<td style="vertical-align: middle;background-color:var(--green);color:white;">
+<i class="fa fa-check-circle"></i>
+</td>
+<td style="vertical-align: middle;">
+<ul>
+<li class="fragment">precision</li>
+<li class="fragment">reports generate fast</li>
+<li class="fragment">flexibility: variables</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: middle;">
+<ul>
+<li class="fragment">proxy caching</li>
+<li class="fragment">browser caching</li>
+<li class="fragment">time it takes to generate reports</li>
+<li class="fragment">bots, spiders, trackers</li>
+</ul>
+</td>
+<td style="vertical-align: middle;background-color:var(--red);color:white">
+<i class="fa fa-minus-circle"></i>
+</td>
+<td>
+<ul>
+<li class="fragment">Javascript and cookie dependant</li>
+<li class="fragment">needs to be added to all pages</li>
+<li class="fragment">complex implementation</li>
+<li class="fragment">performance</li>
+<li class="fragment">data ownership</li>
+</ul>
+</td>
+</tr>
+</table>
+</section></section>
+<section><section id="basic-terminology" class="title-slide slide level1" data-background-color="var(--main-color)"><h1>Basic terminology</h1></section><section id="a-small-group-of-mostly-useless-terms" class="slide level2">
+<h2>A small group of mostly useless terms</h2>
+<ul>
+<li class="fragment">hit</li>
+<li class="fragment">click-through / CTR</li>
+</ul>
+<figure style="margin-top:3em;">
+<figcaption>
+Source: Eric T. Petereson, <em>Web Analytics Demystified</em>
+</figcaption>
+</figure>
+</section><section id="a-slightly-larger-group-of-useful-but-confusing-terms" class="slide level2">
+<h2>A slightly larger group of useful but confusing terms</h2>
+<ul>
+<li class="fragment">page view</li>
+<li class="fragment">visit</li>
+<li class="fragment">visitor / unique user</li>
+<li class="fragment">referrer</li>
+</ul>
+</section><section id="a-medium-sized-group-of-truly-useful-terms" class="slide level2">
+<h2>A medium-sized group of truly useful terms</h2>
+<ul>
+<li class="fragment">conversion rate</li>
+<li class="fragment">abandon rate / attrition</li>
+<li class="fragment">loyalty</li>
+<li class="fragment">frequency</li>
+<li class="fragment">recency</li>
+</ul>
+</section><section id="the-pyramid-model-of-web-analytics-data" class="slide level2">
+<h2>The pyramid model of web analytics data</h2>
+<p><img data-src="img/data-pyramid.png" width="500" /></p>
+</section></section>
+<section><section id="an-introduction-to-the-customer-life-cycle" class="title-slide slide level1" data-background-color="var(--main-color)"><h1>An introduction to the customer life cycle</h1></section><section id="section" class="slide level2">
 <h2></h2>
-<blockquote>
-<p>Web analytics initially served the needs of online marketing by keeping track of metrics that lead to <span class="highlighted fragment">conversion</span>, usually defined as an online purchase.</p>
-</blockquote>
-<div class="fragment">
-<blockquote>
-<p>[…] conversion in the online journalism setting is very different.</p>
-</blockquote>
-</div>
-</section>
-<section id="section-2" class="slide level2 center">
+<ol type="1">
+<li class="fragment">reach</li>
+<li class="fragment">acquisition</li>
+<li class="fragment">conversion</li>
+<li class="fragment">retention</li>
+</ol>
+</section></section>
+<section><section id="four-attributes-of-great-metrics" class="title-slide slide level1" data-background-color="var(--main-color)"><h1>Four attributes of great metrics</h1></section><section id="uncomplex" class="slide level2">
+<h2>Uncomplex</h2>
+<p>Needs to be understood by everyone participating in the decision-making process.</p>
+</section><section id="relevant" class="slide level2">
+<h2>Relevant</h2>
+<p>The most appropriate metrics are specific to each business or organization, dependant on its business model, priorities, rest of online activities…</p>
+</section><section id="timely" class="slide level2">
+<h2>Timely</h2>
+<p>Need to be provided in a timely fashion so that business decisions can be made on time.</p>
+<p>This is not necessarily real-time: data needs to be collected, analyzed, and metrics provided with insight, all in a timely manner.</p>
+</section><section id="instantly-useful" class="slide level2">
+<h2>“Instantly useful”</h2>
+<p>This is when you understand quickly what the metric is, and you can find the first hint of insight as soon as you look at it.</p>
+<!-- EXAMPLE? -->
+</section></section>
+<section><section id="simplifying-web-analytics" class="title-slide slide level1" data-background-color="var(--main-color)"><h1>Simplifying web analytics</h1></section><section id="section-1" class="slide level2">
 <h2></h2>
-<blockquote>
-<p>[…] while the concept of conversion –the ultimate goal of Web analytics– is clear and straightforward in the field of marketing where it simply means consumer purchase, the concept is muddy and contentious in the field of journalism, which balances its public service role with its economic function as a forum for advertising.</p>
-</blockquote>
-<!-- ## {.center}
-
->The kind of press needed by a democracy, then, is one that helps to “cultivate
-social spaces for public dialogue” (Croteau and Hoynes 2001, 20). Journalism draws disparate groups into a community. -->
-</section>
-<section id="section-3" class="slide level2 center">
+<p>Web analytics<br />
+<span style="font-size:2em;">is complex.</span></p>
+</section><section id="get-the-primitive-basics-out-of-the-way" class="slide level2">
+<h2>1. Get the primitive basics out of the way</h2>
+<p><img data-src="img/basics.png" /></p>
+<ul>
+<li>visits, page views, avg time on site, % new visits</li>
+<li><strong>next</strong>, look at trends: over the last month / few months, this month compared to last month, to the same month last year</li>
+</ul>
+</section><section id="understand-traffic-sources" class="slide level2">
+<h2>2. Understand traffic sources</h2>
+<p><img data-src="img/sources.png" /></p>
+<ul>
+<li>where do people come from? Direct, referring URLs, search engines, others (social media)</li>
+<li><strong>next</strong>, look at trends: where is growth coming in the last few months (free/paid)? Dig down on specific sites and keywords</li>
+</ul>
+</section><section id="fix-stuff-save-money" class="slide level2">
+<h2>3. Fix stuff / Save money</h2>
+<p><img data-src="img/fix-things.png" /></p>
+<ul>
+<li>look at the bounce rate for the top entry pages, for keywords (intent). single page view sessions and where they happen</li>
+<li><strong>next</strong>, fix pages in question, A/B testing, rationalize investment in poorly performing keywords</li>
+</ul>
+<!-- ## 4. Site overlay -->
+</section><section id="focus-on-outcomes" class="slide level2" data-transition="slide-in fade-out">
+<h2>4. Focus on outcomes</h2>
+<p><img data-src="img/outcomes1.png" /></p>
+</section><section id="focus-on-outcomes-1" class="slide level2" data-transition="fade">
+<h2>4. Focus on outcomes</h2>
+<p><img data-src="img/outcomes2.png" /></p>
+</section><section id="focus-on-outcomes-2" class="slide level2" data-transition="fade-in slide-out">
+<h2>4. Focus on outcomes</h2>
+<p><img data-src="img/outcomes3.png" /></p>
+<ul>
+<li>focus on 2/3 key metrics that are significant as outcome. Visitors are coming to the site, but is it having any impact in you?</li>
+<li><strong>next</strong>, segment site traffic: paid / organic, new / returning …</li>
+</ul>
+</section></section>
+<section><section id="analytics-metrics-lifecycle-process" class="title-slide slide level1" data-background-color="var(--main-color)"><h1>Analytics metrics lifecycle process</h1></section><section id="section-2" class="slide level2">
 <h2></h2>
-<blockquote>
-<p>The audience has evolved to the point where audience members can choose, promote, and even disseminate information beyond the control of the newsroom and thus potentially set the news agenda.</p>
-</blockquote>
-</section>
-<section id="section-4" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>[…] journalists relied on abstract conceptions of an audience […] constructed by institutions with vested interest in providing a particular profile of the audience, such as advertisers and media companies (…). But an implication of treating the audience as such is the depersonalization of the audience, defining the audience as a passive mass, as merely products to be sold (…). The audience, however, has changed dramatically and describing them as passive is no longer accurate.</p>
-</blockquote>
-</section>
-<section id="section-5" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>The imagined audience is now based on accurate, comprehensive, albeit still incomplete, information about the actual audience. The pieces of information that Web analytics provide can allow journalists to accurately <span class="highlighted fragment">segment</span> their audiences.</p>
-</blockquote>
-</section>
-<section id="section-6" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>A click-based segmentation of the online audience disregards other considerations, and also falls into the trap of giving what the audience wants at the expense of what the public needs.</p>
-</blockquote>
-<!-- ## {.center}
-
->[...] the use of Web analytics has the potential to lock journalism into a race toward the lowest common denominator, ghettoizing citizens into bundles based on narrow preferences and predilections rather than drawing them into a community. -->
-<!-- ## {.center}
-
->choice [...] an intrinsic good [...]; the consumer as a rational agent exercising discretion and good judgment in a market economy. The role of the producer, therefore, is to serve the consumer, who, to appropriate an old maxim, “knows best”. -->
-</section>
-<section id="section-7" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>Should journalists serve consumers, who sustain journalism through their purchasing power? Or should journalists serve citizens who occupy a central role in the conception of journalism as a form of public service?</p>
-</blockquote>
-</section>
-<section id="section-8" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>As audiences fragment and choices proliferate, journalistic standards are driven down due to the ease of delivering low-cost, softer news (…). The market drastically under-produces content that is in the public interest, such as investigative journalism, because of the risk and expense involved, and also because it has difficulty finding (and sustaining) large audiences (…). Thus, journalism in the public interest may be curtailed because it fails to be commercially attractive.</p>
-</blockquote>
-</section>
-<section id="section-9" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>[…] what audiences <em>want</em> and what they <em>need</em> are qualitatively different things. The former is driven by individual market impulses, the latter by acknowledgement of the needs of a thriving democracy.</p>
-</blockquote>
-</section>
-<section id="section-10" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>[…] the professional journalist has greater expertise and authority to determine what information is in the public interest than the public can themselves. […] What does it mean to be “professional”?</p>
-</blockquote>
-</section>
-<section id="section-11" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>It is clear […] that the changing media landscape is increasingly challenging journalism’s monopoly over news dissemination. […] The digital age is characterized by a transformation of power relations, where power shifts “away from the professional and towards the layperson”.</p>
-</blockquote>
-</section>
-<section id="section-12" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>In collecting and reporting quantifiable, accurate, and immediate feedback from the audience—the audience communicating, in a way, what it wants—Web analytics presents journalists the possibility of audience-centered decision-making.</p>
-</blockquote>
-</section>
-<section id="section-13" class="slide level2 center smaller">
-<h2></h2>
-<blockquote>
-<p>Recognition of communal needs is set aside in the name of an unreflexive celebration of choice.</p>
-</blockquote>
-<div class="fragment">
-<blockquote>
-<p>The public, under such a model, is little more than a constellation of individuals seeking out the information they want on the platform of their preference from a provider of their choosing—and news organizations, exposed to the quantified preferences of the audience, submit to this audiencecentric logic.</p>
-</blockquote>
-</div>
-<div class="fragment">
-<blockquote>
-<p>Finally, journalists must continue preserving their editorial autonomy if they are to meet these functions that come with the communitarian role of journalism.</p>
-</blockquote>
-</div>
-</section>
-<section id="section-14" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>[…] journalistic suspicions of audiences legitimize and entrench a status quo governed by elite power, advocating a transformation of the journalist–audience relationship away from the “‘we write, you read’ dogma of modern journalism.” The normative assumptions guiding such arguments are that paternalism is an undesirable moral trait (though it is not) and that audiences are capable of <em>consistently</em> and <em>precisely</em> determining what is in their interests (though they are not).</p>
-</blockquote>
-</section>
-<section id="section-15" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>In an age where news media outlets are increasingly being asked to do more with less, it is not too difficult to imagine a journalistic environment where media outlets harness Web analytics to pursue issues that satisfy the bottom line and deliver low-cost, low-risk, low-need “information” to a restless public rather than the more expensive, time-consuming public affairs journalism that may (at least, at first) struggle to find a commercial audience. But journalism serves a purpose <em>above</em> and <em>beyond</em> its immediate commercial audience.</p>
-</blockquote>
-</section>
-<section id="section-16" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>Online news is far different from traditional news. It no longer makes sense to speak of a deadline, for every minute is an expiration date online. […] news work is no longer confined within the space of one’s news website but now also includes social media sites such as Facebook and Twitter[, and thus] journalists are further pulled away from opportunities to pause, think twice, and re-examine their day-to-day (or even minute-by-minute) actions.</p>
-</blockquote>
-</section>
-<section id="section-17" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>[…] choosing to reflect and act on both what the audience wants <span class="highlighted fragment">and does not want</span>, understanding why and assessing whether the latter is something the audience needs, is considering choice as means to a more worthy end.</p>
-</blockquote>
-</section>
-<section id="section-18" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>We know why stories about celebrities get a lot of clicks. But why do other stories we editorially consider as more important not attract traffic? The market cannot be trusted to provide what the audience needs (Baker 2002), but nor can the audience be trusted to always know what it needs. This is especially so in a period of information overload.</p>
-</blockquote>
-</section>
-<section id="section-19" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>The role [of journalism] should be about understanding what the audience wants and how journalists can take that information and balance this against what the audience needs. […] A journalist conscious of what journalism ought to be will use access to this information about audience preferences in constructing important realities into versions that the audience can appreciate.</p>
-</blockquote>
-</section>
-<section id="section-20" class="slide level2 center">
-<h2></h2>
-<blockquote>
-<p>[…] when subjected to the totalizing logic of the market, the use of Web analytics has the potential to lock journalism into a race toward the lowest common denominator, <span class="highlighted">ghettoizing citizens into bundles based on narrow preferences and predilections rather than drawing them into a community</span>. […] “As this media segmentation advances, people will not develop any common fund of knowledge. They will become unable to engage in civic talk; they will have nothing to say to each other. Any common public sphere will wither and die” (Baker 1998, 365).</p>
-</blockquote>
-</section>
-<section id="section-21" class="slide level2 center">
-<h2></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ef9QnZVpVd8?start=49" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</section>
+<ol type="1">
+<li>Define/identify critical few measures</li>
+<li>Measure them</li>
+<li>Analyse</li>
+<li>Take action
+<ul>
+<li>nothing to act on? <span class="fragment" style="color:var(--red);font-weight:bold;">WRONG METRIC</span></li>
+<li>after action <span class="fragment" style="color:var(--green);font-weight:bold"> HOW TO IMPROVE ?</span></li>
+</ul></li>
+</ol>
+</section></section>
     </div>
   </div>
 

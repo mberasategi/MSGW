@@ -9,120 +9,170 @@ css: style.css
 color: "#CA694A"
 ...
 
-## {.center .smallest}
+# Web Analytics 101 {data-background-color="var(--main-color)"}
 
-<!-- https://www.slideshare.net/glinskiii/introduction-to-web-analytics-for-journalists
+---
 
-J analytics w Tableau https://www.youtube.com/playlist?list=PL_qx68DwhYA8tlYkA0zOBS0gev76BYi8m -->
+- identify What constitutes success
+- identify a few critical metrics to measure results
 
-All quotes from Tandoc Jr., Edson C. and Ryan J. Thomas (2015), "The ethics of web analytics: implications of using audience metrics in news construction" in _Digital Journalism_ vol.3, No.2, pags.243-258 <code>doi: [10.1080/21670811.2014.909122](https://doi.org/10.1080/21670811.2014.909122)</code>
+---
 
-## {.center}
+## Sources of data 
 
->Web analytics initially served the needs of online marketing by keeping track of metrics that lead to <span class="highlighted fragment">conversion</span>, usually defined as an online purchase.
+<table style="font-size:.8em;" class="small">
+    <tr>
+        <th>Server logs</th>
+        <th> </th>
+        <th>Page tags</th>
+    </tr>
+    <tr>
+        <td>
 
-<div class="fragment">
->[...] conversion in the online journalism setting is very different.
-</div>
+>- data ownership
+>- direct register to database
+>- determine whether downloads are completed
+>- measure traffic from bots and spiders
 
-## {.center}
+</td><td style="vertical-align: middle;background-color:var(--green);color:white;"><i class="fa fa-check-circle"></i></td><td style="vertical-align: middle;">
 
->[...] while the concept of conversion &ndash;the ultimate goal of Web analytics&ndash; is clear and straightforward in the field of marketing where it simply means consumer purchase, the concept is muddy and contentious in the field of journalism, which balances its public service role with its economic function as a forum for advertising.
+>- precision
+>- reports generate fast
+>- flexibility: variables
+
+</td></tr><tr><td style="vertical-align: middle;">
+
+>- proxy caching
+>- browser caching
+>- time it takes to generate reports
+>- bots, spiders, trackers
+
+</td><td style="vertical-align: middle;background-color:var(--red);color:white"><i class="fa fa-minus-circle"></i></td><td>
+
+>- Javascript and cookie dependant
+>- needs to be added to all pages
+>- complex implementation
+>- performance
+>- data ownership
+
+</td></tr></table>
 
 
-<!-- ## {.center}
+# Basic terminology {data-background-color="var(--main-color)"}
 
->The kind of press needed by a democracy, then, is one that helps to “cultivate
-social spaces for public dialogue” (Croteau and Hoynes 2001, 20). Journalism draws disparate groups into a community. -->
+##  A small group of mostly useless terms
 
-## {.center}
+>- hit
+>- click-through / CTR
 
->The audience has evolved to the point where audience members can choose, promote, and even disseminate information beyond the control of the newsroom and thus potentially set the news agenda.
+<figure style="margin-top:3em;"><figcaption>Source: Eric T. Petereson, <em>Web Analytics Demystified</em></figcaption></figure>
 
-## {.center}
+## A slightly larger group of useful but confusing terms
 
->[...] journalists relied on abstract conceptions of an audience [...] constructed by institutions with vested interest in providing a particular profile of the audience, such as advertisers and media companies (...). But an implication of treating the audience as such is the depersonalization of the audience, defining the audience as a passive mass, as merely products to be sold (...). The audience, however, has changed dramatically and describing them as passive is no longer accurate.
+>- page view
+>- visit
+>- visitor / unique user
+>- referrer
 
-## {.center}
+## A medium-sized group of truly useful terms
 
->The imagined audience is now based on accurate, comprehensive, albeit still incomplete, information about the actual audience. The pieces of information that Web analytics provide can allow journalists to accurately <span class="highlighted fragment">segment</span> their audiences.
+>- conversion rate
+>- abandon rate / attrition
+>- loyalty
+>- frequency
+>- recency
 
-## {.center}
+## The pyramid model of web analytics data
 
->A click-based segmentation of the online audience disregards other considerations, and also falls into the trap of giving what the audience wants at the expense of what the public needs.
+![](img/data-pyramid.png){width="500"}
 
-<!-- ## {.center}
+# An introduction to the customer life cycle  {data-background-color="var(--main-color)"}
 
->[...] the use of Web analytics has the potential to lock journalism into a race toward the lowest common denominator, ghettoizing citizens into bundles based on narrow preferences and predilections rather than drawing them into a community. -->
+##
 
-<!-- ## {.center}
+>1. reach
+>2. acquisition
+>3. conversion
+>4. retention
 
->choice [...] an intrinsic good [...]; the consumer as a rational agent exercising discretion and good judgment in a market economy. The role of the producer, therefore, is to serve the consumer, who, to appropriate an old maxim, “knows best”. -->
+# Four attributes of great metrics {data-background-color="var(--main-color)"}
 
-## {.center}
+## Uncomplex
 
->Should journalists serve consumers, who sustain journalism through their purchasing power? Or should journalists serve citizens who occupy a central role in the conception of journalism as a form of public service?
+Needs to be understood by everyone participating in the decision-making process.
 
-## {.center}
+## Relevant
 
->As audiences fragment and choices proliferate, journalistic standards are driven  down due to the ease of delivering low-cost, softer news (...). The market drastically under-produces content that is in the public interest, such as investigative journalism, because of the risk and expense involved, and also because it has difficulty finding (and sustaining) large audiences (...). Thus, journalism in the public interest may be curtailed because it fails to be commercially attractive.
+The most appropriate metrics are specific to each business or organization, dependant on its business model, priorities, rest of online activities...
 
-## {.center}
+## Timely
 
->[...] what audiences _want_ and what they _need_ are qualitatively different things. The former is driven by individual market impulses, the latter by acknowledgement of the needs of a thriving democracy.
+Need to be provided in a timely fashion so that business decisions can be made on time.
 
-## {.center}
+This is not necessarily real-time: data needs to be collected, analyzed, and metrics provided with insight, all in a timely manner.
 
->[...] the professional journalist has greater expertise and authority to determine what information is in the public interest than the public can themselves. [...] What does it mean to be “professional”?
+## "Instantly useful"
 
-## {.center}
+This is when you understand quickly what the metric is, and you can find the first hint of insight as soon as you look at it.
 
->It is clear [...] that the changing media landscape is increasingly challenging journalism’s monopoly over news dissemination. [...] The digital age is characterized by a transformation of power relations, where power shifts “away from the professional and towards the layperson”.
+<!-- EXAMPLE? -->
 
-## {.center}
 
->In collecting and reporting quantifiable, accurate, and immediate feedback from the audience—the audience communicating, in a way, what it wants—Web analytics presents journalists the possibility of audience-centered decision-making.
+# Simplifying web analytics {data-background-color="var(--main-color)"}
 
-## {.center .smaller}
+## 
 
->Recognition of communal needs is set aside in the name of an unreflexive celebration of choice. 
+Web analytics  
+<span style="font-size:2em;">is complex.</span>
 
-<div class="fragment">
->The public, under such a model, is little more than a constellation of individuals seeking out the information they want on the platform of their preference from a provider of their choosing—and news organizations, exposed to the quantified preferences of the audience, submit to this audiencecentric logic. 
-</div>
+## 1. Get the primitive basics out of the way
 
-<div class="fragment">
->Finally, journalists must continue preserving their editorial autonomy if they are to meet these functions that come with the communitarian role of journalism.
-</div>
+![](img/basics.png)
 
-## {.center}
+- visits, page views, avg time on site, % new visits
+- **next**, look at trends: over the last month / few months, this month compared to last month, to the same month last year
 
->[...] journalistic suspicions of audiences legitimize and entrench a status quo governed by elite power, advocating a transformation of the journalist–audience relationship away from the “‘we write, you read’ dogma of modern journalism.” The normative assumptions guiding such arguments are that paternalism is an undesirable moral trait (though it is not) and that audiences are capable of _consistently_ and _precisely_ determining what is in their interests (though they are not).
+## 2. Understand traffic sources
 
-## {.center}
+![](img/sources.png)
 
->In an age where news media outlets are increasingly being asked to do more with less, it is not too difficult to imagine a journalistic environment where media outlets harness Web analytics to pursue issues that satisfy the bottom line and deliver low-cost, low-risk, low-need “information” to a restless public rather than the more expensive, time-consuming public affairs journalism that may (at least, at first) struggle to find a commercial audience. But journalism serves a purpose _above_ and _beyond_ its immediate commercial audience.
 
-## {.center}
+- where do people come from? Direct, referring URLs, search engines, others (social media)
+- **next**, look at trends: where is growth coming in the last few months (free/paid)? Dig down on specific sites and keywords
 
->Online news is far different from traditional news. It no longer makes sense to speak of a deadline, for every minute is an expiration date online. [...] news work is no longer confined within the space of one’s news website but now also includes social media sites such as Facebook and Twitter[, and thus] journalists are further pulled away from opportunities to pause, think twice, and re-examine their day-to-day (or even minute-by-minute) actions.
+## 3. Fix stuff / Save money
 
-## {.center}
+![](img/fix-things.png)
 
->[...] choosing to reflect and act on both what the audience wants <span class="highlighted fragment">and does not want</span>, understanding why and assessing whether the latter is something the audience needs, is considering choice as means to a more worthy end.
 
-## {.center}
+- look at the bounce rate for the top entry pages, for keywords (intent). single page view sessions and where they happen
+- **next**, fix pages in question, A/B testing, rationalize investment in poorly performing keywords
 
->We know why stories about celebrities get a lot of clicks. But why do other stories we editorially consider as more important not attract traffic? The market cannot be trusted to provide what the audience needs (Baker 2002), but nor can the audience be trusted to always know what it needs. This is especially so in a period of information overload.
+<!-- ## 4. Site overlay -->
 
-## {.center}
+## 4. Focus on outcomes {data-transition="slide-in fade-out"}
 
->The role [of journalism] should be about understanding what the audience wants and how journalists can take that information and balance this against what the audience needs. [...] A journalist conscious of what journalism ought to be will use access to this information about audience preferences in constructing important realities into versions that the audience can appreciate.
+![](img/outcomes1.png)
 
-## {.center}
+## 4. Focus on outcomes {data-transition="fade"}
 
->[...] when subjected to the totalizing logic of the market, the use of Web analytics has the potential to lock journalism into a race toward the lowest common denominator, <span class="highlighted">ghettoizing citizens into bundles based on narrow preferences and predilections rather than drawing them into a community</span>. [...] “As this media segmentation advances, people will not develop any common fund of knowledge. They will become unable to engage in civic talk; they will have nothing to say to each other. Any common public sphere will wither and die” (Baker 1998, 365).
+![](img/outcomes2.png)
 
-## {.center}
+## 4. Focus on outcomes {data-transition="fade-in slide-out"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ef9QnZVpVd8?start=49" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](img/outcomes3.png)
+
+
+- focus on 2/3 key metrics that are significant as outcome. Visitors are coming to the site, but is it having any impact in you?
+- **next**, segment site traffic: paid / organic, new / returning ...
+
+# Analytics metrics lifecycle process {data-background-color="var(--main-color)"}
+
+##
+
+1. Define/identify critical few measures
+2. Measure them
+3. Analyse
+4. Take action
+    - nothing to act on? <span class="fragment" style="color:var(--red);font-weight:bold;">WRONG METRIC</span>
+    - after action <span class="fragment" style="color:var(--green);font-weight:bold"> HOW TO IMPROVE ?</span>
